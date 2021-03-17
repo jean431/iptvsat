@@ -1,0 +1,133 @@
+#EXTM3U
+ #EXTINF:-1 tvg-id="" tvg-name="Mbc 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MBC_1.svg/300px-MBC_1.svg.png"group-title="Mauritius",Mbc 1
+http://dsnwrs2xc3lfb.cloudfront.net/live/test1/index.m3u8
+#EXTM3U
+ #EXTINF:-1 tvg-id="" tvg-name="Mbc 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/MBC_2.png" group-title="Mauritius",Mbc 2
+http://d2zie4cm15oava.cloudfront.net/live/test1/index.m3u8
+#EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="Mbc 3" tvg-logo="https://www.telearabiapro.tv/wp-content/uploads/2018/09/mbc-3.png" group-title="Mauritius",Mbc 3
+http://d25q180tbz3o9y.cloudfront.net/live/test1/index.m3u8
+#EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="Cine 12" tvg-logo="https://alchetron.com/cdn/cin-12-fcb05012-4229-4957-a5ba-1ca02b21a3e-resize-750.jpg" group-title="Mauritius", Cine 12
+http://dkso84gbsmzh2.cloudfront.net/live/test1/index.m3u8
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="Sport Channel" tvg-logo="https://imgstatic.myt.mu/assets/img/watchtv/logos_300/sports11.png" group-title="Mauritius",Sport Channel
+http://de51d013w5xfe.cloudfront.net/live/test1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://i.imgur.com/Y2C6vP7.png" group-title="Géneralistes",TF1
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/tech_tf1_ott_mobile-155120/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://i.imgur.com/qFLq6lE.png" group-title="Géneralistes",TF1 Series Films
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Géneralistes",Antenne Reunion
+http://41.213.128.196/ANT-REUNION2-HLS/ANT-REUNION2-HLS.m3u8?localization=ZEOP01
+#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Religion",KTO
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Stormcast Novelas TV" tvg-logo="https://i.imgur.com/WpQ3N82.png" group-title="Géneralistes",Stormcast Novelas TV
+https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV Telenovela" tvg-id="5f914f9dccb4de0007df8bc4" group-title="Géneralistes" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png",Pluto TV Telenovela
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="Drama Movies" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="FRANCE",Drama Movies
+https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EMCI TV" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="Religion",EMCI TV
+https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Géneralistes",Euronews
+https://alchimie-euronews-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="FRANCE",Family Movies
+https://rakuten-family-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://i.imgur.com/s9BIeQ8.png" group-title="Géneralistes",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://i.imgur.com/yJ5JRAK.png" group-title="Géneralistes",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-name="Plus Belle La Vie" tvg-id="5f8ed5fba4ffb8000764ea01" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed5fba4ffb8000764ea01/colorLogoPNG.png",Plus Belle La Vie
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed5fba4ffb8000764ea01/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="MTV CLASSICS" tvg-id="5f92b56a367e170007cd43f4" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png",MTV CLASSICS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Bob l'éponge" tvg-id="5ffc8c345822750007e167de" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png",Bob l'éponge
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffc8c345822750007e167de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Action" tvg-id="5f8ed1ff5c39700007e2204a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png",Pluto TV Action
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Animé All Day" tvg-id="5f8ed52a62fa750007733239" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8ed52a62fa750007733239/colorLogoPNG.png",Pluto TV Animé All Day
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed52a62fa750007733239/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Ciné" tvg-id="5f8ed0f17564a300082b676a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png",Pluto TV Ciné
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed0f17564a300082b676a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Ciné Rétro" tvg-id="5f8ed168f72fcd0007e56269" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png",Pluto TV Ciné Rétro
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed168f72fcd0007e56269/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Comédie" tvg-id="5f8eb91bb9b9e7000817e67f" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png",Pluto TV Comédie
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb9b9e7000817e67f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Crime" tvg-id="5f8ed4dbf6bb0800071ffbcb" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png",Pluto TV Crime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed4dbf6bb0800071ffbcb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Cuisine" tvg-id="5f8ed48146ba9e00078424b6" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png",Pluto TV Cuisine
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Drama" tvg-id="5f8ed2d1c34c2300073bf02c" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png",Pluto TV Drama
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Extrême" tvg-id="5f8ed327f9e9b0000761141e" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png",Pluto TV Extrême
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Inside" tvg-id="5f8ed3892ed7bb000741a1d2" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png",Pluto TV Inside
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Investigation" tvg-id="5f914f4b36d67d0007a91a04" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png",Pluto TV Investigation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Junior" tvg-id="5f8ecb336537e8000764a17f" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png",Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Kids Animation" tvg-id="5f8eba14a4ffb8000764e950" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png",Pluto TV Kids Animation
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eba14a4ffb8000764e950/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Kids Collection" tvg-id="5f92b625c1ffbc0007e60c37" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f92b625c1ffbc0007e60c37/colorLogoPNG.png",Pluto TV Kids Collection
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Kids Séries" tvg-id="5f8eb99ff17815000784a3b0" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG.png",Pluto TV Kids Séries
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb99ff17815000784a3b0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Nature - github.com/Free-IPTV" tvg-id="5f8ed58b2db26f0007b4aa73" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed58b2db26f0007b4aa73/colorLogoPNG.png",Pluto TV Nature - github.com/Free-IPTV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" tvg-id="5f8ed9461b35690007a0bc3a" group-title="FRANCE PLUTO" tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png",Pluto TV Paranormal
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-name="Pluto TV TEEN SERIES" tvg-id="5f8eb7e3d2ed18000746d09a" group-title="Enfant" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png",Pluto TV TEEN SERIES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb7e3d2ed18000746d09a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Géneralistes",France 24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LCI" tvg-logo="https://i.imgur.com/6VzdKEa.png" group-title="Géneralistes",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Géneralistes",TV5 Monde Info
+https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RMC-Decouvert" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/1024px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="Géneralistes",RMC-Decouvert
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RMC-Story" tvg-logo="https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/medias-tele/la-chaine-numero-23-sest-rebaptisee-rmc-story-3746462/49954682-1-fre-FR/La-chaine-Numero-23-s-est-rebaptisee-RMC-Story.jpg"group-title="Géneralistes",RMC-Story
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/numero23-850465/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="L'equipe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_L%27%C3%89quipe_21.svg/2065px-Logo_L%27%C3%89quipe_21.svg.png" groupe-title="Géneralistes",L'equipe 21
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/equipe21-850463/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TMA" tvg-logo="https://i.imgur.com/qgNyto3.jpg" group-title="Géneralistes",TMA
+http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Passion Fiction" tvg-logo="https://i.imgur.com/lS8tTMV.png" group-title="FRANCE",Passion Fiction
+https://endemol-passionfiction-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Fuel TV" tvg-name="" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="FRANCE",Fuel TV
+https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Generations TV" tvg-logo="https://i.imgur.com/daUGyPl.jpg" group-title="FRANCE",Generations TV
+https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+#EXTINF:-1 tvg-id="" tvg-name="Nrj12" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/NRJ_12_logo_2015.svg/1200px-NRJ_12_logo_2015.svg.png" group-title="Géneralistes",Nrj12
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lcp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png" group-title="Géneralistes",Lcp
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/lcplive-22828/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/kUmPbel.jpg" group-title="Enfant",Supertoons TV
+https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sofy TV" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="FRANCE",Sofy TV
+https://sofytv-samsungfr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONE GOLF" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="Géneralistes",ONE GOLF
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Classical Harmony" tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="FRANCE",Classical Harmony
+https://alchimie-classical-harmony-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="FRANCE",Comedy Movies
+https://rakuten-comedymovies-7-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="FRANCE",People are Awesome
+https://jukin-peopleareawesome-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://i.pinimg.com/originals/92/3d/da/923dda25656e55cf0142dd60420fff1f.png" group-title="Enfant",Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="6ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="Géneralistes",6ter
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/6ter-850445/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Enfant",Boing
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boing_live/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Enfant",Boomerang
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO5/hls/live/Boomerang_live/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="Géneralistes",M6
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/m6-23835/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="Géneralistes",Rtl9
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/live/Rtl9_live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="Géneralistes",W9
+http://cdn.webtv4.cdnfr.orange.fr/hs/HALO4/hls/w9live-37153/hls/index.m3u8
+
+
