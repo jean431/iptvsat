@@ -237,3 +237,36 @@ http://stream.tvtap.live:8081/live/fr-ushuaiatv.stream/playlist.m3u8?wmsAuthSign
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="FILM FR",Mulan
 http://stream.youp.lol/v/vMEmvfhCnuogg26mTxD50v0kE3u.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dictator" tvg-logo="https://e7.pngegg.com/pngimages/249/837/png-clipart-aladeen-film-poster-dictator-trailer-dictator-label-film-poster.png" group-title="FILM FR",Dictator
+http://stream.youp.lol/a/5kRL5nyuFCaoaztfzcDIC2ECrzy.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool 2" tvg-logo="https://i.pinimg.com/474x/69/c0/c2/69c0c22feb2a0f29b48a0572dd9eef8e.jpg" group-title="FILM FR",Deadpool 2
+http://stream.youp.lol/a/AE9659B9E598AE511135FA312731A.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wild wild west" tvg-logo="https://en.m.wikipedia.org/wiki/File:Wild_wild_west_poster.jpg" group-title="FILM FR",Wild wild west
+http://stream.youp.lol/a/5h5aYuH7xq4S0IPbDMwYxqm9kvs.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Underwater" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Underwater_poster.jpeg/220px-Underwater_poster.jpeg" group-title="FILM FR",Underwater
+http://stream.youp.lol/a/5a1WZ8qgcxw9gLJD7JQVfHeY0NN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Charlie's  Angels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Charlies_Angels_%282000%29_Poster.jpg/220px-Charlies_Angels_%282000%29_Poster.jpg" group-title="FILM FR",Charlie's  Angels
+http://stream.youp.lol/a/AjffVYG9lLpRWNnUmTrtfqZbOsB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Le roi lion" tvg-logo="https://media.vogue.fr/photos/5c2f3f112b0fe3c6c88dcf7a/master/pass/le_roi_lion_2019_4468.jpeg" group-title="FILM FR",Le roi lion
+http://stream.youp.lol/a/Akd4qXv32iCoYRUAuShXKAlY6OL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fast and furious" tvg-logo="https://img.discogs.com/6tBRAeX1o5fAByDHUMTlwh0ctF8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2451221-1284773104.jpeg.jpg" group-title="FILM FR", Fast and furious
+http://stream.youp.lol/a/AkSMd8AXSpA1L1SbBPc2AfVJfmE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Avatar" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg" group-title="FILM FR",Avatar
+http://stream.youp.lol/a/upd6F9IIMbzSl5reXsyMk7xH4Ou.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster & cie" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71Ed5rXQ8BL._SL1500_.jpg" group-title="Anime FR",Monster & cie
+http://stream.youp.lol/a/a99lbMSp4ScGT79FDKJeOEmcZaN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwOTgzMTEyOF5BMl5BanBnXkFtZTgwNTk3MTM5MjI@._V1_.jpg" group-title="FILM FR",Death Note
+http://stream.youp.lol/c/C695467E2D2B936431BB7544B811E.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" group-title="FILM FR",Bad Boys 3
+http://stream.youp.lol/x/xbo43M8kdKK5Ku2oaKDMO9PNyo5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51k0ypuuXEL._SY445_.jpg" group-title="Anime FR",Toy Story
+http://stream.youp.lol/a/4cWLRhub0yY9VJpdw0nqoTPYyiN.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Toy_Story_2.jpg/220px-Toy_Story_2.jpg" group-title="Anime FR",Toy Story 2
+http://stream.youp.lol/l/lDOSztEvyOUdrDO5NVoq4CQ28AL.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 3" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/519fFTj6QnL._AC_.jpg" group-title="Anime FR",Toy Story 3
+http://stream.youp.lol/n/nl55t1nwWaF5uMOuod1J88pS8OT.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Story 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg" group-title="Anime FR",Toy Story 4
+http://stream.youp.lol/q/qWtRA6rfUNm81A7ITDrq6WkfCNy.mp4
+
+
+
