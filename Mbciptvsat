@@ -212,7 +212,7 @@ http://stream.tvtap.live:8081/live/fr-cineplus-emotion.stream/playlist.m3u8?wmsA
 http://stream.tvtap.live:8081/live/fr-cineplus-frisson.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU4OjAwIEFNJmhhc2hfdmFsdWU9ZGU4a2o5amVKVU8xNE1sUmlPNFhPQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="CanalSat",Canal+ Premier
 http://stream.tvtap.live:8081/live/fr-cineplus-premier.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU4OjMyIEFNJmhhc2hfdmFsdWU9Mmt2TkhZaGJkeE9nWkJHUUxRVlBzUT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="Infomation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1200px-Canal_News_logo.svg.png" group-title="Info",Infomation
+#EXTINF:-1 tvg-id="" tvg-name="CNEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/1200px-Canal_News_logo.svg.png" group-title="Infomation",CNEWS
 http://stream.tvtap.live:8081/live/cnews.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU5OjAzIEFNJmhhc2hfdmFsdWU9Uk9Mckw3ZFJRNDNBSStGTUJmdjhWdz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Comedie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Comedie%21_%282008%29.png/1200px-Comedie%21_%282008%29.png" group-title="Géneralistes",Comedie
 http://stream.tvtap.live:8081/live/fr-comedieplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU5OjI5IEFNJmhhc2hfdmFsdWU9bEVDYkdSdTNkWk10U1Q3czFPRHhPUT09JnZhbGlkbWludXRlcz0yMA==
