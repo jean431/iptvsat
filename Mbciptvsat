@@ -192,7 +192,7 @@ http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8?wmsAuthSign=
 http://stream.tvtap.live:8081/live/fr-beinmax6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUxOjExIEFNJmhhc2hfdmFsdWU9cjYwd2JWY0JBVjZKUTNtUkhJUG9yZz09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport7" tvg-logo="https://sc.dish.com/shared/images/station-logos/BEIN7.png" group-title="Sport",Beinsport7
 http://stream.tvtap.live:8081/live/fr-beinmax7.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUxOjQyIEFNJmhhc2hfdmFsdWU9ckJUYXJkQ2RaMGJuLzd6bnJ2KzAxQT09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1280px-Logo_C8.svg.png" group-title="CanalSat",C8
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/1280px-Logo_C8.svg.png" group-title="Géneralistes",C8
 http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUyOjIyIEFNJmhhc2hfdmFsdWU9M0FVL1VKTEh4U0JibTNkRXIyR3YvQT09JnZhbGlkbWludXRlcz0yMA==
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/canal-1-logo.png" group-title="CanalSat",Canal+
 http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjUyOjQ5IEFNJmhhc2hfdmFsdWU9REt1azNkWmoycWlTQXl4eDBaY0IzUT09JnZhbGlkbWludXRlcz0yMA==
