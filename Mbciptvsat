@@ -257,6 +257,10 @@ http://stream.youp.lol/a/upd6F9IIMbzSl5reXsyMk7xH4Ou.mp4
 http://stream.youp.lol/a/a99lbMSp4ScGT79FDKJeOEmcZaN.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTUwOTgzMTEyOF5BMl5BanBnXkFtZTgwNTk3MTM5MjI@._V1_.jpg" group-title="FILM FR",Death Note
 http://stream.youp.lol/c/C695467E2D2B936431BB7544B811E.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGE1ZTQ0ZTEtZTEwZS00NWE0LTlmMDUtMTE1ZWJiZTYzZTQ2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg" group-title="FILM FR",Bad Boys
+http://stream.youp.lol/b/Bad%20Boys%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Boys 2" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/2165/2165194_so.jpg" group-title="FILM FR",Bad Boys 2
+http://stream.youp.lol/b/Bad%20Boys%20II%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bad Boys 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Bad_Boys_for_Life_poster.jpg" group-title="FILM FR",Bad Boys 3
 http://stream.youp.lol/x/xbo43M8kdKK5Ku2oaKDMO9PNyo5.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Toy Story" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51k0ypuuXEL._SY445_.jpg" group-title="Anime FR",Toy Story
@@ -267,6 +271,29 @@ http://stream.youp.lol/l/lDOSztEvyOUdrDO5NVoq4CQ28AL.mp4
 http://stream.youp.lol/n/nl55t1nwWaF5uMOuod1J88pS8OT.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Toy Story 4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_.jpg" group-title="Anime FR",Toy Story 4
 http://stream.youp.lol/q/qWtRA6rfUNm81A7ITDrq6WkfCNy.mp4
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Tomb Raider" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3M2M5MzAtMTdhMC00YzlmLWJiNWUtMTNmMzkxYjA5MjcyXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg" group-title="FILM FR",Tomb Raider
+http://stream.youp.lol/i/ltOkXWOYZoYstuKrMq44yogotHp.mp4
+#EXTINF:-1 tvg-id="" tvg-name="24H To Live" tvg-logo="https://en.m.wikipedia.org/wiki/File:24_Hours_to_Live_poster.jpg" group-title="FILM FR",24H To Live
+http://stream.youp.lol/c/CB1BE12C9B12D73717D6412B33B32.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Rider" tvg-logo="https://i.pinimg.com/originals/4b/22/8f/4b228fc6f2674f7eb7c48af2c6cbf323.jpg" group-title="FILM FR",Ghost Rider
+http://stream.youp.lol/g/Ghost%20Rider%20%20LEsprit%20de%20Vengeance%20(Ghost%20Rider%20Spirit%20of%20Vengeance).mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Panther" tvg-logo="https://cdn.vox-cdn.com/thumbor/2R6bmgaN0fyROVraMAFV5JF6hMc=/0x0:1280x868/1200x800/filters:focal(275x168:479x372)/cdn.vox-cdn.com/uploads/chorus_image/image/65072099/r2djqbogxj0hr50vhbky.9.jpg" group-title="FILM FR",Black Panther
+http://stream.youp.lol/b/Black%20Panther.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dardevil" tvg-logo="https://i.pinimg.com/236x/fe/3d/8d/fe3d8d94e22d520dc26342966687f47d--netflix-daredevil-marvels-daredevil.jpg" group-title="FILM FR",Dardevil
+http://stream.youp.lol/d/Daredevil%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Bad Guy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/83/The_Bad_Guys_-_Reign_of_Chaos.jpg" group-title="FILM FR",The Bad Guy
+http://stream.youp.lol/s/sH67I2kxqzpUXEQqmLl6HlAUeHM.mp4
+#EXTINF:-1 tvg-id="" tvg-name="World War Z" tvg-logo="https://en.m.wikipedia.org/wiki/File:World_War_Z_poster.jpg" group-title="FILM FR",World War Z
+http://stream.youp.lol/c/cOWcEXqfrkVBzYTeARow69LCY6C.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Predator" tvg-logo="https://miro.medium.com/max/1838/1*JtRMzB-gDPDDRk7COonxGg.jpeg" group-title="FILM FR",The Predator
+http://stream.youp.lol/f/FBA45B814CF97E7DF218BE5358474.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTc1ZWY0ZTEtZTVmNi00MTg0LTg4NmQtZTI4OWNiMmQ0MWZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY1200_CR122,0,630,1200_AL_.jpg" group-title="FILM FR",Hellboy
+http://stream.youp.lol/h/Hellboy.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hellboy 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Hellboy_2_poster.jpg/220px-Hellboy_2_poster.jpg" group-title="FILM FR",Hellboy 2
+http://stream.youp.lol/h/Hellboy%20II%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INTO THE BLUE" tvg-logo="https://i.pinimg.com/originals/90/64/1f/90641f667592acd3114f6b2e060f8357.jpg" group-title="FILM FR",INTO THE BLUE
+http://stream.youp.lol/h/hNYEvfFEI00pbb3nSsFqFuyhl3l.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day" tvg-logo="https://c8.alamy.com/comp/EFACJT/movie-poster-independence-day-1996-EFACJT.jpg" group-title="FILM FR",Independence Day
+http://stream.youp.lol/i/Independence%20Day%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day 2" tvg-logo="http://4.bp.blogspot.com/-d8_n3NBqTLQ/Vm3103qp_aI/AAAAAAAAACM/Aki4C3_kjoM/s1600/Independence-Day-2-Poster-Teaser.jpg" group-title="FILM FR",Independence Day 2
+http://stream.youp.lol/i/independence%20day%202.mp4
