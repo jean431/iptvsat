@@ -121,7 +121,7 @@ https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Stormcast Novelas TV" tvg-logo="https://i.imgur.com/WpQ3N82.png" group-title="CanalSAT",Stormcast Novelas TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5f914f9dccb4de0007df8bc4" tvg-name="Telenovela" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title=" CanalSAT",Telenovela
+#EXTINF:-1 tvg-id="5f914f9dccb4de0007df8bc4" tvg-name="Telenovela" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="CanalSAT",Telenovela
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="Drama Movies" tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="FRANCE",Drama Movies
 https://rakuten-tvshows-7-fr.samsung.wurl.com/manifest/playlist.m3u8
@@ -232,11 +232,11 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:-1tvg-id="" tvg-name="Vevo Pop (US)" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MUSIC",Vevo Pop (US)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-name="Jonh Wick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="FILM FR",John Wick
+#EXTINF:-1 tvg-id="" tvg-name="John Wick" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg" group-title="FILM FR",John Wick
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20(2014).mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jonh Wick 2" tvg-logo="https://i.pinimg.com/originals/4c/10/bf/4c10bf923844ea45c49328baaf3f8a6f.jpg" group-title="FILM FR",John Wick 2
+#EXTINF:-1 tvg-id="" tvg-name="JohnWick 2" tvg-logo="https://i.pinimg.com/originals/4c/10/bf/4c10bf923844ea45c49328baaf3f8a6f.jpg" group-title="FILM FR",John Wick 2
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%202%20(2017).mkv
-#EXTINF:-1 tvg-id="" tvg-name="Jonh WickParabellum" tvg-logo="https://i.pinimg.com/originals/0d/b5/9c/0db59c3ee9261d24da50ac8c4e5ccd3e.jpg" group-title="FILM FR",John Wick Parabellum
+#EXTINF:-1 tvg-id="" tvg-name="JohnWick Parabellum" tvg-logo="https://i.pinimg.com/originals/0d/b5/9c/0db59c3ee9261d24da50ac8c4e5ccd3e.jpg" group-title="FILM FR",John Wick Parabellum
 http://188.165.227.112/portail/films/John%20Wick%20-%20Saga/John%20Wick%20-%20Parabellum%20(2019).mkv
 #EXTINF:-1 tvg-id="" tvg-name="Mulan" tvg-logo="https://i.pinimg.com/originals/57/db/18/57db18b1ce912844b18a8fb6ec025d26.png" group-title="FILM FR",Mulan
 http://stream.youp.lol/v/vMEmvfhCnuogg26mTxD50v0kE3u.mp4
