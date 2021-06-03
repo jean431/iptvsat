@@ -377,3 +377,7 @@ https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1tvg-id="" tvg-name="Vevo Pop (US)" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="MUSIC",Vevo Pop (US)
 https://5dcc6a2840dfd15e7f8518ef-s-3.ssai.zype.com/5dcc6a2840dfd15e7f8518ef-s-3/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Alita Battle Angel"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png" group-title="Action-",Alita Battle Angel
+http://188.165.227.112/portail/films/Alita.Battle.Angel.2019.MULTi.TRUEFRENCH.1080p.HDLight.x264.AC3-EXTREME.mkv
+
