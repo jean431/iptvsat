@@ -26,3 +26,9 @@ http://212.224.98.204:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_PBqAU
 
 #EXTINF:-1 tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title=CanalSat,TF1 Series Films
 http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_q21HlVpInCLK79wT6kfATg%3D%3D%2C1631095168.5305732876
+
+#EXTINF:-1 tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title=CanalSat,Toonami
+http://212.224.98.206:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_LkOAzbks2dTJ48oWxFPh3A%3D%3D%2C1631095702.5305732876
+
+#EXTINF:-1 tvg-name="Manga" tvg-logo="https://w7.pngwing.com/pngs/874/784/png-transparent-logo-mangas-television-channel-tv-logos-television-text-manga.png" group-title=CanalSat,Manga
+http://212.224.98.210:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=RED_61-dVgMJK2QWJx1sK7Qw_Q%3D%3D%2C1631095980.5305732876
