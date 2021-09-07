@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Samsing Tv Plus" tvg-logo="" group-title=Samsung Tv Plus
-https://i.mjh.nz/SamsungTVPlus/fr.m3u8
+#EXTINF:-1 tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title=CanalSat, Boing
+http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
