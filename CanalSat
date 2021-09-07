@@ -14,4 +14,15 @@ http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title=CanalSat,France 5
+
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gulli" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/500px-Logo-Gulli.svg.png" group-title=CanalSat,Gulli
+https://linkastream.co/headless?url=https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
+
+
+#EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title=CanalSat,TF1
+http://212.224.98.204:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_PBqAUG8eTvYs9JMze69yFQ%3D%3D%2C1631094915.5305732876
+
+#EXTINF:-1 tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title=CanalSat,TF1 Series Films
+http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_q21HlVpInCLK79wT6kfATg%3D%3D%2C1631095168.5305732876
