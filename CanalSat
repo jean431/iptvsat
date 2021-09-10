@@ -30,5 +30,5 @@ http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token
 #EXTINF:-1 tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title=CanalSat,Toonami
 http://212.224.98.206:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_LkOAzbks2dTJ48oWxFPh3A%3D%3D%2C1631095702.5305732876
 
-#EXTINF:-1 tvg-name="Manga" tvg-logo="https://w7.pngwing.com/pngs/874/784/png-transparent-logo-mangas-television-channel-tv-logos-television-text-manga.png" group-title=CanalSat,Manga
-http://212.224.98.210:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=RED_61-dVgMJK2QWJx1sK7Qw_Q%3D%3D%2C1631095980.5305732876
+#EXTINF:-1 tvg-name="Snake Eyes" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Snake_Eyes_G.I._Joe_Origins_Movie_Poster.jpg" group-title=Marvel,Snake Eyes
+https://www56.uptobox.com/dl/3dyNmi756q6Few-G9KEIaCDfeKoblNfZ8s5zlNV1lFW4h8G9an_tFCaH_SyvzqlxzR_hJWbNdTYPJcqyFufOnTMnFqH3hWGuLll09EUVXQJaNEzYkJvH_42AM1hapBDLRMRR1QNG0kKef26OM-6y8A/Snake.Eyes.G.I.Joe.Origins.2021.FRENCH.720p.WEB.H264-Wawacity.one.mkv
