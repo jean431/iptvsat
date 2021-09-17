@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title=CanalSat,TF1
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="CanalSat",TF1
 http://212.224.98.204:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_PBqAUG8eTvYs9JMze69yFQ%3D%3D%2C1631094915.5305732876
 
-#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title=CanalSat,TF1 Series Films
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
 http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_q21HlVpInCLK79wT6kfATg%3D%3D%2C1631095168.5305732876
 
-#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title=CanalSat,France 2
+#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title=CanalSat,France 3
+#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="CanalSat",France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1207px-France4-logo.svg.png" group-title=CanalSat,France 4
+#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1207px-France4-logo.svg.png" group-title="CanalSat",France 4
 http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title=CanalSat,France 5
+#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="CanalSat",France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TEVA" tvg-logo=" https://www.kindpng.com/picc/m/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSat",TEVA
@@ -70,7 +70,7 @@ http://185.93.1.39/FRCH_Nickelodeon_HD/tracks-v1a1/mono.m3u8
 http://185.93.1.39/FRCH_Disney_Channel_HD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title=CanalSat,Toonami
+#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title="CanalSat",Toonami
 http://212.224.98.206:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_LkOAzbks2dTJ48oWxFPh3A%3D%3D%2C1631095702.5305732876
 
 
@@ -83,7 +83,7 @@ http://185.180.15.14:2200/EX/MANGA-fr/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/OnAir_Logo_Boomerang_HD_2015.png/640px-OnAir_Logo_Boomerang_HD_2015.png" group-title="CanalSat",BOOMERANG
 http://212.224.98.207:2200/EX/BOOMERANG_FR-fr/tracks-v1a1/mono.m3u8?token=RED_zex-ZGLILfNLodFfo8IKqw%3D%3D%2C1622914890.8995262114
 
-#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title=CanalSat,Boing
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="CanalSat",Boing
 http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CanalSat",Cartoon Network
