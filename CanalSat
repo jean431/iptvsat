@@ -51,7 +51,7 @@ http://185.93.1.39/FRCH_Frissons_TV_HD_CA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ocs MAX" tvg-logo="https://www.acces.tv/wp-content/uploads/2018/07/OCS-max.png" group-title="CanalSat",Ocs MAX
 http://185.93.1.39/FRCH_Ocs_Max_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ocs Geants" tvg-logo="https://entremont.netplus.ch/media/image/0/square/tv-logo-ocs-geants-2.jpg" group-title="Films",Ocs Geants
+#EXTINF:-1 tvg-id="" tvg-name="Ocs Geants" tvg-logo="https://entremont.netplus.ch/media/image/0/square/tv-logo-ocs-geants-2.jpg" group-title="CanalSat",Ocs Geants
 http://185.93.1.39/FRCH_Ocs_Geants_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Ocs City" tvg-logo="https://i.pinimg.com/originals/fb/ca/be/fbcabe97ace60fc2d85ad0b9149aded1.jpg" group-title="CanalSat",Ocs City
