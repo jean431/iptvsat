@@ -116,10 +116,10 @@ http://185.180.15.15:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_3_FR " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="CanalSat",BEINSPORT_3_FR
 http://212.224.98.210:2200/EX/BEINSPORT_3_FR-fr/tracks-v1a1/mono.m3u8?token=null
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein14 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_14.png" group-title="CanalSat",Bein14 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_14 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_14.png" group-title="CanalSat",BEIN_14 HD
 http://212.224.98.206:2200/EX/bein14hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1C_buYPVU-xY6KXbQ%3D%3D%2C1623196924.9172108843
 
-#EXTINF:-1 tvg-id="" tvg-name="Bein15 HD" tvg-logo="https://www.nadirsat.com/Packages_files/HD15-1.png" group-title="CanalSat",Bein15 HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_15 HD" tvg-logo="https://www.nadirsat.com/Packages_files/HD15-1.png" group-title="CanalSat",BEIN_15 HD
 http://212.224.98.210:2200/EX/bein15hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1C_buYPVU-xY6KXbQ%3D%3D%2C1623196924.9172108843
 
 #EXTINF:-1 tvg-id="" tvg-name="AFRO_Music" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",AFRO_Music
