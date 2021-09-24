@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="CanalSat",TF1
-http://212.224.98.204:2200/EX/FR_TF1_HD-fr/tracks-v1a1/mono.m3u8?token=RED_PBqAUG8eTvYs9JMze69yFQ%3D%3D%2C1631094915.5305732876
-
+http://a.mtfxg.xyz:52300/live/fr-tf1/chunks.m3u8?nimblesessionid=414836&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIxIDM6NTk6MTUgUE0maGFzaF92YWx1ZT0rRVk3Y2xodDhqYld5MXBYbUpYN2d3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
 http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_q21HlVpInCLK79wT6kfATg%3D%3D%2C1631095168.5305732876
 
