@@ -5,7 +5,7 @@ http://a.mtfxg.xyz:52300/live/fr-tf1/chunks.m3u8?nimblesessionid=414836&wmsAuthS
 http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_q21HlVpInCLK79wT6kfATg%3D%3D%2C1631095168.5305732876
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
-http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
+http://a.mtfxg.xyz:52300/frn/france2/chunks.m3u8?nimblesessionid=415298&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIxIDQ6MDQ6MTggUE0maGFzaF92YWx1ZT1CdEg2Qk1VQ1hCTENxdk0zVWhtU3hBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="CanalSat",France 3
 http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
