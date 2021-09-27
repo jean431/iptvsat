@@ -17,8 +17,8 @@ http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="CanalSat",France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TEVA" tvg-logo=" https://www.kindpng.com/picc/m/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSat",TEVA
-http://185.180.15.17:2200/EX/FR_TEVA_HD-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo=" https://www.kindpng.com/picc/m/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSat",SYFY
+http://xcchui2.mrnova.online/live/60735_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
 
 #EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_AB3.png" group-title="CanalSat",AB3
 http://flusonic-15.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
