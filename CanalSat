@@ -27,7 +27,7 @@ http://flusonic-15.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
 http://185.93.1.39/FRCH_Action_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="13eme RUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="CanalSat",13eme RUE
-http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15232
+http://xcchui2.mrnova.online/live/60713_1632771718.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="RTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/RTS_1_logo_2019.svg/2560px-RTS_1_logo_2019.svg.png" group-title="CanalSat",RTS 1 HD
 http://185.180.15.17:2200/NL/rtsunhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
