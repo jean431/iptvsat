@@ -5,20 +5,20 @@ http://a.mtfxg.xyz:52300/live/fr-tf1/chunks.m3u8?nimblesessionid=414836&wmsAuthS
 http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_q21HlVpInCLK79wT6kfATg%3D%3D%2C1631095168.5305732876
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
-http://a.mtfxg.xyz:52300/frn/france2/chunks.m3u8?nimblesessionid=415298&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIxIDQ6MDQ6MTggUE0maGFzaF92YWx1ZT1CdEg2Qk1VQ1hCTENxdk0zVWhtU3hBPT0mdmFsaWRtaW51dGVzPTI=
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/143/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="CanalSat",France 3
-http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/144/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1207px-France4-logo.svg.png" group-title="CanalSat",France 4
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/145/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="CanalSat",France 5
-http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/146/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo=" https://www.kindpng.com/picc/m/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSat",SYFY
-http://xcchui2.mrnova.online/live/60735_.m3u8?token=895f557054aa4d5abcedbbf64b46baf4
+#EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-logo=" https://www.kindpng.com/picc/m/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSat",NRJ
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/154/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_AB3.png" group-title="CanalSat",AB3
 http://flusonic-15.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
@@ -38,8 +38,8 @@ http://212.224.98.212:2200/NL/rtsdeuxhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTO
 #EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/1200px-Serieclub_%282012%29.svg.png" group-title="CanalSat",Serie Club
 http://185.180.15.17:2200/EX/FR_SERIE_CLUB_HD-fr/tracks-v1a1/mono.m3u8?token=RED_mV4dSMHOpd1J0AqmUttEqQ%3D%3D%2C1623520265.8126870212
 
-#EXTINF:-1 tvg-id="" tvg-name="Warner Tv" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="CanalSat",Warner Tv
-http://212.224.98.211:2200/EX/FR_WARNER_TV-fr/tracks-v1a1/mono.m3u8?token=RED_pzNUYP99Zb1_I6BiMe00Jw%3D%3D%2C1622238623.7165478160
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="CanalSat",M6
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/147/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CinePOP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Cinepop.svg/999px-Cinepop.svg.png" group-title="CanalSat",CinePOP
 http://185.93.1.39/FRCH_Cinepop_HD_CA/tracks-v1a1/mono.m3u8
