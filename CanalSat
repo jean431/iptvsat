@@ -61,8 +61,8 @@ http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="RTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-title="CanalSat",RTS 2 HD
-http://212.224.98.212:2200/NL/rtsdeuxhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
+#EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-title="CanalSat",Rtl9
+http://a.mtfxg.xyz:52300/frn/rtl9/chunks.m3u8?nimblesessionid=1724277&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMSA3OjI2OjMzIFBNJmhhc2hfdmFsdWU9TU5MZ0V0ZWsyVzBhR0ZncU5Yc1pSZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/1200px-Serieclub_%282012%29.svg.png" group-title="CanalSat",Serie Club
 http://185.180.15.17:2200/EX/FR_SERIE_CLUB_HD-fr/tracks-v1a1/mono.m3u8?token=RED_mV4dSMHOpd1J0AqmUttEqQ%3D%3D%2C1623520265.8126870212
@@ -91,8 +91,8 @@ http://49.12.211.14/goldsfree3/CB73F2D80/14791
 #EXTINF:-1 tvg-id="" tvg-name="Planete CI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSat",Planete CI
 http://49.12.211.14/goldsfree3/CB73F2D80/14787
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon_HD" tvg-logo=" https://png.pngitem.com/pimgs/s/18-181866_dream-logos-wiki-nickelodeon-splat-logo-blank-hd.png" group-title="CanalSat",Nickelodeon_HD
-http://185.93.1.39/FRCH_Nickelodeon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo=" https://png.pngitem.com/pimgs/s/18-181866_dream-logos-wiki-nickelodeon-splat-logo-blank-hd.png" group-title="CanalSat",Action
+http://a.mtfxg.xyz:52300/frn/action/chunks.m3u8?nimblesessionid=1724349&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMSA3OjMwOjQ3IFBNJmhhc2hfdmFsdWU9VkZTV2UvYWloTEdSWjh0TDc4dEt3QT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney_Channel_HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="CanalSat",Disney_Channel_HD
 http://185.93.1.39/FRCH_Disney_Channel_HD/tracks-v1a1/mono.m3u8
