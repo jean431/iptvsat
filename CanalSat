@@ -30,8 +30,8 @@ http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="CanalSat",W9
 http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-name="RTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/RTS_1_logo_2019.svg/2560px-RTS_1_logo_2019.svg.png" group-title="CanalSat",RTS 1 HD
-http://185.180.15.17:2200/NL/rtsunhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
+#EXTINF:-1 tvg-id="" tvg-name="Comedie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/RTS_1_logo_2019.svg/2560px-RTS_1_logo_2019.svg.png" group-title="CanalSat",Comedie
+http://49.12.211.14/goldsfree3/CB73F2D80/14773
 
 #EXTINF:-1 tvg-id="" tvg-name="RTS 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-title="CanalSat",RTS 2 HD
 http://212.224.98.212:2200/NL/rtsdeuxhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
@@ -48,20 +48,20 @@ http://49.12.211.14/goldsfree3/CB73F2D80/14766
 #EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Frissons_TV_New.jpg" group-title="CanalSat",C8
 http://49.12.211.14/goldsfree3/CB73F2D80/14767
 
-#EXTINF:-1 tvg-id="" tvg-name="Ocs MAX" tvg-logo="https://www.acces.tv/wp-content/uploads/2018/07/OCS-max.png" group-title="CanalSat",Ocs MAX
-http://185.93.1.39/FRCH_Ocs_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM" tvg-logo="https://www.acces.tv/wp-content/uploads/2018/07/OCS-max.png" group-title="CanalSat",MCM
+http://49.12.211.14/goldsfree3/CB73F2D80/14782
 
-#EXTINF:-1 tvg-id="" tvg-name="Ocs Geants" tvg-logo="https://entremont.netplus.ch/media/image/0/square/tv-logo-ocs-geants-2.jpg" group-title="CanalSat",Ocs Geants
-http://185.93.1.39/FRCH_Ocs_Geants_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MCM Top" tvg-logo="https://entremont.netplus.ch/media/image/0/square/tv-logo-ocs-geants-2.jpg" group-title="CanalSat",MCM Top
+http://49.12.211.14/goldsfree3/CB73F2D80/14783
 
-#EXTINF:-1 tvg-id="" tvg-name="Ocs City" tvg-logo="https://i.pinimg.com/originals/fb/ca/be/fbcabe97ace60fc2d85ad0b9149aded1.jpg" group-title="CanalSat",Ocs City
-http://185.93.1.39/FRCH_Ocs_City_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://i.pinimg.com/originals/fb/ca/be/fbcabe97ace60fc2d85ad0b9149aded1.jpg" group-title="CanalSat",Paramount Channel
+http://49.12.211.14/goldsfree3/CB73F2D80/14786
 
 #EXTINF:-1 tvg-id="" tvg-name="TV_BREIZH" tvg-logo=" https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/TV_Breizh_logo_2019.svg/1200px-TV_Breizh_logo_2019.svg.png " group-title="CanalSat",TV_BREIZH
 http://49.12.211.14/goldsfree3/CB73F2D80/14791
 
-#EXTINF:-1 tvg-id="" tvg-name="Novelas Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSat",Novelas Tv
-http://212.224.98.208:2200/N-EX/AF_Novelastv_FR-af/tracks-v1a1/mono.m3u8?token=RED_MfxQk2q9nk9seIn1g1eRMg%3D%3D%2C1622940814.8519395813
+#EXTINF:-1 tvg-id="" tvg-name="Planete CI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSat",Planete CI
+http://49.12.211.14/goldsfree3/CB73F2D80/14787
 
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon_HD" tvg-logo=" https://png.pngitem.com/pimgs/s/18-181866_dream-logos-wiki-nickelodeon-splat-logo-blank-hd.png" group-title="CanalSat",Nickelodeon_HD
 http://185.93.1.39/FRCH_Nickelodeon_HD/tracks-v1a1/mono.m3u8
