@@ -3,7 +3,7 @@
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
-http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_q21HlVpInCLK79wT6kfATg%3D%3D%2C1631095168.5305732876
+http://xcchui2.mrnova.online/live/60698_1634560596.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
@@ -42,11 +42,11 @@ http://185.180.15.17:2200/EX/FR_SERIE_CLUB_HD-fr/tracks-v1a1/mono.m3u8?token=RED
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="CanalSat",M6
 http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-name="CinePOP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Cinepop.svg/999px-Cinepop.svg.png" group-title="CanalSat",CinePOP
-http://185.93.1.39/FRCH_Cinepop_HD_CA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Cinepop.svg/999px-Cinepop.svg.png" group-title="CanalSat",AB1
+http://49.12.211.14/goldsfree3/CB73F2D80/14766
 
-#EXTINF:-1 tvg-id="" tvg-name="Frissons TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Frissons_TV_New.jpg" group-title="CanalSat",Frissons TV
-http://185.93.1.39/FRCH_Frissons_TV_HD_CA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Frissons_TV_New.jpg" group-title="CanalSat",C8
+http://49.12.211.14/goldsfree3/CB73F2D80/14767
 
 #EXTINF:-1 tvg-id="" tvg-name="Ocs MAX" tvg-logo="https://www.acces.tv/wp-content/uploads/2018/07/OCS-max.png" group-title="CanalSat",Ocs MAX
 http://185.93.1.39/FRCH_Ocs_Max_HD/tracks-v1a1/mono.m3u8
@@ -58,7 +58,7 @@ http://185.93.1.39/FRCH_Ocs_Geants_HD/tracks-v1a1/mono.m3u8
 http://185.93.1.39/FRCH_Ocs_City_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV_BREIZH" tvg-logo=" https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/TV_Breizh_logo_2019.svg/1200px-TV_Breizh_logo_2019.svg.png " group-title="CanalSat",TV_BREIZH
-http://185.180.15.15:2200/EX/TV_BREIZH-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
+http://49.12.211.14/goldsfree3/CB73F2D80/14791
 
 #EXTINF:-1 tvg-id="" tvg-name="Novelas Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Novelas_TV_-_Logo.png" group-title="CanalSat",Novelas Tv
 http://212.224.98.208:2200/N-EX/AF_Novelastv_FR-af/tracks-v1a1/mono.m3u8?token=RED_MfxQk2q9nk9seIn1g1eRMg%3D%3D%2C1622940814.8519395813
@@ -131,8 +131,8 @@ http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="M6 Music" tvg-logo="https://pbs.twimg.com/profile_images/1130782304111157249/SMnn4khE.png" group-title="CanalSat",M6 Music
 http://212.224.98.208:2200/EX/FR_M6_MUSIC_HD-fr/tracks-v1a1/mono.m3u8?token=RED_H_SR6bOm3avK-_eIr4VRxQ%3D%3D%2C1622837469.0284909331
 
-#EXTINF:-1 tvg-id="" tvg-name="TRACE_URBAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png" group-title="CanalSat",TRACE_URBAN
-http://212.224.98.209:2200/EX/TRACE_URBAN-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
+#EXTINF:-1 tvg-id="" tvg-name="Tmc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png" group-title="CanalSat",Tmc
+http://49.12.211.14/goldsfree3/CB73F2D80/14790
 
 
 
