@@ -3,7 +3,7 @@
 http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
-http://xcchui2.mrnova.online/live/60698_1634560596.ts
+http://xcchui2.mrnova.online/live/60698_1634561639.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
 http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
