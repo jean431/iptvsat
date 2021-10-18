@@ -1,33 +1,34 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="CanalSat",TF1
-http://a.mtfxg.xyz:52300/live/fr-tf1/chunks.m3u8?nimblesessionid=414836&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDIxIDM6NTk6MTUgUE0maGFzaF92YWx1ZT0rRVk3Y2xodDhqYld5MXBYbUpYN2d3PT0mdmFsaWRtaW51dGVzPTI=
+http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
 http://212.224.98.211:2200/EX/TF1_Series_Films_HD-fr/tracks-v1a1/mono.m3u8?token=RED_q21HlVpInCLK79wT6kfATg%3D%3D%2C1631095168.5305732876
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/143/index.m3u8
+http://edge9.iptvnetwork.net/live/france2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="CanalSat",France 3
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/144/index.m3u8
+http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1207px-France4-logo.svg.png" group-title="CanalSat",France 4
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/145/index.m3u8
+http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="CanalSat",France 5
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/146/index.m3u8
+http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NRJ" tvg-logo=" https://www.kindpng.com/picc/m/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSat",NRJ
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/154/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kto" tvg-logo=" https://www.kindpng.com/picc/m/20-205252_teva-logo-png-transparent-png.png" group-title="CanalSat",Kto
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AB3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_AB3.png" group-title="CanalSat",AB3
-http://flusonic-15.platinum-tv.com/AB3/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="France24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_AB3.png" group-title="CanalSat",France24
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSat",Action
-http://185.93.1.39/FRCH_Action_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/ACTION_100%25.001.png/revision/latest?cb=20191026165314" group-title="CanalSat",Cstar
+http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-name="13eme RUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="CanalSat",13eme RUE
-http://xcchui2.mrnova.online/live/60713_1632771718.ts
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="CanalSat",W9
+http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="RTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/RTS_1_logo_2019.svg/2560px-RTS_1_logo_2019.svg.png" group-title="CanalSat",RTS 1 HD
 http://185.180.15.17:2200/NL/rtsunhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTOKxWDjqZvBUHe3GHrw%3D%3D%2C1623608238.4193172929
@@ -39,7 +40,7 @@ http://212.224.98.212:2200/NL/rtsdeuxhd-fr/tracks-v1a1/mono.m3u8?token=RED_k7NTO
 http://185.180.15.17:2200/EX/FR_SERIE_CLUB_HD-fr/tracks-v1a1/mono.m3u8?token=RED_mV4dSMHOpd1J0AqmUttEqQ%3D%3D%2C1623520265.8126870212
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="CanalSat",M6
-http://56.bihourmkras.xyz.global.prod.fastly.net/live/147/index.m3u8
+http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-id="" tvg-name="CinePOP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Cinepop.svg/999px-Cinepop.svg.png" group-title="CanalSat",CinePOP
 http://185.93.1.39/FRCH_Cinepop_HD_CA/tracks-v1a1/mono.m3u8
@@ -85,8 +86,8 @@ http://212.224.98.207:2200/EX/BOOMERANG_FR-fr/tracks-v1a1/mono.m3u8?token=RED_ze
 #EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="CanalSat",Boing
 http://flusonic-1.platinum-tv.com/boing/index.m3u8?token=test
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CanalSat",Cartoon Network
-http://212.224.98.211:2200/EX/CARTOON_NETWORK-fr/tracks-v1a1/mono.m3u8?token=RED_SGEtOt_dtiq_cWp16lPA1Q%3D%3D%2C1622237921.8132941117
+#EXTINF:-1 tvg-id="" tvg-name="Guilli" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="CanalSat",Guilli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="CanalSat",NATGEO
 http://212.224.98.207:2200/EX/NATIONAL_GEOGRAPHIC_FR-fr/tracks-v1a1/mono.m3u8?token=RED_WUmu9PUUCqGvbQFAOcTA1Q%3D%3D%2C1622935784.8227537046
@@ -121,8 +122,8 @@ http://212.224.98.206:2200/EX/bein14hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1
 #EXTINF:-1 tvg-id="" tvg-name="BEIN_15 HD" tvg-logo="https://www.nadirsat.com/Packages_files/HD15-1.png" group-title="CanalSat",BEIN_15 HD
 http://212.224.98.210:2200/EX/bein15hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1C_buYPVU-xY6KXbQ%3D%3D%2C1623196924.9172108843
 
-#EXTINF:-1 tvg-id="" tvg-name="AFRO_Music" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",AFRO_Music
-http://185.180.15.14:2200/N-EX/RAF_AFRO_Music_Swahili-af/tracks-v1a1/mono.m3u8?token=RED_LrmsR0iHzq7yTxjvcfCeKA%3D%3D%2C1623494226.6403457811
+#EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",Wildside Tv
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MDL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSnokeNtQgbcvj7lAsdQb1q0uXT5XWyaWzA&usqp=CAU" group-title="CanalSat",MDL
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
