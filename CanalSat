@@ -13,7 +13,7 @@ http://edge9.iptvnetwork.net/live/france3/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1207px-France4-logo.svg.png" group-title="CanalSat",France 4
-http://edge9.iptvnetwork.net/live/france4/playlist.m3u8
+http://49.12.211.14/goldsfree3/FFF08A623/14778
 
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="CanalSat",France 5
 http://edge9.iptvnetwork.net/live/france5/playlist.m3u8
@@ -40,7 +40,7 @@ http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
-http://49.12.211.14/goldsfree3/CB73F2D80/14769
+http://49.12.211.14/goldsfree3/FFF08A623/14768
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="https://e7.pngegg.com/pngimages/761/980/png-clipart-canal-cinema-france-television-channel-france-television-blue.png" group-title="CanalSAT",Canal+ Cinema
 http://stream.tvtap.live:8081/live/fr-canalplus-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU0OjA3IEFNJmhhc2hfdmFsdWU9ZWlTY1FHQ28vWTkzL0xuZGxBVmVxQT09JnZhbGlkbWludXRlcz0yMA==
@@ -170,6 +170,9 @@ http://212.224.98.208:2200/EX/FR_M6_MUSIC_HD-fr/tracks-v1a1/mono.m3u8?token=RED_
 
 #EXTINF:-1 tvg-id="" tvg-name="Tmc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png" group-title="CanalSat",Tmc
 http://49.12.211.14/goldsfree3/CB73F2D80/14790
+
+
+
 
 
 
