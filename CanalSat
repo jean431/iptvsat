@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="CanalSat",TF1
-http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+http://49.12.211.14/goldsfree3/FFF08A623/14789
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
 http://xcchui2.mrnova.online/live/60698_1634561639.ts
@@ -48,14 +48,14 @@ http://stream.tvtap.live:8081/live/fr-canalplus-cinema.stream/playlist.m3u8?wmsA
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-family.png" group-title="CanalSAT",Canal+ Decale
 http://49.12.211.14/goldsfree3/CB73F2D80/14768
 
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5e708cf5c8d6a14b.2Epng/1200x630/crop-from/top/quality/80/canal-series.png" group-title="CanalSAT",Canal+ Series
 http://49.12.211.14/goldsfree3/CB73F2D80/14770
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CanalSAT",Canal+ Emotion
 http://49.12.211.14/goldsfree3/CB73F2D80/14771
 
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Frisson" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CanalSAT",Canal+ Frisson
-http://stream.tvtap.live:8081/live/fr-cineplus-frisson.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU4OjAwIEFNJmhhc2hfdmFsdWU9ZGU4a2o5amVKVU8xNE1sUmlPNFhPQT09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="CanalSAT",Canal+ Premier
 http://49.12.211.14/goldsfree3/CB73F2D80/14772
@@ -64,7 +64,7 @@ http://49.12.211.14/goldsfree3/CB73F2D80/14772
 http://49.12.211.14/goldsfree3/CB73F2D80/14773
 
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
-http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
+http://49.12.211.14/goldsfree3/FFF08A623/14774
 
 
 
@@ -77,10 +77,10 @@ http://a.mtfxg.xyz:52300/frn/rtl9/chunks.m3u8?nimblesessionid=1724277&wmsAuthSig
 http://185.180.15.17:2200/EX/FR_SERIE_CLUB_HD-fr/tracks-v1a1/mono.m3u8?token=RED_mV4dSMHOpd1J0AqmUttEqQ%3D%3D%2C1623520265.8126870212
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="CanalSat",M6
-http://flusonic-4.platinum-tv.com/M6/mono.m3u8?token=test
+http://49.12.211.14/goldsfree3/FFF08A623/14781
 
 #EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Cinepop.svg/999px-Cinepop.svg.png" group-title="CanalSat",AB1
-http://49.12.211.14/goldsfree3/CB73F2D80/14766
+http://49.12.211.14/goldsfree3/FFF08A623/14766
 
 #EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Frissons_TV_New.jpg" group-title="CanalSat",C8
 http://49.12.211.14/goldsfree3/CB73F2D80/14767
