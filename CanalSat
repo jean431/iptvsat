@@ -40,15 +40,15 @@ http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
-http://49.12.211.14/goldsfree3/FFF08A623/14768
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/361
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="https://e7.pngegg.com/pngimages/761/980/png-clipart-canal-cinema-france-television-channel-france-television-blue.png" group-title="CanalSAT",Canal+ Cinema
-http://stream.tvtap.live:8081/live/fr-canalplus-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDIxIDExOjU0OjA3IEFNJmhhc2hfdmFsdWU9ZWlTY1FHQ28vWTkzL0xuZGxBVmVxQT09JnZhbGlkbWludXRlcz0yMA==
+http://one.dream4ktv.biz:2082/live/DM_Snappyarr/adfsgbhgsvdfv/224131.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-family.png" group-title="CanalSAT",Canal+ Decale
 http://49.12.211.14/goldsfree3/CB73F2D80/14768
 
-
+http://chimeratv.live:25461/live/ftvlive2/iXCcVM4sIF/76.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5e708cf5c8d6a14b.2Epng/1200x630/crop-from/top/quality/80/canal-series.png" group-title="CanalSAT",Canal+ Series
 http://49.12.211.14/goldsfree3/CB73F2D80/14770
@@ -56,9 +56,8 @@ http://49.12.211.14/goldsfree3/CB73F2D80/14770
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CanalSAT",Canal+ Emotion
 http://49.12.211.14/goldsfree3/CB73F2D80/14771
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Premier" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b2/Cin%C3%A9%2B_Premier_%282011%29.svg/1200px-Cin%C3%A9%2B_Premier_%282011%29.svg.png" group-title="CanalSAT",Canal+ Premier
-http://49.12.211.14/goldsfree3/CB73F2D80/14772
+#EXTINF:-1 tvg-id="" tvg-name="Canal+ Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CanalSAT",Canal+ Family
+http://chimeratv.live:25461/live/ftvlive2/iXCcVM4sIF/76.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Comedie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Comedie%21_%282008%29.png/1200px-Comedie%21_%282008%29.png" group-title="CanalSAT",Comedie
 http://49.12.211.14/goldsfree3/CB73F2D80/14773
