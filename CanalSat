@@ -40,30 +40,19 @@ http://flusonic-1.platinum-tv.com/W9/mono.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/361
-
+http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzowMjowNyBQTSZoYXNoX3ZhbHVlPU5ZdWFWdFZ4QWltUW10SmwwbjhIenc9PSZ2YWxpZG1pbnV0ZXM
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema" tvg-logo="https://e7.pngegg.com/pngimages/761/980/png-clipart-canal-cinema-france-television-channel-france-television-blue.png" group-title="CanalSAT",Canal+ Cinema
-http://one.dream4ktv.biz:2082/live/DM_Snappyarr/adfsgbhgsvdfv/224131.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-family.png" group-title="CanalSAT",Canal+ Decale
-http://49.12.211.14/goldsfree3/CB73F2D80/14768
-
-http://chimeratv.live:25461/live/ftvlive2/iXCcVM4sIF/76.ts
-
+http://stream.tvtap.live:8081/live/fr-canalplus-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzowMzo0MCBQTSZoYXNoX3ZhbHVlPWJYbjNJRkdFNTBuMFdKSGN4VHV1bVE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Series" tvg-logo="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5e708cf5c8d6a14b.2Epng/1200x630/crop-from/top/quality/80/canal-series.png" group-title="CanalSAT",Canal+ Series
-http://49.12.211.14/goldsfree3/CB73F2D80/14770
-
+http://stream.tvtap.live:8081/live/fr-cineplus-emotion.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzowNzozMSBQTSZoYXNoX3ZhbHVlPTJGY0lXbkJOYkFtNjRuN3ZVZ0d1M0E9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Emotion" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CanalSAT",Canal+ Emotion
-http://49.12.211.14/goldsfree3/CB73F2D80/14771
-
+http://stream.tvtap.live:8081/live/fr-cineplus-emotion.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzowODozNCBQTSZoYXNoX3ZhbHVlPTY3N28ycjlBdHcrNzBlVEs4SUZPUGc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="Canal+ Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CanalSAT",Canal+ Family
-http://chimeratv.live:25461/live/ftvlive2/iXCcVM4sIF/76.ts
-
+http://stream.tvtap.live:8081/live/fr-canalplus-famiz.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzowNDozNSBQTSZoYXNoX3ZhbHVlPTl3cmFuNjQwUDBkdHlpRWpSeVo0Umc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="Comedie" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Comedie%21_%282008%29.png/1200px-Comedie%21_%282008%29.png" group-title="CanalSAT",Comedie
-http://49.12.211.14/goldsfree3/CB73F2D80/14773
-
+http://stream.tvtap.live:8081/live/fr-comedieplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoyMDo1OSBQTSZoYXNoX3ZhbHVlPVBRYktiN1VMcjJlb21sRkFuU21qL0E9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
-http://49.12.211.14/goldsfree3/FFF08A623/14774
+http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoyMTozOCBQTSZoYXNoX3ZhbHVlPVE5Qm5ibi9DenM2NnRpQzdzbUtxeHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 
 
@@ -103,7 +92,7 @@ http://49.12.211.14/goldsfree3/CB73F2D80/14787
 http://a.mtfxg.xyz:52300/frn/action/chunks.m3u8?nimblesessionid=1724349&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMSA3OjMwOjQ3IFBNJmhhc2hfdmFsdWU9VkZTV2UvYWloTEdSWjh0TDc4dEt3QT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="" tvg-name="Disney_Channel_HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="CanalSat",Disney_Channel_HD
-http://185.93.1.39/FRCH_Disney_Channel_HD/tracks-v1a1/mono.m3u8
+http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoyNjo0MCBQTSZoYXNoX3ZhbHVlPUMvZkRGME0ramZnSHpFRkVMQ2tobHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title="CanalSat",Toonami
@@ -128,8 +117,8 @@ https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo.png" group-title="CanalSat",NATGEO
 http://212.224.98.207:2200/EX/NATIONAL_GEOGRAPHIC_FR-fr/tracks-v1a1/mono.m3u8?token=RED_WUmu9PUUCqGvbQFAOcTA1Q%3D%3D%2C1622935784.8227537046
 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY_FAMILLY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/1280px-Discovery_Family_logo.svg.png" group-title="CanalSat",DISCOVERY_FAMILLY
-http://212.224.98.205:2200/EX/DISCOVERY_FAMILLY-fr/tracks-v1a1/mono.m3u8?token=RED_PQx3QSo9XVbUqAsb8x5MWw%3D%3D%2C1623590370.2937603769
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY_SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Discovery_Family_logo.svg/1280px-Discovery_Family_logo.svg.png" group-title="CanalSat",DISCOVERY_SCIENCE
+http://stream.tvtap.live:8081/live/fr-discoveryscience.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoyNToxMSBQTSZoYXNoX3ZhbHVlPW9ia2VsV09tSkNjeHYzbmlZNTVtMFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC_DECOUVERTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="CanalSat",RMC_DECOUVERTE
 http://185.180.15.14:2200/EX/RMC_DECOUVERTE-fr/tracks-v1a1/mono.m3u8?token=RED_tUgh7JxnITo0O2M6HPv__g%3D%3D%2C1622881880.2245083549
@@ -140,23 +129,26 @@ http://212.224.98.209:2200/EX/FR_RMC_STORY-fr/tracks-v1a1/mono.m3u8?token=RED_tU
 #EXTINF:-1 tvg-id="" tvg-name="USHUAIA_TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c4/Logo_Ushua%C3%AFa_TV_2010.svg/1200px-Logo_Ushua%C3%AFa_TV_2010.svg.png" group-title="CanalSat",USHUAIA_TV
 http://212.224.98.204:2200/EX/USHUAIA_TV-fr/tracks-v1a1/mono.m3u8?token=RED_SGEtOt_dtiq_cWp16lPA1Q%3D%3D%2C1622237921.8132941117
 
-#EXTINF:-1 tvg-id="" tvg-name="Automoto" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Auto_Moto.jpg" group-title="CanalSat",Automoto
-http://212.224.98.213:2200/EX/Automoto-fr/tracks-v1a1/mono.m3u8?token=RED_pzr6vf_XQHoDtngekKKhGg%3D%3D%2C1622835775.2549684615
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+_SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Auto_Moto.jpg" group-title="CanalSat",CANAL+_SPORT
+http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxNzowOCBQTSZoYXNoX3ZhbHVlPWd1Umk0b2JQZ1NNTTltNTlMSjBncFE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 tvg-id="" tvg-name="L'equipe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/L_Equipe_Logo.svg/1280px-L_Equipe_Logo.svg.png" group-title="CanalSat",L'equipe 21
 http://212.224.98.210:2200/EX/LEQUIPE_21-fr/tracks-v1a1/mono.m3u8?token=RED_ow0YHT24YoHYN-RkzzY92A%3D%3D%2C1622941239.8519395813
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_1_FR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="CanalSat",BEINSPORT_1_FR
-http://185.180.15.15:2200/EX/BEINSPORT_1_FR-fr/tracks-v1a1/mono.m3u8?token=null
+http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzowOToyMiBQTSZoYXNoX3ZhbHVlPU93ZzR6SjYyaUFKQitRQkZoWjdvMEE9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_3_FR " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="CanalSat",BEINSPORT_3_FR
-http://212.224.98.210:2200/EX/BEINSPORT_3_FR-fr/tracks-v1a1/mono.m3u8?token=null
+http://stream.tvtap.live:8081/live/fr-beinsport3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxMjowMCBQTSZoYXNoX3ZhbHVlPTRXb0JXazZ0R2VsSlNBclFRcjlLMmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_14 HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_14.png" group-title="CanalSat",BEIN_14 HD
-http://212.224.98.206:2200/EX/bein14hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1C_buYPVU-xY6KXbQ%3D%3D%2C1623196924.9172108843
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_2_FR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_14.png" group-title="CanalSat",BEINSPORT_2_FR 
+http://stream.tvtap.live:8081/live/fr-beinsport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxMDowOCBQTSZoYXNoX3ZhbHVlPVRVL01QRUVWYVd1UmVzcUh5UGN0Q0E9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN_15 HD" tvg-logo="https://www.nadirsat.com/Packages_files/HD15-1.png" group-title="CanalSat",BEIN_15 HD
-http://212.224.98.210:2200/EX/bein15hd-ar/tracks-v1a1/mono.m3u8?token=RED_7SVKM1C_buYPVU-xY6KXbQ%3D%3D%2C1623196924.9172108843
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_4_FR" tvg-logo="https://www.nadirsat.com/Packages_files/HD15-1.png" group-title="CanalSat",BEINSPORT_4_FR
+http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxMjozNyBQTSZoYXNoX3ZhbHVlPUljRXNiWUtkcmlNMVBjQ0dvMEsraXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_5_FR" tvg-logo="https://www.nadirsat.com/Packages_files/HD15-1.png" group-title="CanalSat",BEINSPORT_5_FR
+http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxNDoxOCBQTSZoYXNoX3ZhbHVlPTkvOWhpRXpSQlB3anFXVURNQkhqa1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",Wildside Tv
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
