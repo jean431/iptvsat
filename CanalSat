@@ -54,17 +54,18 @@ http://stream.tvtap.live:8081/live/fr-comedieplus.stream/playlist.m3u8?wmsAuthSi
 #EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Canal_Star_logo.svg/1280px-Canal_Star_logo.svg.png" group-title="CanalSAT",Cstar
 http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoyMTozOCBQTSZoYXNoX3ZhbHVlPVE5Qm5ibi9DenM2NnRpQzdzbUtxeHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections" tvg-logo="https://i.pinimg.com/originals/d5/d9/06/d5d9062b803870f80e06f8a8d8f3f3e2.png" group-title="Movie",The Matrix Resurrections
+https://casia.evosrv.com/EvoStreams/LuLqBdzE6eF8YC27w3Eq.mp4.mp4?md5=2PNq8Notl39e29u6VyYD9g&expires=1641690731
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-title="CanalSat",Rtl9
+
 http://a.mtfxg.xyz:52300/frn/rtl9/chunks.m3u8?nimblesessionid=1724277&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMSA3OjI2OjMzIFBNJmhhc2hfdmFsdWU9TU5MZ0V0ZWsyVzBhR0ZncU5Yc1pSZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="" tvg-name="Serie Club" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Serieclub_%282012%29.svg/1200px-Serieclub_%282012%29.svg.png" group-title="CanalSat",Serie Club
 http://185.180.15.17:2200/EX/FR_SERIE_CLUB_HD-fr/tracks-v1a1/mono.m3u8?token=RED_mV4dSMHOpd1J0AqmUttEqQ%3D%3D%2C1623520265.8126870212
 
-#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="CanalSat",M6
+#EXTINF:-1 tvg-id="" tvg-name="Matrick" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="CanalSat",M6
 http://49.12.211.14/goldsfree3/FFF08A623/14781
 
 #EXTINF:-1 tvg-id="" tvg-name="AB1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Cinepop.svg/999px-Cinepop.svg.png" group-title="CanalSat",AB1
