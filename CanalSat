@@ -55,7 +55,7 @@ http://stream.tvtap.live:8081/live/fr-comedieplus.stream/playlist.m3u8?wmsAuthSi
 http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoyMTozOCBQTSZoYXNoX3ZhbHVlPVE5Qm5ibi9DenM2NnRpQzdzbUtxeHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
 #EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections" tvg-logo="https://i.pinimg.com/originals/d5/d9/06/d5d9062b803870f80e06f8a8d8f3f3e2.png" group-title="Movie",The Matrix Resurrections
-https://m5.vudeo.io/2vp3ze725ivjdohilosbtigeto6yzuoafcxv64d4xpckjgefh7b5kuwclfya/v.mp4
+https://www138.akamai-cdn-content.com/hls/tysxfjfxkg66j6cdadtb5tc6ofjaha7m6rd2zbxp7irqexebnjsjvwpjsz3a/index-v1-a1.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/RTS_2_logo_2019.svg/1200px-RTS_2_logo_2019.svg.png" group-title="CanalSat",Rtl9
