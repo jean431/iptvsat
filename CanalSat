@@ -40,7 +40,7 @@ http://d.mtfxg.xyz:8081/frn/france24/chunks.m3u8?nimblesessionid=1450415&wmsAuth
 http://d.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=1450558&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTY6NTMgUE0maGFzaF92YWx1ZT1OemxGOHg0SENpNFhHY05IN2lra2pBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSat",M6
-http://d.mtfxg.xyz:8081/frn/m6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzU6MDcgUE0maGFzaF92YWx1ZT1WK0ZVVTVFK0x2b3hSZlRRcmUxTGp3PT0mdmFsaWRtaW51dGVzPTI=
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSat",Rtl9
 http://d.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=1449770&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDE6MDggUE0maGFzaF92YWx1ZT1UNlo0bWVuNVhsN1lMV0x4c2U3c2dBPT0mdmFsaWRtaW51dGVzPTI=
