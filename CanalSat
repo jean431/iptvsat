@@ -31,13 +31,13 @@ http://d.mtfxg.xyz:8081/frn/france4/chunks.m3u8?nimblesessionid=1449247&wmsAuthS
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="CanalSat",France 5
 http://d.mtfxg.xyz:8081/frn/france5/chunks.m3u8?nimblesessionid=1449294&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzM6MTUgUE0maGFzaF92YWx1ZT0rVEZmNVZaRm5rTVFZb2FNZm0vdzVRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="FRANCE",KTO
+#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Religion",KTO
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="EMCI TV" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="FRANCE",EMCI TV
+#EXTINF:-1 tvg-id="" tvg-name="EMCI TV" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="Religion",EMCI TV
 https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="FRANCE",France 24
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Informations",France 24
 http://d.mtfxg.xyz:8081/frn/france24/chunks.m3u8?nimblesessionid=1450415&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTI6NTUgUE0maGFzaF92YWx1ZT1VWmd1blViQWZDNzlhRnRwU3BFVmx3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqhIaJUsbBENpbA_5MhqnoaTSvXlx5V9RsQ&usqp=CAU" group-title="CanalSat",Action
@@ -64,13 +64,13 @@ http://d.mtfxg.xyz:8081/frn/ocscity/chunks.m3u8?nimblesessionid=1450587&wmsAuthS
 #EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1200px-OCS_Max.svg.png" group-title="CanalSat",OCS Max
 http://d.mtfxg.xyz:8081/frn/ocsmax/chunks.m3u8?nimblesessionid=1450635&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTk6MjggUE0maGFzaF92YWx1ZT0vWkpqL0REOXdWZzQ2WnZLWGlCZW9nPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe08d0f4124b46a3e.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="Sports",Rmc1
+#EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe08d0f4124b46a3e.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="Sport&Nature",Rmc1
 http://d.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=1450004&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDU6NDcgUE0maGFzaF92YWx1ZT1WbWtRQ0hySk9QMkNQTks0ZE1TZEJ3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Rmc2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="Sports",Rmc2
+#EXTINF:-1 tvg-id="" tvg-name="Rmc2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="Sport&Nature",Rmc2
 http://d.mtfxg.xyz:8081/frn/sfrsport2/chunks.m3u8?nimblesessionid=1450061&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDc6MjMgUE0maGFzaF92YWx1ZT0wM1pSalliYXpHUHN6YkFYdTh3VXlRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Sports",Rmc3
+#EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Sport&Nature",Rmc3
 http://d.mtfxg.xyz:8081/frn/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDg6NDIgUE0maGFzaF92YWx1ZT1vM01xY1VxV3lTRDVoNlVqd1pMY2pRPT0mdmFsaWRtaW51dGVzPTI=
 
 
