@@ -64,13 +64,13 @@ http://d.mtfxg.xyz:8081/frn/ocscity/chunks.m3u8?nimblesessionid=1450587&wmsAuthS
 #EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1200px-OCS_Max.svg.png" group-title="CanalSat",OCS Max
 http://d.mtfxg.xyz:8081/frn/ocsmax/chunks.m3u8?nimblesessionid=1450635&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTk6MjggUE0maGFzaF92YWx1ZT0vWkpqL0REOXdWZzQ2WnZLWGlCZW9nPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe08d0f4124b46a3e.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="Sport&Nature",Rmc1
+#EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe08d0f4124b46a3e.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="Sport & Nature",Rmc1
 http://d.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=1450004&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDU6NDcgUE0maGFzaF92YWx1ZT1WbWtRQ0hySk9QMkNQTks0ZE1TZEJ3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Rmc2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="Sport&Nature",Rmc2
+#EXTINF:-1 tvg-id="" tvg-name="Rmc2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="Sport & Nature",Rmc2
 http://d.mtfxg.xyz:8081/frn/sfrsport2/chunks.m3u8?nimblesessionid=1450061&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDc6MjMgUE0maGFzaF92YWx1ZT0wM1pSalliYXpHUHN6YkFYdTh3VXlRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Sport&Nature",Rmc3
+#EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Sport & Nature",Rmc3
 http://d.mtfxg.xyz:8081/frn/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDg6NDIgUE0maGFzaF92YWx1ZT1vM01xY1VxV3lTRDVoNlVqd1pMY2pRPT0mdmFsaWRtaW51dGVzPTI=
 
 
