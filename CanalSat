@@ -6,16 +6,16 @@ http://56.banroudara.xyz.global.prod.fastly.net/live/00000/index.m3u8?t=eC5cJ_pk
 http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5268.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
-http://d.mtfxg.xyz:8081/frn/france2/l_27257842_10392400_4160.ts?nimblesessionid=772909&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzo0NToyMCBQTSZoYXNoX3ZhbHVlPTVMSTRpS3RXRHU2US91VEluN1ZCMmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://d.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=1449193&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzE6MTAgUE0maGFzaF92YWx1ZT13aWJHVVVUQ1lUOHh4YjJNZWo2ek53PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="CanalSat",France 3
 http://d.mtfxg.xyz:8081/frn/france3/chunks.m3u8?nimblesessionid=1449024&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6Mjc6MTAgUE0maGFzaF92YWx1ZT11UC9CUDVaeUp6UzFPbFhheWljaW1BPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1207px-France4-logo.svg.png" group-title="CanalSat",France 4
-http://d.mtfxg.xyz:8081/frn/france4/l_27257457_19509960_2216.ts?nimblesessionid=772970&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzo0NzowNSBQTSZoYXNoX3ZhbHVlPWZRaU03d1oyaUkvMEJPeDhEcjhjK2c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://d.mtfxg.xyz:8081/frn/france4/chunks.m3u8?nimblesessionid=1449247&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzI6MTUgUE0maGFzaF92YWx1ZT05OUlQS2ZvZSt2ZjhtNnBOUnJDZFFRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="CanalSat",France 5
-http://d.mtfxg.xyz:8081/frn/france5/l_27108722_20850000_2081.ts?nimblesessionid=773011&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzo0ODoxMSBQTSZoYXNoX3ZhbHVlPWNPVDhjbGhYZkxiVnh6eFZ0WEtzaHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://d.mtfxg.xyz:8081/frn/france5/chunks.m3u8?nimblesessionid=1449294&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzM6MTUgUE0maGFzaF92YWx1ZT0rVEZmNVZaRm5rTVFZb2FNZm0vdzVRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Arte-Logo.svg/1280px-Arte-Logo.svg.png" group-title="CanalSat",Arte
 http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIyIDY6NTg6MzggUE0maGFzaF92YWx1ZT1LUzV3eEVUWExkRndzTThuajdBckt3PT0mdmFsaWRtaW51dGVzPTIw
@@ -31,11 +31,11 @@ https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
 http://d.mtfxg.xyz:8081/frn/france24/l_27303310_5540120_1318.ts?nimblesessionid=773109&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzo1MDowNCBQTSZoYXNoX3ZhbHVlPTlTSi9nNkpHRURWaFVYN1RESXB5Mmc9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
-#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" group-title="CanalSat",W9
-http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqhIaJUsbBENpbA_5MhqnoaTSvXlx5V9RsQ&usqp=CAU" group-title="CanalSat",Action
+http://d.mtfxg.xyz:8081/frn/action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzY6MzUgUE0maGFzaF92YWx1ZT1vbnlOOWRjZVJ6WldFMll4V2Vzejl3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSat",M6
-http://stream.tvtap.live:8081/live/fr-m6.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIyIDc6MDI6MzkgUE0maGFzaF92YWx1ZT1adFVYdlBmNWh2d2hBMTYxSGl0d253PT0mdmFsaWRtaW51dGVzPTIw
+http://d.mtfxg.xyz:8081/frn/m6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzU6MDcgUE0maGFzaF92YWx1ZT1WK0ZVVTVFK0x2b3hSZlRRcmUxTGp3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://resize.programme-television.ladmedia.fr/r/670,670/img/var/premiere/storage/images/tele-7-jours/news-tv/le-bouquet-canal-est-gratuit-pendant-le-confinement-du-covid-19-4656273/99097173-1-fre-FR/Le-bouquet-Canal-est-gratuit-pendant-le-confinement-du-Covid-19.jpg" group-title="CanalSAT",Canal+
 http://stream.tvtap.live:8081/live/fr-canaplus.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIyIDc6MDM6MjMgUE0maGFzaF92YWx1ZT1pQkd5aDg0RnhROEtsNXhPN2pESk13PT0mdmFsaWRtaW51dGVzPTIw
@@ -61,16 +61,16 @@ http://stream.tvtap.live:8081/live/fr-cstar.stream/playlist.m3u8?wmsAuthSign=c2V
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSat",Rtl9
-http://d.mtfxg.xyz:8081/frn/rtl9/l_27036184_26270000_2624.ts?nimblesessionid=772576&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzozNjoyNiBQTSZoYXNoX3ZhbHVlPXFaemh1RGltSi9qYXU4cHd0T1ZjV1E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://d.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=1449770&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDE6MDggUE0maGFzaF92YWx1ZT1UNlo0bWVuNVhsN1lMV0x4c2U3c2dBPT0mdmFsaWRtaW51dGVzPTI=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5a/Logo_Animaux_TV_2011.png" group-title="CanalSat",Animaux
-http://d.mtfxg.xyz:8081/frn/animaux/l_27147496_16888400_4491.ts?nimblesessionid=773156&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzo1MToxOCBQTSZoYXNoX3ZhbHVlPU1XbjlHL3NwL2p4cjFRZlJwa3RQWHc9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://d.mtfxg.xyz:8081/frn/animaux/chunks.m3u8?nimblesessionid=1449819&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDI6MTAgUE0maGFzaF92YWx1ZT1rQTRsT0ZIbkl3L1Z6cFhFVzNUSGtnPT0mdmFsaWRtaW51dGVzPTI=
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/France_%C3%94_logo.png" group-title="CanalSat"France O
-http://d.mtfxg.xyz:8081/frn/eentertainment/l_27302230_5861940_1460.ts?nimblesessionid=773487&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzo1ODowNSBQTSZoYXNoX3ZhbHVlPTljM0E2R2tzVFc2RjJ6cFcrSGRPREE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://d.mtfxg.xyz:8081/frn/eentertainment/chunks.m3u8?nimblesessionid=1449868&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDM6MjIgUE0maGFzaF92YWx1ZT1DWjNnZ0habytiQitZUzNHbWtmQVNnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Frissons_TV_New.jpg" group-title="CanalSat",C8
 http://49.12.211.14/goldsfree3/CB73F2D80/14767
@@ -91,18 +91,18 @@ http://49.12.211.14/goldsfree3/CB73F2D80/14791
 http://stream.tvtap.live:8081/live/fr-planeteplus-ci.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIyIDc6MDc6MTQgUE0maGFzaF92YWx1ZT1uUTRkNHh5bGZXcmw4d3BGczFsaXdnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo=" https://png.pngitem.com/pimgs/s/18-181866_dream-logos-wiki-nickelodeon-splat-logo-blank-hd.png" group-title="CanalSat",Action
-http://d.mtfxg.xyz:8081/frn/action/l_27357556_16381440_29.ts?nimblesessionid=772783&wmsAuthSign=c2VydmVyX3RpbWU9My84LzIwMjIgNzo0MTozMSBQTSZoYXNoX3ZhbHVlPVNTUFM3a1QxQUxHTVIrekZLazB5Ync9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://d.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=1450558&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTY6NTMgUE0maGFzaF92YWx1ZT1OemxGOHg0SENpNFhHY05IN2lra2pBPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney_Channel_HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="CanalSat",Disney_Channel_HD
-http://stream.tvtap.live:8081/live/fr-discovery.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoyNjo0MCBQTSZoYXNoX3ZhbHVlPUMvZkRGME0ramZnSHpFRkVMQ2tobHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title="CanalSat",Toonami
-http://212.224.98.206:2200/EX/FR_TOONAMI-fr/tracks-v1a1/mono.m3u8?token=RED_LkOAzbks2dTJ48oWxFPh3A%3D%3D%2C1631095702.5305732876
+#EXTINF:-1 tvg-id="" tvg-name="OCS choc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="CanalSat",OCS Choc
+http://d.mtfxg.xyz:8081/frn/ocschoc/chunks.m3u8?nimblesessionid=1450500&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTU6MDkgUE0maGFzaF92YWx1ZT1Yampza3VlT3dhcTJ0T1BiVzZweGZnPT0mdmFsaWRtaW51dGVzPTI=
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://w7.pngwing.com/pngs/461/61/png-transparent-teletoon-television-channel-logo-animation-disney-material-television-text-trademark.png" group-title="CanalSat",Teletoon
-http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5292.ts
+#EXTINF:-1 tvg-id="" tvg-name="OCS City" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title="CanalSat",OCS City
+http://d.mtfxg.xyz:8081/frn/ocscity/chunks.m3u8?nimblesessionid=1450587&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTg6MjAgUE0maGFzaF92YWx1ZT1zSlBUS2xUTUQ2NmFwQkcyZVhZcTh3PT0mdmFsaWRtaW51dGVzPTI=
+
+
+#EXTINF:-1 tvg-id="" tvg-name="OCS Maxx" tvg-logo="https://w7.pngwing.com/pngs/461/61/png-transparent-teletoon-television-channel-logo-animation-disney-material-television-text-trademark.png" group-title="CanalSat",OCS Maxx
+http://d.mtfxg.xyz:8081/frn/ocsmax/chunks.m3u8?nimblesessionid=1450635&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTk6MjggUE0maGFzaF92YWx1ZT0vWkpqL0REOXdWZzQ2WnZLWGlCZW9nPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Manga" tvg-logo="https://w7.pngwing.com/pngs/874/784/png-transparent-logo-mangas-television-channel-tv-logos-television-text-manga.png" group-title="CanalSat",Manga
 http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5044.ts
@@ -138,20 +138,18 @@ http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8?wmsAut
 #EXTINF:-1 tvg-id="" tvg-name="L'equipe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/L_Equipe_Logo.svg/1280px-L_Equipe_Logo.svg.png" group-title="CanalSat",L'equipe 21
 http://212.224.98.210:2200/EX/LEQUIPE_21-fr/tracks-v1a1/mono.m3u8?token=RED_ow0YHT24YoHYN-RkzzY92A%3D%3D%2C1622941239.8519395813
 
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_1_FR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="CanalSat",BEINSPORT_1_FR
-http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDIyIDc6MjU6NDggUE0maGFzaF92YWx1ZT1GTGovakJ1U3lKV2JPYmRtQVB6emp3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/10/bein-sports-logo.png" group-title="CanalSat",Rmc1
+http://d.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=1450004&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDU6NDcgUE0maGFzaF92YWx1ZT1WbWtRQ0hySk9QMkNQTks0ZE1TZEJ3PT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_3_FR " tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="CanalSat",BEINSPORT_3_FR
-http://stream.tvtap.live:8081/live/fr-beinsport3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxMjowMCBQTSZoYXNoX3ZhbHVlPTRXb0JXazZ0R2VsSlNBclFRcjlLMmc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_FRENCH_Digital_Mono.png" group-title="CanalSat",Rmc3
+http://d.mtfxg.xyz:8081/frn/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDg6NDIgUE0maGFzaF92YWx1ZT1vM01xY1VxV3lTRDVoNlVqd1pMY2pRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_2_FR" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_14.png" group-title="CanalSat",BEINSPORT_2_FR 
-http://stream.tvtap.live:8081/live/fr-beinsport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxMDowOCBQTSZoYXNoX3ZhbHVlPVRVL01QRUVWYVd1UmVzcUh5UGN0Q0E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-id="" tvg-name="Rmc2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_14.png" group-title="CanalSat",Rmc2
+http://d.mtfxg.xyz:8081/frn/sfrsport2/chunks.m3u8?nimblesessionid=1450061&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDc6MjMgUE0maGFzaF92YWx1ZT0wM1pSalliYXpHUHN6YkFYdTh3VXlRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_4_FR" tvg-logo="https://www.nadirsat.com/Packages_files/HD15-1.png" group-title="CanalSat",BEINSPORT_4_FR
-http://stream.tvtap.live:8081/live/fr-beinmax4.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxMjozNyBQTSZoYXNoX3ZhbHVlPUljRXNiWUtkcmlNMVBjQ0dvMEsraXc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 
-#EXTINF:-1 tvg-id="" tvg-name="BEINSPORT_5_FR" tvg-logo="https://www.nadirsat.com/Packages_files/HD15-1.png" group-title="CanalSat",BEINSPORT_5_FR
-http://stream.tvtap.live:8081/live/fr-beinmax5.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS83LzIwMjIgMzoxNDoxOCBQTSZoYXNoX3ZhbHVlPTkvOWhpRXpSQlB3anFXVURNQkhqa1E9PSZ2YWxpZG1pbnV0ZXM9MjA=
+#EXTINF:-1 tvg-id="" tvg-name="France24" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/bein_sports_14.png" group-title="CanalSat",France24
+http://d.mtfxg.xyz:8081/frn/france24/chunks.m3u8?nimblesessionid=1450415&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTI6NTUgUE0maGFzaF92YWx1ZT1VWmd1blViQWZDNzlhRnRwU3BFVmx3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",Wildside Tv
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
