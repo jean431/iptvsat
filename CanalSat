@@ -52,7 +52,7 @@ http://d.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=1449770&wmsAuthSign
 #EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5a/Logo_Animaux_TV_2011.png" group-title="CanalSat",Animaux
 http://d.mtfxg.xyz:8081/frn/animaux/chunks.m3u8?nimblesessionid=1449819&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDI6MTAgUE0maGFzaF92YWx1ZT1rQTRsT0ZIbkl3L1Z6cFhFVzNUSGtnPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/France_%C3%94_logo.png" group-title="CanalSat"France O
+#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/France_%C3%94_logo.png" group-title="CanalSat",France O
 http://d.mtfxg.xyz:8081/frn/eentertainment/chunks.m3u8?nimblesessionid=1449868&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDM6MjIgUE0maGFzaF92YWx1ZT1DWjNnZ0habytiQitZUzNHbWtmQVNnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="OCS choc" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/1024px-OCS_Choc.svg.png" group-title="CanalSat",OCS Choc
