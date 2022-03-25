@@ -8,12 +8,16 @@ http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engine
 #EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://tf1pub.fr/sites/default/files/styles/header_article_v2/public/thumbnails/image/antenne_reunion_logo_2011.png?itok=48mOoOj0" group-title="CanalSat",Antenne Reunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
-#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://www.kindpng.com/picc/m/540-5401665_logopedia-gulli-logo-png-transparent-png.png" group-title="CanalSat",Gulli
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://www.kindpng.com/picc/m/540-5401665_logopedia-gulli-logo-png-transparent-png.png" group-title="Kids",Gulli
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Play tv" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/12/Play-TV-logo-on-transparent-background-PNG.png" group-title="CanalSat",Play tv
+#EXTINF:-1 tvg-id="" tvg-name="Play tv" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/12/Play-TV-logo-on-transparent-background-PNG.png" group-title="Musique",Play tv
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A2imusic" tvg-logo="http://tvtolive.com/wp-content/uploads/A2i-TV.tvtolive.com_.png" group-title="Musique",A2imusic
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
 http://d.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=1449193&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzE6MTAgUE0maGFzaF92YWx1ZT13aWJHVVVUQ1lUOHh4YjJNZWo2ek53PT0mdmFsaWRtaW51dGVzPTI=
