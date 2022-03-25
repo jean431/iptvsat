@@ -5,6 +5,16 @@ http://56.banroudara.xyz.global.prod.fastly.net/live/00000/index.m3u8?t=eC5cJ_pk
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
 http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5268.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://tf1pub.fr/sites/default/files/styles/header_article_v2/public/thumbnails/image/antenne_reunion_logo_2011.png?itok=48mOoOj0" group-title="CanalSat",Antenne Reunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://www.kindpng.com/picc/m/540-5401665_logopedia-gulli-logo-png-transparent-png.png" group-title="CanalSat",Gulli
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Play tv" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/12/Play-TV-logo-on-transparent-background-PNG.png" group-title="CanalSat",Play tv
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
 http://d.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=1449193&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzE6MTAgUE0maGFzaF92YWx1ZT13aWJHVVVUQ1lUOHh4YjJNZWo2ek53PT0mdmFsaWRtaW51dGVzPTI=
 
