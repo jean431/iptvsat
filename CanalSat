@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 #EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="CanalSat",TF1
-http://56.banroudara.xyz.global.prod.fastly.net/live/00000/index.m3u8?t=eC5cJ_pk8I4xP6XB0nWH8w&e=1646748087
+https://muna.evosrv.com/EvoStreams/D6Z1tpwAZdMCCmY8ZP0B.mkv.mp4?md5=k96WSkvvo_eKynes-BJTvg&expires=1652030985
 
 #EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
 http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5268.ts
