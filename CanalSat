@@ -1,87 +1,16 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
-#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="CanalSat",TF1
-https://muna.evosrv.com/EvoStreams/D6Z1tpwAZdMCCmY8ZP0B.mkv.mp4?md5=k96WSkvvo_eKynes-BJTvg&expires=1652030985
-
-#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/TF1_S%C3%A9ries_Films.svg/1200px-TF1_S%C3%A9ries_Films.svg.png" group-title="CanalSat",TF1 Series Films
-http://5.182.211.103:8090/live/aostv-we-trace-u-every-second/dont-be-over-engineer-u-will-be-block-forever/5268.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Antenne Reunion" tvg-logo="https://tf1pub.fr/sites/default/files/styles/header_article_v2/public/thumbnails/image/antenne_reunion_logo_2011.png?itok=48mOoOj0" group-title="CanalSat",Antenne Reunion
-https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
-
-#EXTINF:-1 tvg-id="" tvg-name="Gulli" tvg-logo="https://www.kindpng.com/picc/m/540-5401665_logopedia-gulli-logo-png-transparent-png.png" group-title="Kids",Gulli
-https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Film",Doctor strange 2
+https://m100.uqload.org/3rfkmcc2lfw2q4drdi3plkved6hk3vwzkqwg4prr53qlyjwydzkgkwmxrloa/v.mp4
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Play tv" tvg-logo="https://image.similarpng.com/very-thumbnail/2020/12/Play-TV-logo-on-transparent-background-PNG.png" group-title="Musique",Play tv
-http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="A2imusic" tvg-logo="http://tvtolive.com/wp-content/uploads/A2i-TV.tvtolive.com_.png" group-title="Musique",A2imusic
-https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="CanalSat",France 2
-http://d.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=1449193&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzE6MTAgUE0maGFzaF92YWx1ZT13aWJHVVVUQ1lUOHh4YjJNZWo2ek53PT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="France 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="CanalSat",France 3
-http://d.mtfxg.xyz:8081/frn/france3/chunks.m3u8?nimblesessionid=1449024&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6Mjc6MTAgUE0maGFzaF92YWx1ZT11UC9CUDVaeUp6UzFPbFhheWljaW1BPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="France 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/France4-logo.svg/1207px-France4-logo.svg.png" group-title="CanalSat",France 4
-http://d.mtfxg.xyz:8081/frn/france4/chunks.m3u8?nimblesessionid=1449247&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzI6MTUgUE0maGFzaF92YWx1ZT05OUlQS2ZvZSt2ZjhtNnBOUnJDZFFRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="France 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/1200px-France_5_2018.svg.png" group-title="CanalSat",France 5
-http://d.mtfxg.xyz:8081/frn/france5/chunks.m3u8?nimblesessionid=1449294&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6MzM6MTUgUE0maGFzaF92YWx1ZT0rVEZmNVZaRm5rTVFZb2FNZm0vdzVRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="KTO" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Religion",KTO
-https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="EMCI TV" tvg-logo="https://i.imgur.com/cgTJ9wW.jpg" group-title="Religion",EMCI TV
-https://emci-fr-hls.akamaized.net/hls/live/2007265/emcifrhls/04.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Informations",France 24
-http://d.mtfxg.xyz:8081/frn/france24/chunks.m3u8?nimblesessionid=1450415&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTI6NTUgUE0maGFzaF92YWx1ZT1VWmd1blViQWZDNzlhRnRwU3BFVmx3PT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEqhIaJUsbBENpbA_5MhqnoaTSvXlx5V9RsQ&usqp=CAU" group-title="CanalSat",Action
-http://d.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=1450558&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTY6NTMgUE0maGFzaF92YWx1ZT1OemxGOHg0SENpNFhHY05IN2lra2pBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="CanalSat",M6
-https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="CanalSat",Rtl9
-http://d.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=1449770&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDE6MDggUE0maGFzaF92YWx1ZT1UNlo0bWVuNVhsN1lMV0x4c2U3c2dBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Animaux" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5a/Logo_Animaux_TV_2011.png" group-title="CanalSat",Animaux
-http://d.mtfxg.xyz:8081/frn/animaux/chunks.m3u8?nimblesessionid=1449819&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDI6MTAgUE0maGFzaF92YWx1ZT1rQTRsT0ZIbkl3L1Z6cFhFVzNUSGtnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="France O" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/France_%C3%94_logo.png" group-title="CanalSat",France O
-http://d.mtfxg.xyz:8081/frn/eentertainment/chunks.m3u8?nimblesessionid=1449868&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDM6MjIgUE0maGFzaF92YWx1ZT1DWjNnZ0habytiQitZUzNHbWtmQVNnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="OCS choc" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/1024px-OCS_Choc.svg.png" group-title="CanalSat",OCS Choc
-http://d.mtfxg.xyz:8081/frn/ocschoc/chunks.m3u8?nimblesessionid=1450500&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTU6MDkgUE0maGFzaF92YWx1ZT1Yampza3VlT3dhcTJ0T1BiVzZweGZnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="OCS City" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/OCS_City.svg/1200px-OCS_City.svg.png" group-title="CanalSat",OCS City
-http://d.mtfxg.xyz:8081/frn/ocscity/chunks.m3u8?nimblesessionid=1450587&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTg6MjAgUE0maGFzaF92YWx1ZT1zSlBUS2xUTUQ2NmFwQkcyZVhZcTh3PT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="OCS Max" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/1200px-OCS_Max.svg.png" group-title="CanalSat",OCS Max
-http://d.mtfxg.xyz:8081/frn/ocsmax/chunks.m3u8?nimblesessionid=1450635&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NTk6MjggUE0maGFzaF92YWx1ZT0vWkpqL0REOXdWZzQ2WnZLWGlCZW9nPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe08d0f4124b46a3e.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="Sport & Nature",Rmc1
-http://d.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=1450004&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDU6NDcgUE0maGFzaF92YWx1ZT1WbWtRQ0hySk9QMkNQTks0ZE1TZEJ3PT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Rmc2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/1280px-Logo_RMC_Sport_2_2018.svg.png" group-title="Sport & Nature",Rmc2
-http://d.mtfxg.xyz:8081/frn/sfrsport2/chunks.m3u8?nimblesessionid=1450061&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDc6MjMgUE0maGFzaF92YWx1ZT0wM1pSalliYXpHUHN6YkFYdTh3VXlRPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Sport & Nature",Rmc3
-http://d.mtfxg.xyz:8081/frn/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDY6NDg6NDIgUE0maGFzaF92YWx1ZT1vM01xY1VxV3lTRDVoNlVqd1pMY2pRPT0mdmFsaWRtaW51dGVzPTI=
-
+#EXTINF:-1 tvg-id="" tvg-name="The Batman" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Film",The Batman
+https://m20.uqload.org/3rfkt3shlnw2q4drdjg7lmnqdsthmfi4tjsslcbsceimshaiu4okoxunmylq/v.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",Wildside Tv
+
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MDL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjSnokeNtQgbcvj7lAsdQb1q0uXT5XWyaWzA&usqp=CAU" group-title="CanalSat",MDL
-http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Tmc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/2560px-Trace_Urban_logo_2010.svg.png" group-title="CanalSat",Tmc
-http://d.mtfxg.xyz:8081/frn/tcm/chunks.m3u8?nimblesessionid=1451592&wmsAuthSign=c2VydmVyX3RpbWU9My8yNS8yMDIyIDc6MjM6NTIgUE0maGFzaF92YWx1ZT10akNXcFZtUjNiaDN6Y1l2WEEzRllBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
 #EXTINF:-1 tvg-id="5f8eb66537867f0007146953" tvg-chno="510" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="Divertissement",CATFISH TV
