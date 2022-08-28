@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
-#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Film",Doctor strange 2
-https://m100.uqload.org/3rfkmcc2lfw2q4drdi3plkved6hk3vwzkqwg4prr53qlyjwydzkgkwmxrloa/v.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Film",Rmc1
+http://77.247.109.108:8008/sunshine/Mlz2K1QKwMmixq5WOex1m0WNvRZC2xZQPD2hQN0uEbidfgPlpWORlv5a0bhdQN-OKiuidSLe4Zu8mujB6MPvsoHCNHaauOl2gy5RZD-blhJyrDJTcOmOQVOprgqUBhoXEsOT2-TRIILpoMmhy5T4ks7XRlvhGR-BeXEhx9sPKHS230_XZNAI53trWL9eHaFp/v.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Game1" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Game1
 http://103.145.12.81:8008/sunshine/uFSGkaLIR4rwF3dGq7aBTjzGMlWWyQw1_4S_IBU6dlfae1M2gPYJDE9SWpqlOtv3CRjJcdvHdPXr_paG60cKbary3kftnyft9e_459tbyIllad_iHlD10VVQ7WJQsAfNS6yLPpD4qrsQhDSXRjY3MC968QXKDuv0OwN3hczn77XhjdJNMZQ6XCjilRz6HX7S/v.ts
