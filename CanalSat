@@ -167,7 +167,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e75226b7f420007c3f3
 #EXTINF:-1 tvg-id="611e78c4954f250007ef7b84" tvg-chno="950" tvg-logo="https://images.pluto.tv/channels/611e78c4954f250007ef7b84/colorLogoPNG.png" group-title="Kids",Sabrina, la série animée
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/611e78c4954f250007ef7b84/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/fr.xml.gz"
 #EXTINF:-1 tvg-id="FRAJ4500024MR" tvg-chno="4002" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/18/FRAJ4500024MR_20210923T010513.png" group-title="Films",Comédies - Rakuten TV
 https://e4d1581301dd446495286986116b1679.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=448&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
