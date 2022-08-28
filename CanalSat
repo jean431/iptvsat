@@ -19,6 +19,11 @@ http://103.145.12.245:8008/sunshine/YDxhTWOSA-3CyZwvksUtgBhhF77ayoIrnRPf9f-k0sAY
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport2
 http://77.247.109.108:8008/sunshine/ahWsjLLCnvcswqzPSGEiw49wLzCisFoumW85Y2VBjLkTnjlLNesoWZKdadwb5PtGAUVNkTqtgAfJMM4nouhEuvJ14WXJYiZJD2_4I0l4WG8POjBcmpXaHj1gjFm6dbBYH4E4PIAM98rFrQKgylFdaTh5I-gsFIZzTEjYpZqAdb-NAf5bCt1z0Gns1Ck8-1GH/v.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Beinsport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport3
+
+http://77.247.109.144:8008/sunshine/-hz8P-tqKHEIcDQ5Xi9c75xtzZbsme0kJvhP9nVG3CFuws-Ke6liLovyYZ3-iIROyVNzOhMHnruHcpq8ib6u0cHgHf1qWZSPl_SaCSg2DbJsZHski1LZzUaCrHBZrCBAAOsbLH5Mxg6F7eekXK7XJ6oICnXdbJnzznqQdYI8OP9wVs1Uem_7UgpJ3p2VFT90/v.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",Wildside Tv
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
