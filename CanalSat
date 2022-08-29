@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 
 #EXTINF:-1 tvg-id="" tvg-name="France 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",France 2
-http://alphabetagama.ddns.net/france2019/france2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDY6MjU6MTggUE0maGFzaF92YWx1ZT1JWmdrbEJmeGFRT0Exemk3VXFaS2x3PT0mdmFsaWRtaW51dGVzPTY=
+http://65.109.3.171:2457/france2019/france2/l_216436_21678320_758.ts?nimblesessionid=1511356&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDY6MzM6NTkgUE0maGFzaF92YWx1ZT00RndRWG5vUyt6ZEhRWEpaZjJvZWFnPT0mdmFsaWRtaW51dGVzPTY=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc1
