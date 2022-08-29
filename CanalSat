@@ -5,7 +5,7 @@ http://n.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=819831&wmsAuthSi
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc1
-http://77.247.109.108:8008/sunshine/Mlz2K1QKwMmixq5WOex1m0WNvRZC2xZQPD2hQN0uEbidfgPlpWORlv5a0bhdQN-OKiuidSLe4Zu8mujB6MPvsoHCNHaauOl2gy5RZD-blhJyrDJTcOmOQVOprgqUBhoXEsOT2-TRIILpoMmhy5T4ks7XRlvhGR-BeXEhx9sPKHS230_XZNAI53trWL9eHaFp/v.ts
+http://o.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=1436552&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTA6MzQgUE0maGFzaF92YWx1ZT00REZqODdpNVlkV1BXYlJRbFpJQmhBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Game1" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Game1
 http://103.145.12.81:8008/sunshine/IJx7e2m15Vnn8Yw4qeEKqRh1QWIunkw6TAUsUwZwOw7y9sG3KSwBZ8uZ4SVdqJyvoLvWVFnoBrb47X7EseVIfSPDRMpZRNTDIuUD_mABGvYoRxIfoaSpc6A1TzaGZJYKsaNiBuxGAFrH19UstSlfVtZ7b9ByxqpgofZ4S-_aF2sEbDKI2aHeJTAZHYZjrog3/v.ts
@@ -23,29 +23,29 @@ http://77.247.109.32:8008/sunshine/sc06KSxmebHuLs8BBfpKJ-6-_7yuFrj1mNGntj1n_BEZP
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Rtl9
-http://77.247.109.85:8008/sunshine/_Q8E7e9XTT2vfPR5k_wldSYBAns8S4e3norcgyBePYQsEWlb1gK7hzXD7Qfo6RP-wH-QKk5tQ1BYmHGwToj7jNfui6sQXqqIazG5nIEexMTj7YiEg6yfhk4z1A7y-Daxq-Sp5w40SgmjaSmg2S7JHydwRPRLq8WGt2amQx-wa8Dab5Ezt3P-622H1pRyd_vO/v.ts
+http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=820746&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTU6MzIgUE0maGFzaF92YWx1ZT1SN0MzcVRhOStiNlVuYmthQzU4SkJnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Novelas TV" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Novelas TV
 http://77.247.109.32:8008/sunshine/aF8jZatbH8Kr-DT_cOvrAUJWGkPCW24WblFf7ZoSU2UYWph90_ZrXKE0L26qORAHSFZz-VMmSROGzCO1cXrTzLKj69-Gbjg1p6VHbgehqutnPiLBDsIyBMNLfeTDvYwUktrd5dlgJynGUd-AQDBsF20mzDCFevChccktTUg_sS29h-Q-FrbxUMARp6I7VrVs/v.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Warner TV
-http://77.247.109.144:8008/sunshine/VrS_2wxv688oMPAC39uorv-gCamVHNBqjq7CUPLmKUIjeXg4pRyJzvus3RVGTGLtKFmM_SueUt2O-9a6lzlW7E6qMzZYVMtgKsPiJOsT728C13BhFsfovUiwhJ02S26Bes5Xqr1SYOnQtX_EsQMlns4kswFpo1ciYJDWX4aUzjEMfH6wx-5rvU8aml1Eao0D/v.ts
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",M6
+http://n.mtfxg.xyz:8081/frn/m6/chunks.m3u8?nimblesessionid=820802&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTY6NDMgUE0maGFzaF92YWx1ZT0zWklzSFhhc0RLZ05zcVdLNVdlV09nPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Sport",Rmc3
-http://77.247.109.144:8008/sunshine/5wYNNwswfIA9caeS4OI1FQiDLKhmj9Ck8zfx_rYZbVAL_3416qcSYKhEfYbk_p6jUVlMN955MSdaVl8S7PnDKED-Msk8eSV1c1PatFp9Rbwo-6sKXWdQySXNWYmBF6T1QMhTSmFoE9F2kgAimtljN9mL0-IIDLiajzyIzzYc2VQHCTjZLqyEzC9DGreoMq4r/v.ts
+http://o.mtfxg.xyz:8081/frn/sfrsport3/chunks.m3u8?nimblesessionid=1436848&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTI6MzIgUE0maGFzaF92YWx1ZT1pSTdhV29rYUZSSEh1MVM0V2FSdCtnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc2
-http://185.53.88.67:8008/sunshine/_cXRM6AqjDVLw10XSuoiNwRFmagUp34R2Ix5_wILFcI3CBGtLqDLHVkXHFxC0U_Szvv3hG0p8TXpm01QqAwMiOpR6Jt6wQgjqzoCLothPGxrsGjq5dPAA_zTEYKij87B4orpqBuwdCrq4D8Foh6rjIHUa7o-l61RnIUgIBHl_bNtgybBgmSIdUSTtfoPB3Vj/v.ts
+http://o.mtfxg.xyz:8081/frn/sfrsport2/chunks.m3u8?nimblesessionid=1436972&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTQ6MDIgUE0maGFzaF92YWx1ZT1uSXBFT2VSV3RDVGtVRWxHQ0UvRjNnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport1
-http://103.145.12.245:8008/sunshine/YDxhTWOSA-3CyZwvksUtgBhhF77ayoIrnRPf9f-k0sAYxIRdIE_1SXbhaLsEZ0aRQgM8mK3NyQIxSPjBpldtREfgftKPu-rqQDtMYSElHZQZtlzuM7fI2yk9L81fe1N-7jZTvBOFCaFv0cbmp7-se0OhJ_X_cMATK1L-2_ZoKOLpzuH75WDElsPsowQRffeo/v.ts
+http://o.mtfxg.xyz:8081/us1new/bein1fr/chunks.m3u8?nimblesessionid=1437483&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTk6NDQgUE0maGFzaF92YWx1ZT1acUhVeHF0M2IvbGQwc2tIMGpLaWF3PT0mdmFsaWRtaW51dGVzPTI=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport2
-http://77.247.109.108:8008/sunshine/ahWsjLLCnvcswqzPSGEiw49wLzCisFoumW85Y2VBjLkTnjlLNesoWZKdadwb5PtGAUVNkTqtgAfJMM4nouhEuvJ14WXJYiZJD2_4I0l4WG8POjBcmpXaHj1gjFm6dbBYH4E4PIAM98rFrQKgylFdaTh5I-gsFIZzTEjYpZqAdb-NAf5bCt1z0Gns1Ck8-1GH/v.ts
+http://o.mtfxg.xyz:8081/us1new/bein2fr/chunks.m3u8?nimblesessionid=1437569&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MjE6MDAgUE0maGFzaF92YWx1ZT0rNUVaUWRUOU9WVFZVUldUeWVraElRPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport3
-http://77.247.109.144:8008/sunshine/-hz8P-tqKHEIcDQ5Xi9c75xtzZbsme0kJvhP9nVG3CFuws-Ke6liLovyYZ3-iIROyVNzOhMHnruHcpq8ib6u0cHgHf1qWZSPl_SaCSg2DbJsZHski1LZzUaCrHBZrCBAAOsbLH5Mxg6F7eekXK7XJ6oICnXdbJnzznqQdYI8OP9wVs1Uem_7UgpJ3p2VFT90/v.ts
+http://o.mtfxg.xyz:8081/us1new/bein3fr/chunks.m3u8?nimblesessionid=1437715&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MjM6MTkgUE0maGFzaF92YWx1ZT1KVnorVTlsTFU0QUk4THBJZzc0WVF3PT0mdmFsaWRtaW51dGVzPTI=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",Wildside Tv
