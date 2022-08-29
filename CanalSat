@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Rtl9
-http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=820746&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTU6MzIgUE0maGFzaF92YWx1ZT1SN0MzcVRhOStiNlVuYmthQzU4SkJnPT0mdmFsaWRtaW51dGVzPTI=
+http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=822492&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6NTg6MjEgUE0maGFzaF92YWx1ZT1UWisvMkRZWkptd2NXaWlveUJrUTVnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Action
 http://n.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=820400&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MDU6MTMgUE0maGFzaF92YWx1ZT1ZUkt0bXFKU292eUQ5aUJRTVgwdGlBPT0mdmFsaWRtaW51dGVzPTI=
