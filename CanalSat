@@ -1,70 +1,48 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 
+#EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Rtl9
+http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=820746&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTU6MzIgUE0maGFzaF92YWx1ZT1SN0MzcVRhOStiNlVuYmthQzU4SkJnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Action
+http://n.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=820400&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MDU6MTMgUE0maGFzaF92YWx1ZT1ZUkt0bXFKU292eUQ5aUJRTVgwdGlBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",M6
+http://n.mtfxg.xyz:8081/frn/m6/chunks.m3u8?nimblesessionid=820802&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTY6NDMgUE0maGFzaF92YWx1ZT0zWklzSFhhc0RLZ05zcVdLNVdlV09nPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-name="france 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 2
 http://n.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=819831&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDc6NTc6MjIgUE0maGFzaF92YWx1ZT1LeCtsbmgrL3lGeVFETUZYaFN6dmlRPT0mdmFsaWRtaW51dGVzPTI=
-
-
-#EXTINF:-1 tvg-id="" tvg-name="france 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 24
-http://n.mtfxg.xyz:8081/frn/france24/chunks.m3u8?nimblesessionid=821489&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzI6NDUgUE0maGFzaF92YWx1ZT1ZZXJVdHNCY3FybGNrM2RjYnUzWUZnPT0mdmFsaWRtaW51dGVzPTI=
-
 #EXTINF:-1 tvg-id="" tvg-name="france 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 3
 http://n.mtfxg.xyz:8081/frn/france3/chunks.m3u8?nimblesessionid=821535&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzQ6MDggUE0maGFzaF92YWx1ZT1HNHhJUUo3TThJOUszUXFua3k3R1VRPT0mdmFsaWRtaW51dGVzPTI=
-
-
 #EXTINF:-1 tvg-id="" tvg-name="france 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 4
 http://n.mtfxg.xyz:8081/frn/france4/chunks.m3u8?nimblesessionid=821554&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzU6MjcgUE0maGFzaF92YWx1ZT1FaUI4a2JTM0VQS09XUmtpenlWYjJ3PT0mdmFsaWRtaW51dGVzPTI=
-
-
 #EXTINF:-1 tvg-id="" tvg-name="france 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 5
 http://n.mtfxg.xyz:8081/frn/france5/chunks.m3u8?nimblesessionid=821591&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzY6NTkgUE0maGFzaF92YWx1ZT1XSHZmS1ZJNnZsM0tjQkt3ai9rWE53PT0mdmFsaWRtaW51dGVzPTI=
-
-
+#EXTINF:-1 tvg-id="" tvg-name="france 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 24
+http://n.mtfxg.xyz:8081/frn/france24/chunks.m3u8?nimblesessionid=821489&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzI6NDUgUE0maGFzaF92YWx1ZT1ZZXJVdHNCY3FybGNrM2RjYnUzWUZnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-name="E-entertainment " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",E-entertainment
-
 http://n.mtfxg.xyz:8081/frn/eentertainment/chunks.m3u8?nimblesessionid=821627&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6Mzg6NDcgUE0maGFzaF92YWx1ZT1GRmRKcmxQY0FTRG5OTWhVNjdUUXd3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc1
 http://o.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=1436552&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTA6MzQgUE0maGFzaF92YWx1ZT00REZqODdpNVlkV1BXYlJRbFpJQmhBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Game1" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Game1
-http://103.145.12.81:8008/sunshine/IJx7e2m15Vnn8Yw4qeEKqRh1QWIunkw6TAUsUwZwOw7y9sG3KSwBZ8uZ4SVdqJyvoLvWVFnoBrb47X7EseVIfSPDRMpZRNTDIuUD_mABGvYoRxIfoaSpc6A1TzaGZJYKsaNiBuxGAFrH19UstSlfVtZ7b9ByxqpgofZ4S-_aF2sEbDKI2aHeJTAZHYZjrog3/v.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Action
-http://n.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=820400&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MDU6MTMgUE0maGFzaF92YWx1ZT1ZUkt0bXFKU292eUQ5aUJRTVgwdGlBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Mangas" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Mangas
-http://77.247.109.86:8008/sunshine/QFcIsxMVZ_wq5nHRHSZb7DAKuuM3PHNHBuk2uu77OzPJ8r6t2yWxDMS4yDbfdjRfpJbmT8A4EsVZXfEM2mWIo-nYumO_-AIL2Tp4pmUp8gwF4H1nvX1AlzXNdV6i-kAOgWNasdIB63Jq_kqYt4okxHfE4sgfxWBVq2xgSxA36c9wjQN7IKw5cU-12JLqY4GO/v.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Cartoon Network
-http://77.247.109.32:8008/sunshine/sc06KSxmebHuLs8BBfpKJ-6-_7yuFrj1mNGntj1n_BEZP0IE7RgPiPEfNxRYrBcC3_GFTYd9zc44qG0pVnd6cNH8uOgYWkm5Oud3Ex3g1ox1nt676EGeuoD3PKFbp-y0yqEF26SmC2zvJsg15q2bGGhIkNGDCKUv6Tqwtm44tcsZ11xDmCWx8B_HJk_0VKoA/v.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Rtl9
-http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=820746&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTU6MzIgUE0maGFzaF92YWx1ZT1SN0MzcVRhOStiNlVuYmthQzU4SkJnPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Novelas TV" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Novelas TV
-http://77.247.109.32:8008/sunshine/aF8jZatbH8Kr-DT_cOvrAUJWGkPCW24WblFf7ZoSU2UYWph90_ZrXKE0L26qORAHSFZz-VMmSROGzCO1cXrTzLKj69-Gbjg1p6VHbgehqutnPiLBDsIyBMNLfeTDvYwUktrd5dlgJynGUd-AQDBsF20mzDCFevChccktTUg_sS29h-Q-FrbxUMARp6I7VrVs/v.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",M6
-http://n.mtfxg.xyz:8081/frn/m6/chunks.m3u8?nimblesessionid=820802&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTY6NDMgUE0maGFzaF92YWx1ZT0zWklzSFhhc0RLZ05zcVdLNVdlV09nPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Sport",Rmc3
-http://o.mtfxg.xyz:8081/frn/sfrsport3/chunks.m3u8?nimblesessionid=1436848&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTI6MzIgUE0maGFzaF92YWx1ZT1pSTdhV29rYUZSSEh1MVM0V2FSdCtnPT0mdmFsaWRtaW51dGVzPTI=
-
 #EXTINF:-1 tvg-id="" tvg-name="Rmc2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc2
 http://o.mtfxg.xyz:8081/frn/sfrsport2/chunks.m3u8?nimblesessionid=1436972&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTQ6MDIgUE0maGFzaF92YWx1ZT1uSXBFT2VSV3RDVGtVRWxHQ0UvRjNnPT0mdmFsaWRtaW51dGVzPTI=
-
+#EXTINF:-1 tvg-id="" tvg-name="Rmc3" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Sport",Rmc3
+http://o.mtfxg.xyz:8081/frn/sfrsport3/chunks.m3u8?nimblesessionid=1436848&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTI6MzIgUE0maGFzaF92YWx1ZT1pSTdhV29rYUZSSEh1MVM0V2FSdCtnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport1
 http://o.mtfxg.xyz:8081/us1new/bein1fr/chunks.m3u8?nimblesessionid=1437483&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTk6NDQgUE0maGFzaF92YWx1ZT1acUhVeHF0M2IvbGQwc2tIMGpLaWF3PT0mdmFsaWRtaW51dGVzPTI=
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport2
 http://o.mtfxg.xyz:8081/us1new/bein2fr/chunks.m3u8?nimblesessionid=1437569&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MjE6MDAgUE0maGFzaF92YWx1ZT0rNUVaUWRUOU9WVFZVUldUeWVraElRPT0mdmFsaWRtaW51dGVzPTI=
-
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport3
 http://o.mtfxg.xyz:8081/us1new/bein3fr/chunks.m3u8?nimblesessionid=1437715&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MjM6MTkgUE0maGFzaF92YWx1ZT1KVnorVTlsTFU0QUk4THBJZzc0WVF3PT0mdmFsaWRtaW51dGVzPTI=
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",Wildside Tv
