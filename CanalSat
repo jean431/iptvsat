@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 
-#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Action
-http://livespecial.rbtvnw.com:21190/apollo/action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDY6NTI6MzcgUE0maGFzaF92YWx1ZT1PZmV6MUxuNFZzTmZqU3h6bXV6QURBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="france 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 2
+http://n.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=819831&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDc6NTc6MjIgUE0maGFzaF92YWx1ZT1LeCtsbmgrL3lGeVFETUZYaFN6dmlRPT0mdmFsaWRtaW51dGVzPTI=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc1
