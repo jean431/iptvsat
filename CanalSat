@@ -7,25 +7,25 @@ http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=822492&wmsAuthSign=
 http://n.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=820400&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MDU6MTMgUE0maGFzaF92YWx1ZT1ZUkt0bXFKU292eUQ5aUJRTVgwdGlBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",M6
-http://n.mtfxg.xyz:8081/frn/m6/chunks.m3u8?nimblesessionid=820802&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTY6NDMgUE0maGFzaF92YWx1ZT0zWklzSFhhc0RLZ05zcVdLNVdlV09nPT0mdmFsaWRtaW51dGVzPTI=
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127325
 
 #EXTINF:-1 tvg-id="" tvg-name="france 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 2
-http://n.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=819831&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDc6NTc6MjIgUE0maGFzaF92YWx1ZT1LeCtsbmgrL3lGeVFETUZYaFN6dmlRPT0mdmFsaWRtaW51dGVzPTI=
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127319
 
-#EXTINF:-1 tvg-id="" tvg-name="france 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 3
-http://n.mtfxg.xyz:8081/frn/france3/chunks.m3u8?nimblesessionid=821535&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzQ6MDggUE0maGFzaF92YWx1ZT1HNHhJUUo3TThJOUszUXFua3k3R1VRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Toonami
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127142
 
-#EXTINF:-1 tvg-id="" tvg-name="france 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 4
-http://n.mtfxg.xyz:8081/frn/france4/chunks.m3u8?nimblesessionid=821554&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzU6MjcgUE0maGFzaF92YWx1ZT1FaUI4a2JTM0VQS09XUmtpenlWYjJ3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="J-One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",J-One
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127160
 
-#EXTINF:-1 tvg-id="" tvg-name="france 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 5
-http://n.mtfxg.xyz:8081/frn/france5/chunks.m3u8?nimblesessionid=821591&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzY6NTkgUE0maGFzaF92YWx1ZT1XSHZmS1ZJNnZsM0tjQkt3ai9rWE53PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="Game1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Game1
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127161
 
-#EXTINF:-1 tvg-id="" tvg-name="france 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 24
-http://n.mtfxg.xyz:8081/frn/france24/chunks.m3u8?nimblesessionid=821489&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MzI6NDUgUE0maGFzaF92YWx1ZT1ZZXJVdHNCY3FybGNrM2RjYnUzWUZnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="Manga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Manga
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127159
 
-#EXTINF:-1 tvg-id="" tvg-name="E-entertainment " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",E-entertainment
-http://n.mtfxg.xyz:8081/frn/eentertainment/chunks.m3u8?nimblesessionid=821627&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6Mzg6NDcgUE0maGFzaF92YWx1ZT1GRmRKcmxQY0FTRG5OTWhVNjdUUXd3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Teletoon
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127154
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc1
 http://o.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=1436552&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTA6MzQgUE0maGFzaF92YWx1ZT00REZqODdpNVlkV1BXYlJRbFpJQmhBPT0mdmFsaWRtaW51dGVzPTI=
@@ -42,8 +42,8 @@ http://o.mtfxg.xyz:8081/us1new/bein1fr/chunks.m3u8?nimblesessionid=1437483&wmsAu
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport2
 http://o.mtfxg.xyz:8081/us1new/bein2fr/chunks.m3u8?nimblesessionid=1437569&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MjE6MDAgUE0maGFzaF92YWx1ZT0rNUVaUWRUOU9WVFZVUldUeWVraElRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Beinsport3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport3
-http://o.mtfxg.xyz:8081/us1new/bein3fr/chunks.m3u8?nimblesessionid=1437715&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MjM6MTkgUE0maGFzaF92YWx1ZT1KVnorVTlsTFU0QUk4THBJZzc0WVF3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="Tf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Tf1
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127318
 
 
 
