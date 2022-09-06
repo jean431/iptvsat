@@ -1,30 +1,27 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 
-#EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Rtl9
-http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=822492&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6NTg6MjEgUE0maGFzaF92YWx1ZT1UWisvMkRZWkptd2NXaWlveUJrUTVnPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-name="Tf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Tf1
+http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127318
 
-#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Action
-http://n.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=820400&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MDU6MTMgUE0maGFzaF92YWx1ZT1ZUkt0bXFKU292eUQ5aUJRTVgwdGlBPT0mdmFsaWRtaW51dGVzPTI=
-
-#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",M6
+#EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",M6
 http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127325
 
-#EXTINF:-1 tvg-id="" tvg-name="france 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",france 2
+#EXTINF:-1 tvg-id="" tvg-name="france 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Généraliste",france 2
 http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127319
 
-#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Toonami
+#EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Toonami_Logo_2019.png" group-title="Animé",Toonami
 http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127142
 
-#EXTINF:-1 tvg-id="" tvg-name="J-One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",J-One
+#EXTINF:-1 tvg-id="" tvg-name="J-One" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/J-One.svg/1280px-J-One.svg.png" group-title="Animé",J-One
 http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127160
 
-#EXTINF:-1 tvg-id="" tvg-name="Game1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Game1
+#EXTINF:-1 tvg-id="" tvg-name="Game_One" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Game_One_%282004%29_Logo.svg/1200px-Game_One_%282004%29_Logo.svg.png" group-title="Animé",Game_One
 http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127161
 
-#EXTINF:-1 tvg-id="" tvg-name="Manga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Manga
+#EXTINF:-1 tvg-id="" tvg-name="Manga" tvg-logo="https://ewsat.com/img/MANGAS.png" group-title="Animé",Manga
 http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127159
 
-#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Teletoon
+#EXTINF:-1 tvg-id="" tvg-name="Teletoon" tvg-logo="https://w7.pngwing.com/pngs/461/61/png-transparent-teletoon-television-channel-logo-animation-disney-material-television-text-trademark.png" group-title="Animé",Teletoon
 http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127154
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc1
@@ -42,11 +39,11 @@ http://o.mtfxg.xyz:8081/us1new/bein1fr/chunks.m3u8?nimblesessionid=1437483&wmsAu
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport2
 http://o.mtfxg.xyz:8081/us1new/bein2fr/chunks.m3u8?nimblesessionid=1437569&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MjE6MDAgUE0maGFzaF92YWx1ZT0rNUVaUWRUOU9WVFZVUldUeWVraElRPT0mdmFsaWRtaW51dGVzPTI=
 
-#EXTINF:-1 tvg-id="" tvg-name="Tf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Tf1
-http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127318
+#EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Rtl9
+http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=822492&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6NTg6MjEgUE0maGFzaF92YWx1ZT1UWisvMkRZWkptd2NXaWlveUJrUTVnPT0mdmFsaWRtaW51dGVzPTI=
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Action
+http://n.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=820400&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MDU6MTMgUE0maGFzaF92YWx1ZT1ZUkt0bXFKU292eUQ5aUJRTVgwdGlBPT0mdmFsaWRtaW51dGVzPTI=
 
 
 
@@ -60,8 +57,6 @@ http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127318
 
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="CanalSat",Wildside Tv
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-
-
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
 #EXTINF:-1 tvg-id="5f8eb66537867f0007146953" tvg-chno="510" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" group-title="Divertissement",CATFISH TV
