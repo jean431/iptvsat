@@ -17,6 +17,11 @@ http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127322
 http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127323
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",Canal+
+http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/126833
+
+
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",M6
 http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127282
 
@@ -37,6 +42,13 @@ http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127112
 
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://w7.pngwing.com/pngs/461/61/png-transparent-teletoon-television-channel-logo-animation-disney-material-television-text-trademark.png" group-title="Animé", Boomerang
 http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127149
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal+_Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Canal+_Sport
+http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/126834
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal+_Premier_League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Canal+_Premier_League
+http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/126840
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc1
