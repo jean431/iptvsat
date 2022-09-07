@@ -51,6 +51,10 @@ http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/126834
 http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/126840
 
 
+
+#EXTINF:-1 tvg-id="" tvg-name="+Foot" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",+Foot
+http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/199963
+
 #EXTINF:-1 tvg-id="" tvg-name="Rmc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Rmc1
 http://o.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=1436552&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTA6MzQgUE0maGFzaF92YWx1ZT00REZqODdpNVlkV1BXYlJRbFpJQmhBPT0mdmFsaWRtaW51dGVzPTI=
 
