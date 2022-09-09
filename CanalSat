@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 
 #EXTINF:-1 tvg-id="" tvg-name="Tf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Généraliste",Tf1
-http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127296
+https://s12.tntendirect.com/tf1/live/l_90061_16176024_2695.ts?nimblesessionid=768710&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNToyMTozMCBQTSZoYXNoX3ZhbHVlPWVwS25NcFo3R1IzR2hONmNFRXVmWVE9PSZ2YWxpZG1pbnV0ZXM9MzA=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="france 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Généraliste",france 2 
