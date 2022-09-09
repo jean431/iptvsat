@@ -1,14 +1,17 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 
 #EXTINF:-1 tvg-id="" tvg-name="Tf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Généraliste",Tf1
-https://s12.tntendirect.com/tf1/live/l_90061_16176024_2695.ts?nimblesessionid=768710&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNToyMTozMCBQTSZoYXNoX3ZhbHVlPWVwS25NcFo3R1IzR2hONmNFRXVmWVE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+https://s13.tntendirect.com/tf1/live/chunks.m3u8?nimblesessionid=4832496&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTozODowNCBQTSZoYXNoX3ZhbHVlPTdja3ZaOXI2NWJSYzdzWU1KMHI2TkE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-id="" tvg-name="Tf1_Serie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Généraliste",Tf1_Serie
+https://s15.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=9227&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0MzoxNCBQTSZoYXNoX3ZhbHVlPXZ1dHRUWjBNSHNPTlJTNHlMZmRlZHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="france 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="Généraliste",france 2 
-http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127275
+https://s15.tntendirect.com/france2/live/chunks.m3u8?nimblesessionid=9205&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTozOTo0MiBQTSZoYXNoX3ZhbHVlPW82K1VNUzE4QjY5OHpsWHZkUkpaaHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
 
 #EXTINF:-1 tvg-id="" tvg-name="france 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="Généraliste",france 3
-http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127276
+https://s12.tntendirect.com/france3/live/chunks.m3u8?nimblesessionid=768836&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0MDozOCBQTSZoYXNoX3ZhbHVlPVI5RVBMSk9vLzkxMWFweGdaS0hoS2c9PSZ2YWxpZG1pbnV0ZXM9MzA=
 
 #EXTINF:-1 tvg-id="" tvg-name="france 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png" group-title="Généraliste",france 4
 http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127322
@@ -16,6 +19,41 @@ http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127322
 #EXTINF:-1 tvg-id="" tvg-name="france 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="Généraliste",france 5
 http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127323
 
+#EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",Arte
+https://s15.tntendirect.com/arte/live/chunks.m3u8?nimblesessionid=9172&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTozMzozNyBQTSZoYXNoX3ZhbHVlPXNPVzVEWWxwZHh2OUtjL1dNRXd3b2c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",C8
+https://s13.tntendirect.com/d8/live/chunks.m3u8?nimblesessionid=4832532&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0NTowMyBQTSZoYXNoX3ZhbHVlPWdSZXRSNzFZdG1zUlJSRVQwUlg0YlE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-id="" tvg-name="W9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",W9
+https://s12.tntendirect.com/w9/live/chunks.m3u8?nimblesessionid=768868&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0NjozNCBQTSZoYXNoX3ZhbHVlPUpiQjNIZ0QrbzBUV1ZWOVMxMEliZHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",TMC
+https://s15.tntendirect.com/tmc/live/chunks.m3u8?nimblesessionid=9263&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0ODowMSBQTSZoYXNoX3ZhbHVlPVRNZDJTOWw5SkN5eW9ESXlvM25yalE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-id="" tvg-name="TFX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",TFX
+https://s15.tntendirect.com/nt1/live/chunks.m3u8?nimblesessionid=9314&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo1NjozMCBQTSZoYXNoX3ZhbHVlPXc0ZkJXZHpIdkh1Z1JtaXhSQzBKOHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NRJ12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",NRJ12
+https://s13.tntendirect.com/nrj12/live/chunks.m3u8?nimblesessionid=4832567&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0OTozMSBQTSZoYXNoX3ZhbHVlPWx0N2NhY01MRTNnanRlTldIL2N6Z3c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",Cstar
+https://s15.tntendirect.com/d17/live/chunks.m3u8?nimblesessionid=9282&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo1MTo0NSBQTSZoYXNoX3ZhbHVlPUpWSWZ6QWF3MGlMR2RobnNySmlhR1E9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+#EXTINF:-1 tvg-id="" tvg-name="6Ter" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",6Ter
+https://s13.tntendirect.com/6ter/live/chunks.m3u8?nimblesessionid=4832584&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo1MzowNyBQTSZoYXNoX3ZhbHVlPTdDbE9vT2ZvcU91T2pDOTg5M2RnWVE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cherie25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",Cherie25
+https://s12.tntendirect.com/cherie25/live/chunks.m3u8?nimblesessionid=768928&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo1NDozOSBQTSZoYXNoX3ZhbHVlPVB5c3M2Z25JZXBBYlF6S3NFWEMzWFE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+
+
+#EXTINF:-1 tvg-id="" tvg-name="L'équipe21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste", L'équipe21
+https://s13.tntendirect.com/lequipe21/live/chunks.m3u8?nimblesessionid=4832625&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo1OTowMSBQTSZoYXNoX3ZhbHVlPVFCOE4xN1Yxcmd6N1dzUjVvSGVTMHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",Canal+
@@ -23,7 +61,7 @@ http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/126833
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",M6
-http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127282
+https://s13.tntendirect.com/m6/live/chunks.m3u8?nimblesessionid=4832514&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0MjoxMCBQTSZoYXNoX3ZhbHVlPVVHZXpYci91Sy9GT1AyNzlUK2E4bVE9PSZ2YWxpZG1pbnV0ZXM9MzA=
 
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Toonami_Logo_2019.png" group-title="Animé",Toonami
 http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127100
