@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://bit.ly/tvguideall
 
 #EXTINF:-1 tvg-id="" tvg-name="Tf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Généraliste",Tf1
-https://s13.tntendirect.com/tf1/live/chunks.m3u8?nimblesessionid=4832496&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTozODowNCBQTSZoYXNoX3ZhbHVlPTdja3ZaOXI2NWJSYzdzWU1KMHI2TkE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+http://stream.tvtap.live:8081/live/fr-tf1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDE6MDc6MjcgUE0maGFzaF92YWx1ZT1GOXlMMmJMWDRaUlYxYmQ5V0hZS21RPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-id="" tvg-name="Tf1_Serie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Généraliste",Tf1_Serie
 https://s15.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=9227&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0MzoxNCBQTSZoYXNoX3ZhbHVlPXZ1dHRUWjBNSHNPTlJTNHlMZmRlZHc9PSZ2YWxpZG1pbnV0ZXM9MzA=
@@ -20,7 +20,7 @@ http://www.sansat.net:25461/ZUB2HJXTD11QCJC/MZQA2RUAV4MMXLT/127322
 http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127323
 
 #EXTINF:-1 tvg-id="" tvg-name="Arte" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",Arte
-https://s15.tntendirect.com/arte/live/chunks.m3u8?nimblesessionid=9172&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTozMzozNyBQTSZoYXNoX3ZhbHVlPXNPVzVEWWxwZHh2OUtjL1dNRXd3b2c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIyIDE6MDU6MzYgUE0maGFzaF92YWx1ZT14NkxZblpjVW9NT0JjYzVzakRkcWFnPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 tvg-id="" tvg-name="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",C8
 https://s13.tntendirect.com/d8/live/chunks.m3u8?nimblesessionid=4832532&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0NTowMyBQTSZoYXNoX3ZhbHVlPWdSZXRSNzFZdG1zUlJSRVQwUlg0YlE9PSZ2YWxpZG1pbnV0ZXM9MzA=
