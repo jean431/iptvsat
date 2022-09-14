@@ -11,7 +11,7 @@ https://s15.tntendirect.com/hd1/live/chunks.m3u8?nimblesessionid=9227&wmsAuthSig
 http://56.banroudara.xyz.global.prod.fastly.net/live/143/index.m3u8?t=OoMr0qVUbBwaR51wOAiWfA&e=1663172682
 
 #EXTINF:-1 tvg-id="" tvg-name="france 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="Généraliste",france 3
-https://s12.tntendirect.com/france3/live/chunks.m3u8?nimblesessionid=768836&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0MDozOCBQTSZoYXNoX3ZhbHVlPVI5RVBMSk9vLzkxMWFweGdaS0hoS2c9PSZ2YWxpZG1pbnV0ZXM9MzA=
+http://xy.mtfxg.xyz:8081/frn/france3/chunks.m3u8?nimblesessionid=5559427&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MzQ6NTcgUE0maGFzaF92YWx1ZT11QmZnK1UrRzR0R2tOUk4yaEhPZFZBPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="france 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png" group-title="Généraliste",france 4
 http://56.banroudara.xyz.global.prod.fastly.net/live/145/index.m3u8?t=yofNJbR3MfAYaWLOe0EL9Q&e=1663172978
@@ -61,7 +61,7 @@ http://56.banroudara.xyz.global.prod.fastly.net/live/106/index.m3u8?t=Js9duv7DVD
 
 
 #EXTINF:-1 tvg-id="" tvg-name="M6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Logo_M6_%282020%2C_fond_clair%29.svg/1200px-Logo_M6_%282020%2C_fond_clair%29.svg.png" group-title="Généraliste",M6
-https://s13.tntendirect.com/m6/live/chunks.m3u8?nimblesessionid=4832514&wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjIgNTo0MjoxMCBQTSZoYXNoX3ZhbHVlPVVHZXpYci91Sy9GT1AyNzlUK2E4bVE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+http://xy.mtfxg.xyz:8081/frn/m6/chunks.m3u8?nimblesessionid=5557506&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MjY6MjEgUE0maGFzaF92YWx1ZT11T0kxTHdmcS9VODhydEJLTWM0WDR3PT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Toonami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Toonami_Logo_2019.png" group-title="Animé",Toonami
 http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127100
@@ -112,7 +112,7 @@ http://n3.yacinelivetv.com/live/652177700/index.m3u8?t=epSd4x0h3_SVC3AiylhyEQ&e=
 http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=822492&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6NTg6MjEgUE0maGFzaF92YWx1ZT1UWisvMkRZWkptd2NXaWlveUJrUTVnPT0mdmFsaWRtaW51dGVzPTI=
 
 #EXTINF:-1 tvg-id="" tvg-name="Action" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Action
-http://n.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=820400&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MDU6MTMgUE0maGFzaF92YWx1ZT1ZUkt0bXFKU292eUQ5aUJRTVgwdGlBPT0mdmFsaWRtaW51dGVzPTI=
+http://xy.mtfxg.xyz:8081/frn/action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDIyIDQ6MjY6MTMgUE0maGFzaF92YWx1ZT1qM21IOFRkNXZvRk9zYzVLVFl4V0hnPT0mdmFsaWRtaW51dGVzPTI=
 
 
 
