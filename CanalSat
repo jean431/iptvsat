@@ -82,7 +82,7 @@ http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/127112
 http://56.banroudara.xyz.global.prod.fastly.net/live/082/index.m3u8?t=ymj6gw8l_X7R66eP_QwtRg&e=1663173757
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+_Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Canal+_Sport
-http://www.sansat.net:25461/3OF5CJ6DRMYBBX2/64HRO2FCNLGJETQ/126834
+http://56.banroudara.xyz.global.prod.fastly.net/live/117/index.m3u8?t=p4t4LAWImw1DDEEKJeKs9w&e=1663174617
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal+_Premier_League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Canal+_Premier_League
@@ -103,10 +103,10 @@ http://56.banroudara.xyz.global.prod.fastly.net/live/138/index.m3u8?t=5l_NCfoDBx
 http://56.banroudara.xyz.global.prod.fastly.net/live/139/index.m3u8?t=nvn30-xFR_yVbU2NSQ39Aw&e=1663173496
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport1
-http://o.mtfxg.xyz:8081/us1new/bein1fr/chunks.m3u8?nimblesessionid=1437483&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MTk6NDQgUE0maGFzaF92YWx1ZT1acUhVeHF0M2IvbGQwc2tIMGpLaWF3PT0mdmFsaWRtaW51dGVzPTI=
+http://n14.yacinelivetv.com/live/33523510/index.m3u8?t=w_MPvz4S0NVlE-1ed7-Vgw&e=1663174349
 
 #EXTINF:-1 tvg-id="" tvg-name="Beinsport2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/TF1_logo_2013.png/800px-TF1_logo_2013.png" group-title="Sport",Beinsport2
-http://o.mtfxg.xyz:8081/us1new/bein2fr/chunks.m3u8?nimblesessionid=1437569&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6MjE6MDAgUE0maGFzaF92YWx1ZT0rNUVaUWRUOU9WVFZVUldUeWVraElRPT0mdmFsaWRtaW51dGVzPTI=
+http://n3.yacinelivetv.com/live/652177700/index.m3u8?t=epSd4x0h3_SVC3AiylhyEQ&e=1663174462
 
 #EXTINF:-1 tvg-id="" tvg-name="Rtl9" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Amine",Rtl9
 http://n.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=822492&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDg6NTg6MjEgUE0maGFzaF92YWx1ZT1UWisvMkRZWkptd2NXaWlveUJrUTVnPT0mdmFsaWRtaW51dGVzPTI=
