@@ -39,17 +39,24 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="|FR|🇫🇷 FRANCE",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="France",6Ter
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="France",6Ter
 https://s7.tntendirect.com/6ter/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="My Comedie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="FRANCE",My Comedie
+#EXTINF:-1 tvg-id="" tvg-name="My Comedie" tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="FRANCE",My Comedie
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zw8t0#tab_embed.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="D5 Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="FRANCE",D5 Tv
+#EXTINF:-1 tvg-id="" tvg-name="D5 Tv" tvg-logo="http://mytelevision.tv/assets/img/chaines/d5tv.png" group-title="FRANCE",D5 Tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zw38l#tab_embed.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="D5 Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="FRANCE",D5 Music
+#EXTINF:-1 tvg-id="" tvg-name="D5 Music" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="FRANCE",D5 Music
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7zw8q9&tab_embed.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR|🇫🇷 FRANCE",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="|FR|🇫🇷 FRANCE",TF1 SERIES FILMS
+http://190.2.155.162:8080/m6music/mpegts
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 24 FR
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u
