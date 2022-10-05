@@ -23,6 +23,10 @@ https://hls.mbconline.xyz/live/education/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="Local",BTV
 https://hls.mbconline.xyz/live/BTV/index.m3u8
 
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="FRANCE",Antenne Réunion
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="|FR|🇫🇷 FRANCE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
