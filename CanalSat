@@ -80,9 +80,15 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="|FR|🇫🇷 FRANCE",TF1 SERIES FILMS
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="MTVHitsFrance.fr" tvg-country="FR" tvg-logo="" group-title="France",MTV Hits France (720p) [Not 24/7] [English] [music]
+http://190.2.155.162:8080/mtvhit/mpegts
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="|FR|🇫🇷 FRANCE",MTVFrance
 http://190.2.155.162:8080/mtvfrance/mpegts
+
+#EXTINF:-1 tvg-id="" tvg-country="FR" tvg-logo="" group-title="France",Fun Radio (720p)
+https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
 https://euronews.alteox.app/hls/fr_stream.m3u8
