@@ -97,6 +97,9 @@ https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
 https://euronews.alteox.app/hls/fr_stream.m3u8
 
+#EXTINF:0 tvg-name="medi1-tv" tvg-id="medi1-tv" tvg-language="French" tvg-country="CF" tvg-logo="https://i.imgur.com/2bwPnSg.png" group-title="News",Medi 1 TV
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|🇫🇷 FRANCE",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 
