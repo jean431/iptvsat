@@ -52,6 +52,10 @@ http://ott-cdn.ucom.am/s49/index.m3u8
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 
 
+#EXTINF:0 tvg-country="FR" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="|FR|🇫🇷 FRANCE",D5 Music
+https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="|FR|🇫🇷 FRANCE",M6music
 http://190.2.155.162:8080/m6music/mpegts
 
