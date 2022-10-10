@@ -134,7 +134,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|FR|🇫🇷 FRANCE",SPORT EN FRANCE
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe08d0f4124b46a3e.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="|FR|🇫🇷 FRANCE",SPORT EN FRANCE
+#EXTINF:0 tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe08d0f4124b46a3e.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-1.png" group-title="|FR|🇫🇷 FRANCE",RMC 1
 http://xx.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=10039754&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMiAxMjozMzo0NiBQTSZoYXNoX3ZhbHVlPXZvaDZNdzhDUEZKZkFzL2l2WlZNMEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
