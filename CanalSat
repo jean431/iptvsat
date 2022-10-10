@@ -46,6 +46,9 @@ https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE2
 http://dk1.mtfxg.xyz:8081/frn/france2/chunks.m3u8?nimblesessionid=3075245&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMiAxMTo1NDo0OSBBTSZoYXNoX3ZhbHVlPU9zVDYzci9uUEVhYkVTNzBkeEFRclE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="|FR|🇫🇷 FRANCE",RTL9
+http://dk1.mtfxg.xyz:8081/frn/rtl9/chunks.m3u8?nimblesessionid=3075949&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMiAxMjowMzo0OCBQTSZoYXNoX3ZhbHVlPWRoNXBYUE0vRGtqZ1pSSGxtbnM5S0E9PSZ2YWxpZG1pbnV0ZXM9Mg==
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
