@@ -35,6 +35,15 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="|FR|🇫🇷 FRANCE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="|FR|🇫🇷 FRANCE"Arte
+http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjE4OjIyIFBNJmhhc2hfdmFsdWU9TTJ2Y213alN4YnZuYTQrTW5IWUtEZz09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/500px-Logo_C8.svg.png" group-title="|FR|🇫🇷 FRANCE"C8
+http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjIzOjExIFBNJmhhc2hfdmFsdWU9ZlVkNmxPK2VtcjlxU21keGlJVjdwZz09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/800px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="|FR|🇫🇷 FRANCE"CANALPLUScinema
+http://stream.tvtap.live:8081/live/fr-canalplus-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjI2OjE4IFBNJmhhc2hfdmFsdWU9end1NG1sbzR6RS9LRDhLVkthcjJ3dz09JnZhbGlkbWludXRlcz0yMA==
+
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
@@ -135,7 +144,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1_UHD.png" group-title="|FR|🇫🇷 FRANCE",RMC 1
-http://xx.mtfxg.xyz:8081/frn/sfrsport1/chunks.m3u8?nimblesessionid=10039754&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMiAxMjozMzo0NiBQTSZoYXNoX3ZhbHVlPXZvaDZNdzhDUEZKZkFzL2l2WlZNMEE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjMyOjE0IFBNJmhhc2hfdmFsdWU9c3I5MEdZdEMzMG54MU1VZGtDczJEZz09JnZhbGlkbWludXRlcz0yMA==
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Films",Wildside Tv
