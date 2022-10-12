@@ -35,56 +35,56 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="|FR|🇫🇷 FRANCE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
-#EXTINF:-0 tvg-id="ARTE" tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="|FR|🇫🇷 FRANCE",Arte
+#EXTINF:-1 tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="|FR|🇫🇷 FRANCE",Arte
 http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjE4OjIyIFBNJmhhc2hfdmFsdWU9TTJ2Y213alN4YnZuYTQrTW5IWUtEZz09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-0 tvg-id="C8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/500px-Logo_C8.svg.png" group-title="|FR|🇫🇷 FRANCE",C8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/500px-Logo_C8.svg.png" group-title="|FR|🇫🇷 FRANCE",C8
 http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjIzOjExIFBNJmhhc2hfdmFsdWU9ZlVkNmxPK2VtcjlxU21keGlJVjdwZz09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-0 tvg-id="CANALPLUScinama" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/800px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="|FR|🇫🇷 FRANCE",CANALPLUScinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/800px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="|FR|🇫🇷 FRANCE",CANALPLUScinema
 http://stream.tvtap.live:8081/live/fr-canalplus-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjI2OjE4IFBNJmhhc2hfdmFsdWU9end1NG1sbzR6RS9LRDhLVkthcjJ3dz09JnZhbGlkbWludXRlcz0yMA==
 
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 FRANCE",TF1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="|FR|🇫🇷 FRANCE",TF1 SERIES FILMS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="|FR|🇫🇷 FRANCE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE2
 http://livespecial.rbnewtv.com:21190/apollo/france2/chunks.m3u8?nimblesessionid=161376803&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA0OjMyOjEyIEFNJmhhc2hfdmFsdWU9NC94L0JOT1M4WFVEVDFBZ1hBNklwdz09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="|FR|🇫🇷 FRANCE",RTL9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="|FR|🇫🇷 FRANCE",RTL9
 http://livespecial.rbnewtv.com:21190/apollo/rtl9/chunks.m3u8?nimblesessionid=161379191&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA0OjM1OjI4IEFNJmhhc2hfdmFsdWU9anM5THU4S1ZYNnIvbmhIVE05OGNqZz09JnZhbGlkbWludXRlcz0y
 
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="|FR|🇫🇷 FRANCE",M6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="|FR|🇫🇷 FRANCE",MCMpop
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="|FR|🇫🇷 FRANCE",MCMpop
 http://ott-cdn.ucom.am/s49/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="|FR|🇫🇷 FRANCE",D5TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="|FR|🇫🇷 FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 
 
-#EXTINF:-0 tvg-country="FR" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="|FR|🇫🇷 FRANCE",D5 Music
+#EXTINF:-1 tvg-country="FR" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="|FR|🇫🇷 FRANCE",D5 Music
 https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="|FR|🇫🇷 FRANCE",M6music
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="|FR|🇫🇷 FRANCE",M6music
 http://190.2.155.162:8080/m6music/mpegts
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR|🇫🇷 FRANCE",TRACE URBAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="|FR|🇫🇷 FRANCE",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/800px-TRACE_Latina_Logo.png" group-title="|FR|🇫🇷 FRANCE",TRACE Latina
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/800px-TRACE_Latina_Logo.png" group-title="|FR|🇫🇷 FRANCE",TRACE Latina
 http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
 
 
 
-#EXTINF:-0 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="|FR|🇫🇷 FRANCE",Action
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="|FR|🇫🇷 FRANCE",Action
 http://dk1.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=3074372&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMiAxMTo0MjoyMyBBTSZoYXNoX3ZhbHVlPWJvVVJUcmhuK29oeTBtTDdNc3gva3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
 
 
@@ -92,16 +92,16 @@ http://dk1.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=3074372&wmsAuth
 #EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="|FR|🇫🇷 FRANCE ",6Ter
 https://s7.tntendirect.com/6ter/live/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR|🇫🇷 FRANCE",NRJ 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR|🇫🇷 FRANCE",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="|FR|🇫🇷 FRANCE",TMC
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="|FR|🇫🇷 FRANCE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png" group-title="|FR|🇫🇷 FRANCE",TFX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png" group-title="|FR|🇫🇷 FRANCE",TFX
 https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
 
-#EXTINF:-0 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="|FR|🇫🇷 FRANCE",CHERIE 25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="|FR|🇫🇷 FRANCE",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="My Comedie" tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="|FR|🇫🇷 FRANCE",My Comedie
@@ -110,41 +110,45 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vid
 #EXTINF:-1 tvg-id="MTVHitsFrance"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="|FR|🇫🇷 FRANCE",MTV Hits France
 http://190.2.155.162:8080/mtvhit/mpegts
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="|FR|🇫🇷 FRANCE",MTVFrance
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="|FR|🇫🇷 FRANCE",MTVFrance
 http://190.2.155.162:8080/mtvfrance/mpegts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/2560px-Logo_Fun_Radio_%282021%29.svg.png" group-title="|FR|🇫🇷 FRANCE",Fun Radio (720p)
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="|FR|🇫🇷 FRANCE",TV PITCHOUN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="|FR|🇫🇷 FRANCE",TV PITCHOUN
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="|FR|🇫🇷 FRANCE",TIJI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="|FR|🇫🇷 FRANCE",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR|🇫🇷 FRANCE",GULLI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR|🇫🇷 FRANCE",GULLI
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 24 FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 24 FR
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
 https://euronews.alteox.app/hls/fr_stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/2bwPnSg.png" group-title="|FR|🇫🇷 FRANCE",Medi 1 TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2bwPnSg.png" group-title="|FR|🇫🇷 FRANCE",Medi 1 TV
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|🇫🇷 FRANCE",TELE NOVELA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|🇫🇷 FRANCE",TELE NOVELA TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",KTO
+#EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|FR|🇫🇷 FRANCE",SPORT EN FRANCE
+#EXTINF:- tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|FR|🇫🇷 FRANCE",SPORT EN FRANCE
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1_UHD.png" group-title="|FR|🇫🇷 FRANCE",RMC 1
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1_UHD.png" group-title="|FR|🇫🇷 FRANCE",RMC 1
 http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjMyOjE0IFBNJmhhc2hfdmFsdWU9c3I5MEdZdEMzMG54MU1VZGtDczJEZz09JnZhbGlkbWludXRlcz0yMA==
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="|FR|🇫🇷 FRANCE",BEINsport1
+http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjQ4OjQwIFBNJmhhc2hfdmFsdWU9SmFnM2xXUlV0bVFMUEk3MmN6SlJWdz09JnZhbGlkbWludXRlcz0yMA==
+
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Films",Wildside Tv
