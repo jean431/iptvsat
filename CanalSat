@@ -152,6 +152,22 @@ http://livespecial.rbnewtv.com:21190/apollo/sfrsport2/playlist.m3u8?wmsAuthSign=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="|FR|🇫🇷 FRANCE",RMC 3
 http://livespecial.rbnewtv.com:21190/apollo/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA3OjI0OjU3IFBNJmhhc2hfdmFsdWU9cjZGaXRkVTcvemsxU0xiVjVkREFMUT09JnZhbGlkbWludXRlcz0y
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="|FR|🇫🇷 FRANCE",BEINsport 1
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="|FR|🇫🇷 FRANCE",BEINsport 2
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="|FR|🇫🇷 FRANCE",BEINsport 3
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+
+
+
+
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Films",Wildside Tv
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
