@@ -437,11 +437,12 @@ https://9dd705dfd14b4d3cac606b4672142dd9.mediatailor.us-east-1.amazonaws.com/v1/
 https://43e98e0eaa9b4118b1b79e62f98cff7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenFamily/playlist.m3u8?ads.wurl_channel=720&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="FRAJ4500025AN" tvg-chno="4549" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/41/FRAJ4500025AN_20210923T010843.png" group-title="Films",Films dramatiques - Rakuten TV
 https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenTVShows/playlist.m3u8?ads.wurl_channel=449&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+
 #EXTINF:-1 tvg-id="FRAJ4500023UP" tvg-chno="4550" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/19/FRAJ4500023UP_20210923T010838.png" group-title="Films",Films d'action - Rakuten TV
 https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=447&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-
-
+#EXTINF:-1 tvg-id="Woman king"tvg-logo=" https://www.pennlive.com/resizer/g2rbxxOUmcTkAh5fBZVVOWUOQRg=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ASWKMQBE2FESHHHRKLQVKG43RE.png" group-title="Films",Woman king
+http://127.0.0.1:11470/07348099d89863c22ec80ac3d343aa9e22c30e21/%5B%20Torrent911.cc%20%5D%20The.Woman.King.2022.FRENCH.HDCAM.MD.x264-RZP.avi
 
 
 
