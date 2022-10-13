@@ -146,9 +146,11 @@ https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1_UHD.png" group-title="|FR|🇫🇷 FRANCE",RMC 1
 http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA2OjUwOjQ1IFBNJmhhc2hfdmFsdWU9Z1JrcXRYM1ZHcGJ1S3ovVDhYRUwvQT09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="|FR|🇫🇷 FRANCE",BEINsport1
-http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjQ4OjQwIFBNJmhhc2hfdmFsdWU9SmFnM2xXUlV0bVFMUEk3MmN6SlJWdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/rmc-sport-2.png" group-title="|FR|🇫🇷 FRANCE",RMC 2
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA3OjE5OjA3IFBNJmhhc2hfdmFsdWU9Y3Mwb0M0Zk9Lb0RZUE9pdTFXK2NCUT09JnZhbGlkbWludXRlcz0y
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="|FR|🇫🇷 FRANCE",RMC 3
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA3OjI0OjU3IFBNJmhhc2hfdmFsdWU9cjZGaXRkVTcvemsxU0xiVjVkREFMUT09JnZhbGlkbWludXRlcz0y
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
 #EXTINF:-1 tvg-id="" tvg-name="Wildside Tv" tvg-logo="https://png.pngitem.com/pimgs/s/111-1114273_afro-music-pop-logo-hd-png-download.png" group-title="Films",Wildside Tv
