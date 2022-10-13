@@ -38,8 +38,8 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png" group-title="|FR|🇫🇷 FRANCE",Arte
 http://stream.tvtap.live:8081/live/fr-arte.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjE4OjIyIFBNJmhhc2hfdmFsdWU9TTJ2Y213alN4YnZuYTQrTW5IWUtEZz09JnZhbGlkbWludXRlcz0yMA==
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/500px-Logo_C8.svg.png" group-title="|FR|🇫🇷 FRANCE",C8
-http://stream.tvtap.live:8081/live/fr-c8.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjIzOjExIFBNJmhhc2hfdmFsdWU9ZlVkNmxPK2VtcjlxU21keGlJVjdwZz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="|FR|🇫🇷 FRANCE",E-entertainment
+http://livespecial.rbnewtv.com:21190/apollo/eentertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA2OjU2OjIxIFBNJmhhc2hfdmFsdWU9NEFsRXR6ZVZpR2prK20ycWdrRjQ3dz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Canal%2B_Cin%C3%A9ma_2013.svg/800px-Canal%2B_Cin%C3%A9ma_2013.svg.png" group-title="|FR|🇫🇷 FRANCE",CANALPLUScinema
 http://stream.tvtap.live:8081/live/fr-canalplus-cinema.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjI2OjE4IFBNJmhhc2hfdmFsdWU9end1NG1sbzR6RS9LRDhLVkthcjJ3dz09JnZhbGlkbWludXRlcz0yMA==
@@ -56,7 +56,7 @@ https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m
 http://livespecial.rbnewtv.com:21190/apollo/france2/chunks.m3u8?nimblesessionid=161376803&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA0OjMyOjEyIEFNJmhhc2hfdmFsdWU9NC94L0JOT1M4WFVEVDFBZ1hBNklwdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="|FR|🇫🇷 FRANCE",RTL9
-http://livespecial.rbnewtv.com:21190/apollo/rtl9/chunks.m3u8?nimblesessionid=161379191&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyMiA0OjM1OjI4IEFNJmhhc2hfdmFsdWU9anM5THU4S1ZYNnIvbmhIVE05OGNqZz09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/rtl9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA2OjQ3OjU0IFBNJmhhc2hfdmFsdWU9NnM1NENYYjl6TVFOUXJPMUZZSWxHZz09JnZhbGlkbWludXRlcz0y
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="|FR|🇫🇷 FRANCE",M6
@@ -85,11 +85,11 @@ http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="|FR|🇫🇷 FRANCE",Action
-http://dk1.mtfxg.xyz:8081/frn/action/chunks.m3u8?nimblesessionid=3074372&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTAvMjAyMiAxMTo0MjoyMyBBTSZoYXNoX3ZhbHVlPWJvVVJUcmhuK29oeTBtTDdNc3gva3c9PSZ2YWxpZG1pbnV0ZXM9Mg==
+http://livespecial.rbnewtv.com:21190/apollo/action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA2OjQyOjAyIFBNJmhhc2hfdmFsdWU9VVlSdXhaMHJ1SlJQR2hpMXFXMzQwUT09JnZhbGlkbWludXRlcz0y
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="|FR|🇫🇷 FRANCE ",6Ter
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="|FR|🇫🇷 FRANCE",6Ter
 https://s7.tntendirect.com/6ter/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR|🇫🇷 FRANCE",NRJ 12
@@ -144,7 +144,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1_UHD.png" group-title="|FR|🇫🇷 FRANCE",RMC 1
-http://stream.tvtap.live:8081/live/fr-sfr1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjMyOjE0IFBNJmhhc2hfdmFsdWU9c3I5MEdZdEMzMG54MU1VZGtDczJEZz09JnZhbGlkbWludXRlcz0yMA==
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA2OjUwOjQ1IFBNJmhhc2hfdmFsdWU9Z1JrcXRYM1ZHcGJ1S3ovVDhYRUwvQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="|FR|🇫🇷 FRANCE",BEINsport1
 http://stream.tvtap.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMiA3OjQ4OjQwIFBNJmhhc2hfdmFsdWU9SmFnM2xXUlV0bVFMUEk3MmN6SlJWdz09JnZhbGlkbWludXRlcz0yMA==
@@ -441,8 +441,6 @@ https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FRAJ4500023UP" tvg-chno="4550" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/19/FRAJ4500023UP_20210923T010838.png" group-title="Films",Films d'action - Rakuten TV
 https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=447&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-id="Woman king"tvg-logo=" https://www.pennlive.com/resizer/g2rbxxOUmcTkAh5fBZVVOWUOQRg=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ASWKMQBE2FESHHHRKLQVKG43RE.png" group-title="Films",Woman king
-http://127.0.0.1:11470/07348099d89863c22ec80ac3d343aa9e22c30e21/%5B%20Torrent911.cc%20%5D%20The.Woman.King.2022.FRENCH.HDCAM.MD.x264-RZP.avi
 
 
 
