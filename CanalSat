@@ -88,8 +88,7 @@ http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="|FR|🇫🇷 FRANCE",Action
-http://livespecial.rbnewtv.com:21190/apollo/action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTMvMjAyMiA2OjQyOjAyIFBNJmhhc2hfdmFsdWU9VVlSdXhaMHJ1SlJQR2hpMXFXMzQwUT09JnZhbGlkbWludXRlcz0y
-
+http://livespecial.rbnewtv.com:21190/apollo/action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyMiA0OjE4OjE2IEFNJmhhc2hfdmFsdWU9d1cwVTBtcXpvSWdCMmh2VU05dllYZz09JnZhbGlkbWludXRlcz0y
 
 
 #EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="|FR|🇫🇷 FRANCE",6Ter
