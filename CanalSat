@@ -175,83 +175,48 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 
-
-Wall post
-Exclusive iptv list ,
-27 Nov 2021 at 9:41 am
-Sport Iptv List ⚽🇪🇸🇮🇹🇧🇷🇩🇪🇵🇹🇲🇫🇦🇷🇳🇱🇧🇪🇬🇧
-
-#EXTM3U
-#EXTINF:-1 group-title="ALL" ,BARCA TV
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-#EXTINF:-1,BBC1
-http://93.152.174.144:4000/play/bbc1/index.m3u8
-#EXTINF:-1,BBC2
-http://93.152.174.144:4000/play/bbc2/index.m3u8
-#EXTINF:-1,BEINSPORTAR
-http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
-#EXTINF:-1,BT SPORT 1
-http://93.152.174.144:4000/play/btsport1/index.m3u8
-#EXTINF:-1,BT SPORT 2
-http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1,BT SPORT ESPN
-http://93.152.174.144:4000/play/btsportespn/index.m3u8
-#EXTINF:-1,Bein LaLiga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-#EXTINF:-1,Bein Sport 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1,Bein Sport 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:-1,Bein Sports 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:-1,Bein Sports 3 AR
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1,Bein Sports 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1,Bein Sports 5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:-1,Bein Sports 7 AR
-http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:-1,Cuatro HD SP
-http://93.152.174.144:4000/play/cuatrosp/index.m3u8
-#EXTINF:-1,Energy SP
-http://93.152.174.144:4000/play/energysp/index.m3u8
-#EXTINF:-1,Film4
-http://93.152.174.144:4000/play/film4/index.m3u8
-#EXTINF:-1,ITV_1
-http://93.152.174.144:4000/play/itv1/index.m3u8
-#EXTINF:-1,ITV_2
-http://93.152.174.144:4000/play/itv2/index.m3u8
-#EXTINF:-1,Penthouse Gold
-http://93.152.174.144:4000/play/Penthouse/index.m3u8
-#EXTINF:-1,Redlight
-http://93.152.174.144:4000/play/Redlight/index.m3u8
-#EXTINF:-1,SIC Notiacias PT
-http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
-#EXTINF:-1,SIC PT
-http://93.152.174.144:4000/play/sic/index.m3u8
-#EXTINF:-1,SPORT TV 1 PT
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:-1,Sky Sports 2
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1,Sky Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1,Sky Sports 4
-http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:-1,Sky Sports 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:-1,Sky Sports News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:-1,Sky Sports f1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:-1,WWE NETWORK
-http://93.152.174.144:4000/play/WWE/index.m3u8
-#EXTINF:-1 group-title="-" ,SPORT TV 1 PT
-http://93.152.174.144:4000/play/a00f/index.m3u8
-
-http://93.152.174.144:4000/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" status="online",Rakuten TV Films Action (720p)
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" status="online",Rakuten TV Films Action (720p)
+https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" status="online",Rakuten Comedy Movies France (720p)
+https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" status="online",Rakuten Comedy Movies France (720p)
+https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" status="online",Rakuten Spotlight France (720p)
+https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" status="online",Rakuten Spotlight France (720p)
+https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Anime Digital Network
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV BBC Doctor Who France (720p)
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV BBC Drama (720p)
+https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Documentaires (720p)
+https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Documentaires (720p)
+https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Films Drames (720p)
+https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Films Drames (720p)
+https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Films Français (720p)
+https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Films Thriller (720p)
+https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Gusto.tv
+https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV L'Atelier des Chefs (720p)
+https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Romance (720p)
+https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Romance (720p)
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Top Films (720p)
+https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" status="online",Rakuten TV Top Films (720p)
+https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
 
 
 
