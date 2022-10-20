@@ -177,24 +177,32 @@ http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" status="online",Rakuten TV Films Action (720p)
 https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" status="online",Rakuten TV Films Action (720p)
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" status="online",Rakuten Comedy Movies France (720p)
 https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" status="online",Rakuten Comedy Movies France (720p)
 https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" status="online",Rakuten Spotlight France (720p)
 https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" status="online",Rakuten Spotlight France (720p)
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="online",Rakuten TV Anime Digital Network
-https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+
+
 #EXTINF:-1 tvg-id="" status="online",Rakuten TV BBC Doctor Who France (720p)
 https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" status="online",Rakuten TV BBC Drama (720p)
 https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" status="online",Rakuten TV Documentaires (720p)
 https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" status="online",Rakuten TV Documentaires (720p)
 https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Rakuten TV Films Drames (720p)
@@ -446,7 +454,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fff2
 #EXTINF:-1 tvg-id="FRAJ3800007V8" tvg-chno="4270" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/69/FRAJ3800007V8_20210811T021822.png" group-title="Divertissement",Pluto TV Series
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffebb618f6cb4000728082c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Divertissement",ADN
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-adn-samsung-fre/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=1
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="FRAJ3800010QO" tvg-chno="4300" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/22/FRAJ3800010QO_20210609T005044.png" group-title="Jeunesse",Bob L'eponge+
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/609a33d06972da0007748ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
 #EXTINF:-1 tvg-id="FRBA15000078J" tvg-chno="4301" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/27/FRBA15000078J_20200923T100332.png" group-title="Jeunesse",RiC TV
@@ -462,7 +470,7 @@ https://cbbcdf4b20e0474f92d7d03a48faa5f2.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="FRBA3300028VI" tvg-chno="4306" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/47/FRBA3300028VI_20210113T004313.png" group-title="Jeunesse",Caillou
 https://2586fb1e60a44262aa11697e876c1f1a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_WildBrainPresentsCaillou/playlist.m3u8?ads.wurl_channel=666&ads.wurl_name=WildBrainPresentsCaillou&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="Lifestyle",L'Atelier des chefs
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-ateliersdeschef-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FRBA3300060U8" tvg-chno="4352" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/06/92/FRBA3300060U8_20210811T022112.png" group-title="Lifestyle",LUXE.TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00712-alchimie-luxefr-samsungfr/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="FRBA1500002QQ" tvg-chno="4357" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/24/FRBA1500002QQ_20210609T004716.png" group-title="Lifestyle",Monarda Arts
