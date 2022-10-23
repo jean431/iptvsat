@@ -45,6 +45,11 @@ http://livespecial.rbnewtv.com:21190/apollo/eentertainment/playlist.m3u8?wmsAuth
 http://livespecial.rbnewtv.com:21190/apollo/france5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjQ2OjE3IFBNJmhhc2hfdmFsdWU9Y1hEbjM4aFZZd0VvQ1k5V1QvVlZTZz09JnZhbGlkbWludXRlcz0y
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Arte
+https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/1666549729280.ts
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 
