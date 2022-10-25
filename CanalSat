@@ -35,8 +35,8 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="|FR|🇫🇷 FRANCE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_Animaux_TV_2011.png" group-title="|FR|🇫🇷 FRANCE",Animaux
-http://livespecial.rbnewtv.com:21190/apollo/animaux/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjU3OjQ5IFBNJmhhc2hfdmFsdWU9TU9sV3J3d3FCL0d4ano3VmwxeERUZz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_Animaux_TV_2011.png" group-title="|FR|🇫🇷 FRANCE",Canal+
+https://stream-01.sg1.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOGy7pKyntqerS3QIyfBW6zVjIOaCzTiBLQiJc9-DEZ4O)/p/dm/3/x5idy49/d/live-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="|FR|🇫🇷 FRANCE",E-entertainment
 http://livespecial.rbnewtv.com:21190/apollo/eentertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjU1OjMzIFBNJmhhc2hfdmFsdWU9TlUxRFZjTjdxSjUvZVI5NXFDRzA5UT09JnZhbGlkbWludXRlcz0y
@@ -45,7 +45,7 @@ http://livespecial.rbnewtv.com:21190/apollo/eentertainment/playlist.m3u8?wmsAuth
 http://livespecial.rbnewtv.com:21190/apollo/france5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjQ2OjE3IFBNJmhhc2hfdmFsdWU9Y1hEbjM4aFZZd0VvQ1k5V1QvVlZTZz09JnZhbGlkbWludXRlcz0y
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="|FR|🇫🇷 FRANCE",Arte
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="|FR|🇫🇷 FRANCE",C8
 https://stream-09.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLNZ4b6k3PhBmJPECZAacyuXHGmQecQLp01DMMctJbn0)/p/dm/3/x5gv5rr/d/live-3.m3u8
 
 
