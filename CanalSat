@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="http://bit.ly/tvguideall
-
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
@@ -38,25 +37,14 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_Animaux_TV_2011.png" group-title="|FR|🇫🇷 FRANCE",Canal+
 https://stream-01.sg1.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOGy7pKyntqerS3QIyfBW6zVjIOaCzTiBLQiJc9-DEZ4O)/p/dm/3/x5idy49/d/live-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/542/510/png-transparent-television-channel-logo-e-etv-network-tv-channel-television-angle-rectangle.png" group-title="|FR|🇫🇷 FRANCE",E-entertainment
-http://livespecial.rbnewtv.com:21190/apollo/eentertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjU1OjMzIFBNJmhhc2hfdmFsdWU9TlUxRFZjTjdxSjUvZVI5NXFDRzA5UT09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/France_5_logo_antenne_%282008%29.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 5
-http://livespecial.rbnewtv.com:21190/apollo/france5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjQ2OjE3IFBNJmhhc2hfdmFsdWU9Y1hEbjM4aFZZd0VvQ1k5V1QvVlZTZz09JnZhbGlkbWludXRlcz0y
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="|FR|🇫🇷 FRANCE",C8
 https://stream-09.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLNZ4b6k3PhBmJPECZAacyuXHGmQecQLp01DMMctJbn0)/p/dm/3/x5gv5rr/d/live-3.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="|FR|🇫🇷 FRANCE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
 http://livespecial.rbnewtv.com:21190/apollo/france3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjQ0OjU2IFBNJmhhc2hfdmFsdWU9V3dQeHljdnFkZ1N1ZUZMYUdua005UT09JnZhbGlkbWludXRlcz0y
@@ -71,16 +59,12 @@ http://livespecial.rbnewtv.com:21190/apollo/franceo/playlist.m3u8?wmsAuthSign=c2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="|FR|🇫🇷 FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="|FR|🇫🇷 FRANCE",MCMpop
-http://ott-cdn.ucom.am/s49/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="|FR|🇫🇷 FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 
 
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="|FR|🇫🇷 FRANCE",D5 Music
 https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="|FR|🇫🇷 FRANCE",M6music
 http://190.2.155.162:8080/m6music/mpegts
@@ -93,16 +77,12 @@ http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="|FR|🇫🇷 FRANCE",Action
-http://livespecial.rbnewtv.com:21190/apollo/action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjQzOjM5IFBNJmhhc2hfdmFsdWU9ZUdQQllFWFJRNjZqR2ZhekNsYVZwdz09JnZhbGlkbWludXRlcz0y
-
 
 #EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="|FR|🇫🇷 FRANCE",6Ter
 https://s7.tntendirect.com/6ter/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="|FR|🇫🇷 FRANCE",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="|FR|🇫🇷 FRANCE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
@@ -128,9 +108,6 @@ http://190.2.155.162:8080/mtvfrance/mpegts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/2560px-Logo_Fun_Radio_%282021%29.svg.png" group-title="|FR|🇫🇷 FRANCE",Fun Radio (720p)
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/bb/Disney_Cinemagic_logo.png" group-title="|FR|🇫🇷 FRANCE",Disney Cinema
-http://livespecial.rbnewtv.com:21190/apollo/disneycinema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiA0OjA0OjE3IFBNJmhhc2hfdmFsdWU9eFFZRGI3SStIMnJIRjAxRmpGZjA2dz09JnZhbGlkbWludXRlcz0y
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="|FR|🇫🇷 FRANCE",TV PITCHOUN
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
 
@@ -140,8 +117,6 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="|FR|🇫🇷 FRANCE",GULLI
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 24 FR
-http://livespecial.rbnewtv.com:21190/apollo/france24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiA0OjExOjMwIFBNJmhhc2hfdmFsdWU9Nlg5citrc01GVWZxTnZxYXhPTUVyZz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VxLFYSj/euronews.png" group-title="|FR|🇫🇷 FRANCE",EURONEWS FR
 https://euronews.alteox.app/hls/fr_stream.m3u8
@@ -149,36 +124,18 @@ https://euronews.alteox.app/hls/fr_stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2bwPnSg.png" group-title="|FR|🇫🇷 FRANCE",Medi 1 TV
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/grBSqt4/novela.png" group-title="|FR|🇫🇷 FRANCE",TELE NOVELA TV
-https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:- tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp" group-title="|FR|🇫🇷 FRANCE",SPORT EN FRANCE
-https://sportenfrance.ziostream.cloud/hls/sp1564435593_med/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/RMC_Sport_1_UHD.png" group-title="|FR|🇫🇷 FRANCE",RMC 1
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiA0OjA3OjQ0IFBNJmhhc2hfdmFsdWU9SmlqeTVYZTVBc01CVUZiSWdiOGR2Zz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/rmc-sport-2.png" group-title="|FR|🇫🇷 FRANCE",RMC 2
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiA0OjA4OjI5IFBNJmhhc2hfdmFsdWU9ZS9ZWHJxaVkyYWl1eCtZakMxTmxuZz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="|FR|🇫🇷 FRANCE",RMC 3
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiA0OjA5OjExIFBNJmhhc2hfdmFsdWU9WVE5SUxhS2dHWnhKSEZRT3NzbWh2UT09JnZhbGlkbWludXRlcz0y
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="|FR|🇫🇷 FRANCE",BEINsport 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="|FR|🇫🇷 FRANCE",BEINsport 2
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="|FR|🇫🇷 FRANCE",BEINsport 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" status="online",Rakuten TV Films Action (720p)
 https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
@@ -230,11 +187,6 @@ https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Rakuten TV Top Films (720p)
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
-
-
-
-
-
 
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/fr.xml.gz"
