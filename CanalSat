@@ -34,11 +34,11 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="|FR|🇫🇷 FRANCE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_Animaux_TV_2011.png" group-title="|FR|🇫🇷 FRANCE",Canal+
-https://stream-01.sg1.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOGy7pKyntqerS3QIyfBW6zVjIOaCzTiBLQiJc9-DEZ4O)/p/dm/3/x5idy49/d/live-1.m3u8
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_Animaux_TV_2011.png" group-title="|FR|🇫🇷 FRANCE",Action
+http://livespecial.rbnewtv.com:21190/apollo/action/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA0OjUzOjA2IEFNJmhhc2hfdmFsdWU9R0JQU3FGQ3VTTnlLeHE2T2xPemlyQT09JnZhbGlkbWludXRlcz0y
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="|FR|🇫🇷 FRANCE",C8
-https://stream-09.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLNZ4b6k3PhBmJPECZAacyuXHGmQecQLp01DMMctJbn0)/p/dm/3/x5gv5rr/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="|FR|🇫🇷 FRANCE",FRANCE 4
+http://livespecial.rbnewtv.com:21190/apollo/france4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjA0OjQzIEFNJmhhc2hfdmFsdWU9Ky9BUDQ2bUNMUTFNRStPM3ordDJLQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="|FR|🇫🇷 FRANCE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
@@ -47,7 +47,7 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="|FR|🇫🇷 FRANCE",FRANCE 3
-http://livespecial.rbnewtv.com:21190/apollo/france3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjQ0OjU2IFBNJmhhc2hfdmFsdWU9V3dQeHljdnFkZ1N1ZUZMYUdua005UT09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/france3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA0OjU4OjU3IEFNJmhhc2hfdmFsdWU9UVVRMUI4L205cGluSnNTa3k4bVJUQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="|FR|🇫🇷 FRANCE",RTL9
 http://livespecial.rbnewtv.com:21190/apollo/rtl9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjQwOjE3IFBNJmhhc2hfdmFsdWU9Nmw1Q3VkZGZYdTVXNGs4ZGhXNjZwUT09JnZhbGlkbWludXRlcz0y
@@ -127,6 +127,16 @@ https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
 
 #EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+
+#EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",Rmc1
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjAwOjU3IEFNJmhhc2hfdmFsdWU9UFZkWHd0UnJGQmZRTW8xUHVzaW9rQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",Rmc2
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjAyOjUyIEFNJmhhc2hfdmFsdWU9MUh6RCtEOWo4ZGhOTHZiS0c2RnFhQT09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="|FR|🇫🇷 FRANCE",Rmc3
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjAzOjM5IEFNJmhhc2hfdmFsdWU9ZndGaDBJMXcxS1o2SmNVRlowWXBIUT09JnZhbGlkbWludXRlcz0y
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="|FR|🇫🇷 FRANCE",BEINsport 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
