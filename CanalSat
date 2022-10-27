@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml"
-#EXTM3U x-tvg-url="http://bit.ly/tvguideall"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml"
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/fr/beinsports.com.epg.xml")
+EXTINF:-1 tvg-id="https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.epg.xml"
+#EXTINF:-1 tvg-id="http://bit.ly/tvguideall"
+#EXTINF:-1 tvg-id="https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml"
+#EXTINF:-1 tvg-id="https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml"
+#EXTINF:-1 tvg-id="https://iptv-org.github.io/epg/guides/fr/beinsports.com.epg.xml")
 
 
 
