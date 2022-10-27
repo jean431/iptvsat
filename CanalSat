@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url= "https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml"
+#EXTM3U x-tvg-url= "https://tv-programme.telecablesat.fr/programmes-tele"
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
