@@ -32,16 +32,16 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="FRANCE",FRANCE 2
-http://livespecial.rbnewtv.com:21190/apollo/france2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAyOjU5OjEzIFBNJmhhc2hfdmFsdWU9QllpVVJ6NTREN1BleUd0TkkzLzJTZz09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/france2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjU4OjIxIFBNJmhhc2hfdmFsdWU9NkpneWZSYmY2RGZsemtZbWR6c1l5Zz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="FRANCE",FRANCE 3
-http://livespecial.rbnewtv.com:21190/apollo/france3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjAxOjEyIFBNJmhhc2hfdmFsdWU9Ny85VzBneWdsbFRPR25WdEtveXorUT09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/france3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjU5OjUyIFBNJmhhc2hfdmFsdWU9Z2h5aFFRTldZRTI2cHpUbGNGTkI3Zz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="FRANCE",FRANCE 4
 http://livespecial.rbnewtv.com:21190/apollo/france4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjA0OjQzIEFNJmhhc2hfdmFsdWU9Ky9BUDQ2bUNMUTFNRStPM3ordDJLQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="FRANCE",FRANCE 5
-http://livespecial.rbnewtv.com:21190/apollo/france5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjA0OjEwIFBNJmhhc2hfdmFsdWU9L1Q2NC9LQitqcGRMczdUVDF3V1dEdz09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/france5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjAwOjU0IFBNJmhhc2hfdmFsdWU9WmFhVWxJWmxPVFp3SUprVWJBMXB2Zz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
@@ -51,7 +51,7 @@ http://livespecial.rbnewtv.com:21190/apollo/action/playlist.m3u8?wmsAuthSign=c2V
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="FRANCE",RTL9
-http://livespecial.rbnewtv.com:21190/apollo/rtl9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjQwOjE3IFBNJmhhc2hfdmFsdWU9Nmw1Q3VkZGZYdTVXNGs4ZGhXNjZwUT09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/rtl9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjAyOjAyIFBNJmhhc2hfdmFsdWU9Ui9yUXpVaE8vVjhqL05KM2hCbTZQQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="FRANCE",6Ter
 https://s7.tntendirect.com/6ter/live/playlist.m3u8
@@ -141,14 +141,14 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 #EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",Rmc1
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjAwOjU3IEFNJmhhc2hfdmFsdWU9UFZkWHd0UnJGQmZRTW8xUHVzaW9rQT09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjAzOjAwIFBNJmhhc2hfdmFsdWU9U043bk8vaWh0QnNkZzFiMXZSbk1sQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",Rmc2
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjAyOjUyIEFNJmhhc2hfdmFsdWU9MUh6RCtEOWo4ZGhOTHZiS0c2RnFhQT09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjAzOjQ2IFBNJmhhc2hfdmFsdWU9aklzcnFIdzFlcCtQWlRyUERJQnF0UT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",Rmc3
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjAzOjM5IEFNJmhhc2hfdmFsdWU9ZndGaDBJMXcxS1o2SmNVRlowWXBIUT09JnZhbGlkbWludXRlcz0y
 
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjA0OjI1IFBNJmhhc2hfdmFsdWU9bUhtY29yZDk3NkRsQXVkUzR4SFdlQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="FRANCE",BEINsport 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
