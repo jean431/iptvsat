@@ -141,7 +141,7 @@ http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 #EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",Rmc1
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjAzOjAwIFBNJmhhc2hfdmFsdWU9U043bk8vaWh0QnNkZzFiMXZSbk1sQT09JnZhbGlkbWludXRlcz0y
+http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/chunks.m3u8?nimblesessionid=179131773&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA1OjM4OjAyIFBNJmhhc2hfdmFsdWU9LzNPek8za1dFQXRGK08yaXprNExzUT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",Rmc2
 http://livespecial.rbnewtv.com:21190/apollo/sfrsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjAzOjQ2IFBNJmhhc2hfdmFsdWU9aklzcnFIdzFlcCtQWlRyUERJQnF0UT09JnZhbGlkbWludXRlcz0y
