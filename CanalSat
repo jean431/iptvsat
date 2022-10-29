@@ -32,7 +32,7 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="FRANCE",FRANCE 2
-http://livespecial.rbnewtv.com:21190/apollo/france2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjU4OjIxIFBNJmhhc2hfdmFsdWU9NkpneWZSYmY2RGZsemtZbWR6c1l5Zz09JnZhbGlkbWludXRlcz0y
+https://eliotlencelot.fr/Applications/Proxy/Proxy.php/https://simulcast-p.ftven.fr/ZXhwPTE2NjcwNDQyODh+YWNsPSUyZip+aG1hYz1mNjlhNjU5YjNlNDEwNThjNzA5NDNkMzBjNmM0NzkyZjk2NWNhMGU3ZjY2YjIzZDQyZTBjY2M3MTk4YThlMjJj/simulcast/France_2/hls_fr2/France_2-avc1_950000=10003.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="FRANCE",FRANCE 3
 http://livespecial.rbnewtv.com:21190/apollo/france3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjU5OjUyIFBNJmhhc2hfdmFsdWU9Z2h5aFFRTldZRTI2cHpUbGNGTkI3Zz09JnZhbGlkbWludXRlcz0y
