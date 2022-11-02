@@ -31,32 +31,8 @@ https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="FRANCE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="FRANCE",FRANCE 2
-http://z.1bkbibkoura.xyz/live/143/index.m3u8?t=aGSIXQX-LDLB_KPVuIOBoA&e=1667316868
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="FRANCE",FRANCE 3
-http://livespecial.rbnewtv.com:21190/apollo/france3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjU5OjUyIFBNJmhhc2hfdmFsdWU9Z2h5aFFRTldZRTI2cHpUbGNGTkI3Zz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Arte_HD_Verlauf_Logo.svg" group-title="FRANCE",FRANCE 4
-http://livespecial.rbnewtv.com:21190/apollo/france4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjA0OjQzIEFNJmhhc2hfdmFsdWU9Ky9BUDQ2bUNMUTFNRStPM3ordDJLQT09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="FRANCE",FRANCE 5
-http://z.1bkbibkoura.xyz/live/145/index.m3u8?t=uUUJ0JoPEtBEnMTk9USVog&e=1667316595
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",13eme Rue
-http://z.1bkbibkoura.xyz/live/100/index.m3u8?t=g1b9OXUvoWrW3bbAjLTa5w&e=1667317166
-
-
-#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_Animaux_TV_2011.png" group-title="FRANCE",Action
-http://z.1bkbibkoura.xyz/live/125/index.m3u8?t=miRm1qGS-yGJa3vtpEHtLg&e=1667317327
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="FRANCE",RTL9
-http://livespecial.rbnewtv.com:21190/apollo/rtl9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjAyOjAyIFBNJmhhc2hfdmFsdWU9Ui9yUXpVaE8vVjhqL05KM2hCbTZQQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="FRANCE",6Ter
 https://s7.tntendirect.com/6ter/live/playlist.m3u8
@@ -67,8 +43,6 @@ https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="FRANCE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/TCM_Cin%C3%A9ma.svg/1280px-TCM_Cin%C3%A9ma.svg.png" group-title="FRANCE",TMC Classic
-http://livespecial.rbnewtv.com:21190/apollo/tcm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjYvMjAyMiA1OjA5OjA1IEFNJmhhc2hfdmFsdWU9T05PREV6c1VEbmN5aVFmM2s2Ny93dz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png" group-title="FRANCE",TFX
 https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
@@ -89,18 +63,6 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="FRANCE",GULLI
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="FRANCE",Disney Channel
-http://livespecial.rbnewtv.com:21190/apollo/disneycinema/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjE3OjU0IFBNJmhhc2hfdmFsdWU9dWxSK2NSYW93UHhYb2FqWE5MMHJVUT09JnZhbGlkbWludXRlcz0y
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="FRANCE",OCS Choc
-http://livespecial.rbnewtv.com:21190/apollo/ocschoc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjE1OjQzIFBNJmhhc2hfdmFsdWU9a09udGRFOHUxdDVCVkxCdDExQTVMZz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/01/RTL9_logo_2011.png" group-title="FRANCE",OCS City
-http://livespecial.rbnewtv.com:21190/apollo/ocscity/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiAzOjE2OjUxIFBNJmhhc2hfdmFsdWU9YStiaWw2aXZyd3NoUjZLaW1icE1sdz09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/France_Info.png" group-title="FRANCE",FRANCEinfo
-http://livespecial.rbnewtv.com:21190/apollo/franceo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTgvMjAyMiAzOjU0OjQxIFBNJmhhc2hfdmFsdWU9V2lrd2Jwa2JweHQvK1MxSHp3Zldjdz09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
@@ -134,26 +96,15 @@ https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
 #EXTINF:-1 tvg-id="NTV.ci" tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="FRANCE",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://play-lh.googleusercontent.com/E1ye7NcMuiEf_euQyCLSAKECwEMpF2MEUOKLD70OIZ54bShUgTTs-BwIIbFNU_f_8NI" group-title="FRANCE",Ivoire Channel (720p)
+#EXTINF:-1 tvg-id="IvoireChannel.ci" tvg-logo="https://play-lh.googleusercontent.com/E1ye7NcMuiEf_euQyCLSAKECwEMpF2MEUOKLD70OIZ54bShUgTTs-BwIIbFNU_f_8NI" group-title="FRANCE",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="FRANCE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
 
-
 #EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-
-#EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",Rmc1
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjkvMjAyMiAyOjU3OjUzIFBNJmhhc2hfdmFsdWU9dzJuMWwyWkRmQnFpcjVsNW50bTZvQT09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",Rmc2
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjAzOjQ2IFBNJmhhc2hfdmFsdWU9aklzcnFIdzFlcCtQWlRyUERJQnF0UT09JnZhbGlkbWludXRlcz0y
-
-#EXTINF:- tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",Rmc3
-
-http://livespecial.rbnewtv.com:21190/apollo/sfrsport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjgvMjAyMiA0OjA0OjI1IFBNJmhhc2hfdmFsdWU9bUhtY29yZDk3NkRsQXVkUzR4SFdlQT09JnZhbGlkbWludXRlcz0y
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="FRANCE",BEINsport 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
