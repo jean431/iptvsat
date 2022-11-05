@@ -34,8 +34,8 @@ https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="FRANCE",6Ter
-https://s7.tntendirect.com/6ter/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="FRANCE",W9
+http://77.72.20.18:8060/HomeTV/ffdgbr564646hghngytrtt/118466?token=GEANBUALEQoSUgoHWQRUUgdUVlQLAlFQBAEHBgIFAVUBUwcHUVQHUlESHhESQRNUBQk9X1cWXlMBCgQEUB8WExAHFztaBxEKEgEAC1kBQx1GEAtbVhZeUwYEBwRQCgBXVk5HFFoHEQoSAwAAVQRDHUYBGkJWRgoDXG1UVxBaVwNBWAsRXw8fEl9ebVcEWABfAEZYFAMWSEBZQUAQXF1BCg9ORwZaF0FRRFUQCUMGVgBTRk4UUFsRDERASRBcEXkzQU5HAUsXVl5DWV1dQw9DRRdGThRaRzsQVUFEQANSWQMRQF9GA0EfEl1RSmwCWg9fAQcWX1xaF0AKEAECVgMWSkEPCgpaF1xCb0BbV0MPQwBdUFMBEUk=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="FRANCE",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
@@ -63,6 +63,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="FRANCE",GULLI
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="FRANCE",Teletoon
+http://77.72.20.18:8060/HomeTV/ffdgbr564646hghngytrtt/118453?token=GEANBUALEQoSUVBXVAVXV1dVVw5SDFcDBgQIUwVWBwVbBgYCUQVSA1QSHhESQRNUBQk9X1cWXlMBCgQHVR8WExAHFztaBxEKEgEAC1kBQx1GEAtbVhZeUwYEBwRQCgZQUk5HFFoHEQoSAgUDVgZDHUYBGkJWRgoDXG1UVxBaVwNBWAsRXw8fEl9ebVcEWABfAEZYFAMWSEBZQUAQXF1BCg9ORwZaF0FRRFUQCUMHUwBVRk4UUFsRDERASRBcEXkzQU5HAUsXVl5DWV1dQw9DRRdGThRaRzsQVUFEQANSWQMRQF9GA0EfEl1RSmwCWg9fAQcWX1xaF0AKEAECVgMWSkEPCgpaF1xCb0BbV0MPQwBdVlYGEUk=
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="FRANCE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
