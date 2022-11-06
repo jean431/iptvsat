@@ -110,7 +110,8 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="FRANCE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MyTVChannel.cm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="FRANCE",TeleHaiti
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5nYeBNN.jpg" group-title="FRANCE",Tele Haiti
 http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 
 
