@@ -118,7 +118,7 @@ http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/883phd1/ktook.png" group-title="FRANCE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE",AMAZON PRIME LIGUE DEUX LIVE 8
+#EXTINF:1 tvg-logo="https://play-lh.googleusercontent.com/O2FfBTgdkim23RfZE98VQByYNbBrqY8bs2VWhy_Gu7KE9DvzvSyoWbfcgYZ-WuLHN3Y" group-title="FRANCE",AmazonPrime Ligue2
 http://vip.itvdom.com:25443/V5G68yshOQzr/O7nEIM21ec/126967
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="FRANCE",BEINsport 1
