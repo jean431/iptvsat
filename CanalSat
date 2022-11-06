@@ -34,8 +34,6 @@ https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="FRANCE",W9
-http://77.72.20.18:8060/HomeTV/ffdgbr564646hghngytrtt/118466?token=GEANBUALEQoSUgoHWQRUUgdUVlQLAlFQBAEHBgIFAVUBUwcHUVQHUlESHhESQRNUBQk9X1cWXlMBCgQEUB8WExAHFztaBxEKEgEAC1kBQx1GEAtbVhZeUwYEBwRQCgBXVk5HFFoHEQoSAwAAVQRDHUYBGkJWRgoDXG1UVxBaVwNBWAsRXw8fEl9ebVcEWABfAEZYFAMWSEBZQUAQXF1BCg9ORwZaF0FRRFUQCUMGVgBTRk4UUFsRDERASRBcEXkzQU5HAUsXVl5DWV1dQw9DRRdGThRaRzsQVUFEQANSWQMRQF9GA0EfEl1RSmwCWg9fAQcWX1xaF0AKEAECVgMWSkEPCgpaF1xCb0BbV0MPQwBdUFMBEUk=
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="FRANCE",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
@@ -90,6 +88,12 @@ http://190.2.155.162:8080/mtvfrance/mpegts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/2560px-Logo_Fun_Radio_%282021%29.svg.png" group-title="FRANCE",Fun Radio
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="6TER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="FRANCE",PlayTv
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2bwPnSg.png" group-title="FRANCE",Medi 1 TV
