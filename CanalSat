@@ -45,7 +45,7 @@ http://callofliberty.fr/stream/W9/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",Canal+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48187
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",CanalJ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",CanalDOC
 http://red.ipfox.org:8080/Karam2022/Karam2023/48175
 
 
