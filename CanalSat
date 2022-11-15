@@ -113,8 +113,12 @@ https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="FRANCE",M6music
 http://190.2.155.162:8080/m6music/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="FRANCE",TRACE URBAN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="FRANCE",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="FRANCE",TRACE URBAN FR
+http://red.ipfox.org:8080/Karam2022/Karam2023/48011
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/800px-TRACE_Latina_Logo.png" group-title="FRANCE",TRACE Latina
 http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
