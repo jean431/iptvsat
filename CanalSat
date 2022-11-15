@@ -39,6 +39,9 @@ https://stream-04.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODtGKjEdx6_e33yFAP
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",W9
+https://origin2-6play.live.6cloud.fr/pool_u81ytesz/w9/sixplayhda/hls_short_enc_w9/NA/aHEUMcx/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="FRANCE",NRJ 12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
