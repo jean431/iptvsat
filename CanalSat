@@ -68,14 +68,14 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48070
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",Histoire
-
 http://red.ipfox.org:8080/Karam2022/Karam2023/48068
-
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="FRANCE",NRJ 12
 http://red.ipfox.org:8080/Karam2022/Karam2023/48091
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="FRANCE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
@@ -92,6 +92,10 @@ https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="FRANCE",Mycomedy
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+
+#EXTINF:1 tvg-logo="" group-title="FRANCE",Gameone
+http://red.ipfox.org:8080/Karam2022/Karam2023/48033
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="FRANCE",TV PITCHOUN
