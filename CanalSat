@@ -100,6 +100,10 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48033
 http://red.ipfox.org:8080/Karam2022/Karam2023/48034
 
 
+#EXTINF:1 tvg-logo="" group-title="FRANCE",Toonamie
+http://red.ipfox.org:8080/Karam2022/Karam2023/48037
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="FRANCE",TV PITCHOUN
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
 
