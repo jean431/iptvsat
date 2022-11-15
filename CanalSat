@@ -39,6 +39,20 @@ https://stream-04.ix7.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgODtGKjEdx6_e33yFAP
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",France2
+http://red.ipfox.org:8080/Karam2022/Karam2023/48199
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",France3
+http://red.ipfox.org:8080/Karam2022/Karam2023/48197
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",France4
+http://red.ipfox.org:8080/Karam2022/Karam2023/48195
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",France5
+http://red.ipfox.org:8080/Karam2022/Karam2023/48193
+
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",W9
 http://callofliberty.fr/stream/W9/master.m3u8
 
