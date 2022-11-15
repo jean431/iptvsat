@@ -21,7 +21,7 @@ https://hls.mbconline.xyz/live/education/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="FRANCE",BTV
 https://hls.mbconline.xyz/live/BTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="FRANCE",Arte
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Arte
 http://callofliberty.fr/stream/ARTE/master.m3u8
 
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="FRANCE",Antenne Réunion
@@ -60,14 +60,14 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48200
 http://red.ipfox.org:8080/Karam2022/Karam2023/48074
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",NATgeowild
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",NATgeowild
 http://red.ipfox.org:8080/Karam2022/Karam2023/48072
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",Ushuaia
 http://red.ipfox.org:8080/Karam2022/Karam2023/48070
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",Histoire
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Histoire
 http://red.ipfox.org:8080/Karam2022/Karam2023/48068
 
 
@@ -100,7 +100,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48033
 http://red.ipfox.org:8080/Karam2022/Karam2023/48034
 
 
-#EXTINF:1 tvg-logo="" group-title="FRANCE",Toonamie
+#EXTINF:1 tvg-logo="" group-title="FRANCE",Toonami
 http://red.ipfox.org:8080/Karam2022/Karam2023/48037
 
 
