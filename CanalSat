@@ -21,6 +21,9 @@ https://hls.mbconline.xyz/live/education/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="FRANCE",BTV
 https://hls.mbconline.xyz/live/BTV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="FRANCE",Arte
+http://callofliberty.fr/stream/ARTE/master.m3u8
+
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="FRANCE",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
