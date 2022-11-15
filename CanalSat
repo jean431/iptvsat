@@ -48,6 +48,9 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48187
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",CanalDOC
 http://red.ipfox.org:8080/Karam2022/Karam2023/48175
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="FRANCE",Canal+GrandEcran
+http://red.ipfox.org:8080/Karam2022/Karam2023/48177
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="FRANCE",NRJ 12
 http://callofliberty.fr/stream/NRJ12/master.m3u8
