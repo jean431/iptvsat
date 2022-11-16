@@ -59,29 +59,38 @@ http://callofliberty.fr/stream/W9/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",Maison&TravauxTV
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",TOP Santé tv
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",TopSantétv
 http://callofliberty.fr/stream/TOPSanteTV/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",BSMART
 http://callofliberty.fr/stream/BSMART/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+GrandEcran
-http://red.ipfox.org:8080/Karam2022/Karam2023/48177
 
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",France2
+http://red.ipfox.org:8080/Karam2022/Karam2023/48199
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",France3
+http://red.ipfox.org:8080/Karam2022/Karam2023/48197
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",France4
+http://red.ipfox.org:8080/Karam2022/Karam2023/48195
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",France5
+http://red.ipfox.org:8080/Karam2022/Karam2023/48193
 
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",Action
 http://red.ipfox.org:8080/Karam2022/Karam2023/48200
 
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Nationalgeo
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",NationalGeo
 http://red.ipfox.org:8080/Karam2022/Karam2023/48074
 
 
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",NATgeowild
 http://red.ipfox.org:8080/Karam2022/Karam2023/48072
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Ushuaïa
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",UshuaïaTv
 http://red.ipfox.org:8080/Karam2022/Karam2023/48070
 
 
@@ -101,7 +110,56 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48119
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="FRANCE",NRJ 12
 http://callofliberty.fr/stream/NRJ12/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+
+http://red.ipfox.org:8080/Karam2022/Karam2023/48187
 
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+Series
+http://red.ipfox.org:8080/Karam2022/Karam2023/48181
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+Cinema
+http://red.ipfox.org:8080/Karam2022/Karam2023/48179
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+GrandEcran
+http://red.ipfox.org:8080/Karam2022/Karam2023/48177
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+kids
+http://red.ipfox.org:8080/Karam2022/Karam2023/48173
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Cine+Premier
+http://red.ipfox.org:8080/Karam2022/Karam2023/48163
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Cine+Emotion
+http://red.ipfox.org:8080/Karam2022/Karam2023/48159
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Cine+Famiz
+http://red.ipfox.org:8080/Karam2022/Karam2023/48157
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Cine+Club
+http://red.ipfox.org:8080/Karam2022/Karam2023/48155
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",OCSMax
+http://red.ipfox.org:8080/Karam2022/Karam2023/48151
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",OCSCity
+http://red.ipfox.org:8080/Karam2022/Karam2023/48149
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",OCSChoc
+http://red.ipfox.org:8080/Karam2022/Karam2023/48147
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Planete+
+http://red.ipfox.org:8080/Karam2022/Karam2023/48081
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Planete+Crime
+http://red.ipfox.org:8080/Karam2022/Karam2023/48079
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",AB1
+http://red.ipfox.org:8080/Karam2022/Karam2023/48201
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+Top14
+http://red.ipfox.org:8080/Karam2022/Karam2023/48171
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Comedie+
+http://red.ipfox.org:8080/Karam2022/Karam2023/48164
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="FRANCE",TMC
@@ -119,6 +177,15 @@ https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="FRANCE",Mycomedy
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Piwi+
+http://red.ipfox.org:8080/Karam2022/Karam2023/48060
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Teletoon
+http://red.ipfox.org:8080/Karam2022/Karam2023/48054
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",J-One
+http://red.ipfox.org:8080/Karam2022/Karam2023/48035
 
 #EXTINF:1 tvg-logo="" group-title="FRANCE",Gameone
 http://red.ipfox.org:8080/Karam2022/Karam2023/48033
