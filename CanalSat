@@ -113,10 +113,10 @@ http://callofliberty.fr/stream/NRJ12/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48187
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+SERIES
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+ SERIES
 http://red.ipfox.org:8080/Karam2022/Karam2023/48181
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+CINEMA
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+ CINEMA
 http://red.ipfox.org:8080/Karam2022/Karam2023/48179
 
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+GrandEcran
