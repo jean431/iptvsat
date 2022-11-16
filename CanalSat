@@ -59,8 +59,8 @@ http://callofliberty.fr/stream/W9/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",MaisonEtTravauxTV
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+SERIES
-http://red.ipfox.org:8080/Karam2022/Karam2023/48180
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",TOPSanteTV
+http://callofliberty.fr/stream/TOPSanteTV/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",Canal+DOCs
