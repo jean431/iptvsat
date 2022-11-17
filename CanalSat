@@ -54,6 +54,11 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",W9
 http://callofliberty.fr/stream/W9/master.m3u8
 
+
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",6Ter
+http://red.ipfox.org:8080/Karam2022/Karam2023/48129
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png" group-title="FRANCE",TFX
 https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
 
@@ -66,6 +71,8 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48129
 
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",Teva
 http://red.ipfox.org:8080/Karam2022/Karam2023/48104
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="FRANCE",Rtl9
