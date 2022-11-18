@@ -75,7 +75,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48104
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",Rtl9
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",RTL9
 http://red.ipfox.org:8080/Karam2022/Karam2023/48119
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="FRANCE",NRJ 12
@@ -143,7 +143,7 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 http://red.ipfox.org:8080/Karam2022/Karam2023/48200
 
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",NationalGeo
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",NationalGeographic
 http://red.ipfox.org:8080/Karam2022/Karam2023/48074
 
 
