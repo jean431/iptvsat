@@ -155,11 +155,11 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48074
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",NATgeowild
 http://red.ipfox.org:8080/Karam2022/Karam2023/48072
 
-#EXTINF:-1 tvg-logo="" group-title="DICUMENTAIRE",UshuaïaTv
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",UshuaïaTv
 http://red.ipfox.org:8080/Karam2022/Karam2023/48070
 
 
-#EXTINF:-1 tvg-logo="" group-title="DICUMENTAIRE",Histoire
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Histoire
 http://red.ipfox.org:8080/Karam2022/Karam2023/48068
 
 #EXTINF:-1 tvg-logo="" group-title="Divertissement",Novelastv
@@ -248,7 +248,7 @@ https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="MUSIC",M6music
 http://190.2.155.162:8080/m6music/mpegts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="MUSC",TRACE URBAN Aus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="MUSIC",TRACE URBAN FR
@@ -334,7 +334,7 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96759.ts
 
 
 
-#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="ANIME",ADN
+#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Anime",ADN
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="GENERALIST",L'Atelier des chefs
@@ -375,7 +375,7 @@ https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Drames (720p)
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FIMM",Rakuten TV Films Français (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Français (720p)
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Thriller (720p)
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
