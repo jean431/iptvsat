@@ -264,8 +264,8 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 http://red.ipfox.org:8080/Karam2022/Karam2023/48011
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/TRACE_Latina_Logo.png/800px-TRACE_Latina_Logo.png" group-title="MUSIC",TRACE Latina
-http://78.129.237.68/tsstreamer/TraceLatinaLDAI_SD.ts
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/ourpic/u2q8q8y3q8w7i1e6_trace-africa-2013-trace-africa-logo-png" group-title="MUSIC",TRACE Africa
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145435.ts
 
 
 #EXTINF:-1 tvg-id="MTVHitsFrance"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="MUSIC",MTV Hits France
@@ -278,7 +278,7 @@ http://190.2.155.162:8080/mtvfrance/mpegts
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mvgRAZw.jpg" group-title="MUSIC",PlayTv
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145446.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
