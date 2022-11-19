@@ -208,6 +208,10 @@ https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="" group-title="Anime",CanalJ
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96908.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Anime",Cartoonnetwork
 http://red.ipfox.org:8080/Karam2022/Karam2023/48049
 
