@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
+Y#EXTM3U x-tvg-url="http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="FRANCE",MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
@@ -296,7 +296,7 @@ http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",BEINsport 1
+#EXTINF:-1 tvg-logo="" group-title="FRANCE",BEINSPORT 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="FRANCE",BEINsport 2
