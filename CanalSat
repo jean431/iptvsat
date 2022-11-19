@@ -142,10 +142,10 @@ http://callofliberty.fr/stream/RMCDECOUVERTE/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Maison&TravauxTV
+#EXTINF:-1 tvg-logo="https://www.offremedia.com/sites/default/files/logo/fiche_media/maison-et-travaux-tv.png" group-title="DOCUMENTAIRE",Maison&TravauxTV
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",TopSantéTV
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7384.1601931106.png" group-title="DOCUMENTAIRE",TopSantéTV
 http://callofliberty.fr/stream/TOPSanteTV/master.m3u8
 
 
@@ -159,14 +159,14 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 http://red.ipfox.org:8080/Karam2022/Karam2023/48200
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",NationalGeographic
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="DOCUMENTAIRE",NationalGeographic
 http://red.ipfox.org:8080/Karam2022/Karam2023/48074
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",NATgeowild
 http://red.ipfox.org:8080/Karam2022/Karam2023/48072
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",UshuaïaTv
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/ushaiatv2.png" group-title="DOCUMENTAIRE",UshuaïaTv
 http://red.ipfox.org:8080/Karam2022/Karam2023/48070
 
 
