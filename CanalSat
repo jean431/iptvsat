@@ -66,7 +66,7 @@ https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="GENERALIST",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",TMCcinema
+#EXTINF:-1 tvg-logo="" group-title="FILM",TMCcinema
 http://red.ipfox.org:8080/Karam2022/Karam2023/48129
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALIST",Teva
@@ -167,19 +167,19 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48070
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Histoire
 http://red.ipfox.org:8080/Karam2022/Karam2023/48068
 
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",Novelastv
+#EXTINF:-1 tvg-logo="" group-title="GENERALIST",Novelastv
 http://red.ipfox.org:8080/Karam2022/Karam2023/48118
 
 
  
 
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",OCSMax
+#EXTINF:-1 tvg-logo="" group-title="FILM",OCSMax
 http://red.ipfox.org:8080/Karam2022/Karam2023/48151
 
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",OCSCity
+#EXTINF:-1 tvg-logo="" group-title="FILM",OCSCity
 http://red.ipfox.org:8080/Karam2022/Karam2023/48149
 
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",OCSChoc
+#EXTINF:-1 tvg-logo="" group-title="FILM",OCSChoc
 http://red.ipfox.org:8080/Karam2022/Karam2023/48147
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Planete+
@@ -188,13 +188,13 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48081
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",PLANETE+Crime
 http://red.ipfox.org:8080/Karam2022/Karam2023/48079
 
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",AB1
+#EXTINF:-1 tvg-logo="" group-title="GENERALIST",AB1
 http://red.ipfox.org:8080/Karam2022/Karam2023/48201
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Canal+Top14
 http://red.ipfox.org:8080/Karam2022/Karam2023/48171
 
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",Comedie+
+#EXTINF:-1 tvg-logo="" group-title="GENERALIST",Comedie+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48164
 
 
@@ -244,7 +244,7 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="Divertissement",D5TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="GENERALIST",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="MUSIC",D5 Music
