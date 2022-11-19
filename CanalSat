@@ -1,4 +1,4 @@
-Y#EXTM3U x-tvg-url="http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
+#EXTM3U x-tvg-url="http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
@@ -76,7 +76,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48104
 #EXTINF:-1 tvg-logo="" group-title="GENERALIST",SYFY
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96924.ts
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALIST",13emeRue
+#EXTINF:-1 tvg-logo="" group-title="GENERALIST",13emerue
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
 
 
@@ -149,7 +149,7 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Divertissement",Action
+#EXTINF:-1 tvg-logo="" group-title="FILM",Action
 http://red.ipfox.org:8080/Karam2022/Karam2023/48200
 
 
@@ -224,7 +224,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48054
 http://red.ipfox.org:8080/Karam2022/Karam2023/48035
 
 #EXTINF:1 tvg-logo="" group-title="Anime",Gameone
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96925.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96924.ts
 
 #EXTINF:1 tvg-logo="" group-title="Anime",Mangas
 http://red.ipfox.org:8080/Karam2022/Karam2023/48034
