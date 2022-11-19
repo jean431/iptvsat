@@ -39,23 +39,23 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48195
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="GENERALISTE",France5
 http://red.ipfox.org:8080/Karam2022/Karam2023/48193
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="GENERALIST",TF1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="GENERALISTE",TF1
 https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="GENERALIST",TF1 SERIES FILMS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="GENERALISTE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png" group-title="GENERALIST",C8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/512px-Logo_C8.svg.png" group-title="GENERALISTE",C8
 http://callofliberty.fr/stream/C8/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="GENERALIST",M6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png" group-title="GENERALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALIST",W9
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",W9
 http://callofliberty.fr/stream/W9/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALIST",6Ter
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
 http://red.ipfox.org:8080/Karam2022/Karam2023/48087
 
 
@@ -83,16 +83,15 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTL9
 http://red.ipfox.org:8080/Karam2022/Karam2023/48119
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="GENERALIST",NRJ 12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" group-title="GENERALISTE",NRJ 12
 http://callofliberty.fr/stream/NRJ12/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALIST",CSTAR
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
 http://callofliberty.fr/stream/CSTAR/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="GENERALIST",Mcm
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="GENERALISTE",Mcm
 http://venomtt.com:8000/live/kdcxxD1U/543545/46212.ts
 
 
@@ -194,67 +193,67 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48081
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",PLANETE+Crime
 http://red.ipfox.org:8080/Karam2022/Karam2023/48079
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALIST",AB1
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB1
 http://red.ipfox.org:8080/Karam2022/Karam2023/48201
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Canal+Top14
 http://red.ipfox.org:8080/Karam2022/Karam2023/48171
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALIST",Comedie+
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedie+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48164
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="GENERALIST",CHERIE 25
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="GENERALISTE",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="GENERALIST",Alpe d’Huez Tv
+#EXTINF:1 tvg-logo="" group-title="GENERALISTE",Alpe d’Huez Tv
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="GENERALIST",Mycomedy
+#EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="GENERALISTE",Mycomedy
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/1031px-Canal_J_2019_Logo.png" group-title="Anime",CanalJ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/1031px-Canal_J_2019_Logo.png" group-title="Jeunesse",CanalJ
 http://venomtt.com:8000/live/kdcxxD1U/543545/2636.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Anime",Cartoonnetwork
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Jeunesse",Cartoonnetwork
 http://venomtt.com:8000/live/kdcxxD1U/543545/373.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Anime",Boing
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Jeunesse",Boing
 http://venomtt.com:8000/live/kdcxxD1U/543545/81066.ts
 
-#EXTINF:-1 tvg-logo="" group-title="Anime",Piwi+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Piwi%2B_logo_2011.png/640px-Piwi%2B_logo_2011.png" group-title="Jeunesse",Piwi+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48060
 
-#EXTINF:-1 tvg-logo="" group-title="Anime",TéléToon+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Jeunesse",TéléToon+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48054
 
-#EXTINF:-1 tvg-logo="" group-title="Anime",J-One
+#EXTINF:-1 tvg-logo="" group-title="Jeunesse",J-One
 http://venomtt.com:8000/live/kdcxxD1U/543545/81075.ts
 
-#EXTINF:1 tvg-logo="" group-title="Anime",Gameone
+#EXTINF:1 tvg-logo="" group-title="Jeunesse",Gameone
 http://venomtt.com:8000/live/kdcxxD1U/543545/2557.ts
 
-#EXTINF:1 tvg-logo="" group-title="Anime",Mangas
+#EXTINF:1 tvg-logo="" group-title="Jeunesse",Mangas
 http://venomtt.com:8000/live/kdcxxD1U/543545/81014.ts
 
 
-#EXTINF:1 tvg-logo="" group-title="Anime",Toonami
+#EXTINF:1 tvg-logo="" group-title="Jeunesse",Toonami
 http://venomtt.com:8000/live/kdcxxD1U/543545/46184.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="Anime",TV PITCHOUN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="Jeunesse",TV PITCHOUN
 https://live.tvradio-pitchoun.fr/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="Anime",TIJI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdpqXfQ/tiji.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Anime",GULLI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXjFc3/gulli.png" group-title="Jeunesse",GULLI
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="GENERALIST",D5TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfXVJgN.png" group-title="GENERALISTE",D5TV
 https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="MUSIC",D5 Music
