@@ -223,6 +223,11 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/373.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Jeunesse",Boing
 http://venomtt.com:8000/live/kdcxxD1U/543545/81066.ts
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boomerang_tv_%282000-2004%29.png/1200px-Boomerang_tv_%282000-2004%29.png" group-title="Jeunesse",Boomerang
+http://venomtt.com:8000/live/kdcxxD1U/543545/378.ts
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Piwi%2B_logo_2011.png/640px-Piwi%2B_logo_2011.png" group-title="Jeunesse",Piwi+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48060
 
