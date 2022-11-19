@@ -317,23 +317,29 @@ http://93.152.174.144:4000/play/bein1fr/index.m3u8
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORT",BEINsport 3
-http://93.152.174.144:4000/play/bein3fr/index.m3u8
+http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
 
 #EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:BeIN_SPORTS_HD1_logo.png" group-title="SPORT",BEINsport1Hd
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96731.ts
+http://venomtt.com:8000/live/kdcxxD1U/543545/3369.ts
 
 
 #EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:BeIN_SPORTS_HD2_logo.png" group-title="SPORT",BEINsport2Hd
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96734.ts
+http://venomtt.com:8000/live/kdcxxD1U/543545/3369.ts
 
 #EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_3.png" group-title="SPORT",BEINsport3Hd
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96737.ts
+http://venomtt.com:8000/live/kdcxxD1U/543545/3368.ts
 
 #EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:Canal%2B_Sport_2015.png" group-title="SPORT",Canal+Sport
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96689.ts
+http://venomtt.com:8000/live/kdcxxD1U/543545/80996.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Infosport+
+http://venomtt.com:8000/live/kdcxxD1U/543545/81058.ts
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",RMC1
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96701.ts
+http://venomtt.com:8000/live/kdcxxD1U/543545/81047.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",RMC2
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96702.ts
