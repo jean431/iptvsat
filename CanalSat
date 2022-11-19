@@ -280,6 +280,11 @@ https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/imgv/TwbhoJi_bblack-africa-bblack-africa-logo-png-transparent-png" group-title="MUSIC",BBlack Africa
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145446.ts
 
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/imgv/TwbhoJi_bblack-africa-bblack-africa-logo-png-transparent-png" group-title="MUSIC",BBlack Carrabean
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145447.ts
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 
