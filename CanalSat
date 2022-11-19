@@ -296,17 +296,34 @@ http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",BEINSPORT 1
+#EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_1.png" group-title="SPORT",BEINSPORT 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="FRANCE",BEINsport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORT",BEINsport 2
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="FRANCE",BEINsport 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORT",BEINsport 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="FRANCE",BEINsport1Hd
+#EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:BeIN_SPORTS_HD1_logo.png" group-title="SPORT",BEINsport1Hd
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96731.ts
+
+
+#EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:BeIN_SPORTS_HD2_logo.png" group-title="SPORT",BEINsport2Hd
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96734.ts
+
+#EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_bein_sports_3.png" group-title="SPORT",BEINsport3Hd
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96737.ts
+
+#EXTINF:-1 tvg-logo="https://commons.m.wikimedia.org/wiki/File:Canal%2B_Sport_2015.png" group-title="SPORT",Canal+Sport
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96689.ts
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC1
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96701.ts
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="FRANCE",ADN
