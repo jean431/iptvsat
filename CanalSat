@@ -135,7 +135,7 @@ http://callofliberty.fr/stream/LCP/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",L'EQUIPE
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMCDECOUVERTE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="DOCUMENTAIRE",RMCDECOUVERTE
 http://callofliberty.fr/stream/RMCDECOUVERTE/master.m3u8
 
 
@@ -190,7 +190,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48147
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Planete+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48081
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",PLANETE+Crime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dd/Planetepluscrime.png" group-title="DOCUMENTAIRE",PLANETE+Crime
 http://red.ipfox.org:8080/Karam2022/Karam2023/48079
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB1
