@@ -55,6 +55,10 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://callofliberty.fr/stream/W9/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="GENERALISTE",WarnerTV
+http://venomtt.com:8000/live/kdcxxD1U/543545/22284.ts
+
+
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
 http://red.ipfox.org:8080/Karam2022/Karam2023/48087
 
