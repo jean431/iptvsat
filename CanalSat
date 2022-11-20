@@ -70,7 +70,7 @@ https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKVyKj4/tmc.png" group-title="GENERALISTE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TCM_Cin%C3%A9ma_logo_2019.png" group-title="FILM",TMC CINEMA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TCM_Cin%C3%A9ma_logo_2019.png" group-title="FILM",TMC Cinema
 http://red.ipfox.org:8080/Karam2022/Karam2023/48129
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1200px-T%C3%A9va_logo_2021.svg.png" group-title="GENERALISTE",Teva
@@ -80,7 +80,7 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2637.ts
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96541.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_%28logo%29.svg/2044px-13e_rue_2010_%28logo%29.svg.png" group-title="GENERALISTE",13eme Rue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_%28logo%29.svg/2044px-13e_rue_2010_%28logo%29.svg.png" group-title="GENERALISTE",13emeRue
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
 
 
@@ -100,7 +100,7 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/46212.ts
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",CSTARhitsfrance
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",C Star Hits France
 http://red.ipfox.org:8080/Karam2022/Karam2023/48014
 
 
@@ -110,29 +110,29 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48187
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Séries
 http://red.ipfox.org:8080/Karam2022/Karam2023/48181
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+CINEMA
+#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ CINEMA
 http://red.ipfox.org:8080/Karam2022/Karam2023/48179
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Canal%2B_Grand_%C3%89cran_2022.svg/2560px-Logo_Canal%2B_Grand_%C3%89cran_2022.svg.png" group-title="CANAL+",Canal+Grand Ecran
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/Logo_Canal%2B_Grand_%C3%89cran_2022.svg/2560px-Logo_Canal%2B_Grand_%C3%89cran_2022.svg.png" group-title="CANAL+",Canal+ Grand Ecran
 http://red.ipfox.org:8080/Karam2022/Karam2023/48177
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="CANAL+",Canal+KIDS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="CANAL+",Canal+ KIDS
 http://red.ipfox.org:8080/Karam2022/Karam2023/48173
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CANAL+",Cine+ Premier
 http://red.ipfox.org:8080/Karam2022/Karam2023/48163
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CANAL+",Cine+Emotion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CANAL+",Cine+ Emotion
 http://red.ipfox.org:8080/Karam2022/Karam2023/48159
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CANAL+",Cine+Frisson
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CANAL+",Cine+ Frisson
 http://venomtt.com:8000/live/kdcxxD1U/543545/64.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1200px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="CANAL+",Cine+Famiz
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1200px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="CANAL+",Cine+ Famiz
 http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+Club
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+ Club
 http://red.ipfox.org:8080/Karam2022/Karam2023/48155
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="INFO",France 24
@@ -152,16 +152,16 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2554.ts
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="DOCUMENTAIRE",RMCDECOUVERTE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="DOCUMENTAIRE",RMC Decouverte
 http://callofliberty.fr/stream/RMCDECOUVERTE/master.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.offremedia.com/sites/default/files/logo/fiche_media/maison-et-travaux-tv.png" group-title="DOCUMENTAIRE",Maison&TravauxTV
+#EXTINF:-1 tvg-logo="https://www.offremedia.com/sites/default/files/logo/fiche_media/maison-et-travaux-tv.png" group-title="DOCUMENTAIRE",Maison & Travaux TV
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7384.1601931106.png" group-title="DOCUMENTAIRE",TopSantéTV
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7384.1601931106.png" group-title="DOCUMENTAIRE",Top Santé TV
 http://callofliberty.fr/stream/TOPSanteTV/master.m3u8
 
 
@@ -175,14 +175,14 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 http://red.ipfox.org:8080/Karam2022/Karam2023/48200
 
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="DOCUMENTAIRE",NationalGeographic
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="DOCUMENTAIRE",National Geographic
 http://red.ipfox.org:8080/Karam2022/Karam2023/48074
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",NATgeowild
 http://red.ipfox.org:8080/Karam2022/Karam2023/48072
 
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/ushaiatv2.png" group-title="DOCUMENTAIRE",UshuaïaTv
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/ushaiatv2.png" group-title="DOCUMENTAIRE",Ushuaia Tv
 http://red.ipfox.org:8080/Karam2022/Karam2023/48070
 
 
@@ -207,10 +207,10 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48147
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="DOCUMENTAIRE",Planete+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48081
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dd/Planetepluscrime.png" group-title="DOCUMENTAIRE",PLANETE+Crime
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dd/Planetepluscrime.png" group-title="DOCUMENTAIRE",Planete+ Crime
 http://red.ipfox.org:8080/Karam2022/Karam2023/48079
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLAN%C3%88TE%2B_A%26E.png/320px-PLAN%C3%88TE%2B_A%26E.png" group-title="DOCUMENTAIRE",PLANETE+A&E
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLAN%C3%88TE%2B_A%26E.png/320px-PLAN%C3%88TE%2B_A%26E.png" group-title="DOCUMENTAIRE",Planete+ A&E
 http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
 
 
@@ -221,7 +221,7 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2537.ts
 http://venomtt.com:8000/live/kdcxxD1U/543545/46190.ts
 
 
-#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~84b8dbcf3066215a.png/1200x630/crop-from/top/quality/80/canal-top-14.png" group-title="SPORT",Canal+Top14
+#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~84b8dbcf3066215a.png/1200x630/crop-from/top/quality/80/canal-top-14.png" group-title="SPORT",Canal+ Top14
 http://red.ipfox.org:8080/Karam2022/Karam2023/48171
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedie+
@@ -234,7 +234,7 @@ https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:1 tvg-logo="" group-title="GENERALISTE",Alpe d’Huez Tv
 https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="GENERALISTE",Mycomedy
+#EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="GENERALISTE",My Comedy
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 
 
@@ -354,17 +354,17 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORT",BEINsport 3
 http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORT",BEINsport1Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORT",BEINsport 1 Hd
 http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEINsport2Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEINsport 2 Hd
 http://venomtt.com:8000/live/kdcxxD1U/543545/3369.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="SPORT",BEINsport3Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="SPORT",BEINsport 3 Hd
 http://venomtt.com:8000/live/kdcxxD1U/543545/3368.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
 http://venomtt.com:8000/live/kdcxxD1U/543545/80996.ts
 
 
@@ -373,10 +373,10 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/81058.ts
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC1
+#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC 1
 http://venomtt.com:8000/live/kdcxxD1U/543545/81047.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC2
+#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC 2
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96702.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",FOOT+
@@ -392,58 +392,58 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96759.ts
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="GENERALISTE",L'Atelier des chefs
+#EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="GENERALISTE",L'Atelier Des Chefs
 https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten TV Films Action (720p)
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten TV Films Action 
 https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten TV Films Action (720p)
+#EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten TV Films Action 
 https://rakuten-actionmovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten Comedy Movies France (720p)
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten Comedy Movies France 
 https://rakuten-comedymovies-7-fr.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten Comedy Movies France (720p)
+#EXTINF:-1 tvg-id="RakutenTVComedyMoviesFrance.fr" tvg-logo="" group-title="FILM",Rakuten Comedy Movies France 
 https://rakuten-comedymovies-7-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="FILM",Rakuten Spotlight France (720p)
+#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="FILM",Rakuten Spotlight France 
 https://rakuten-spotlight-7-fr.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="FILM",Rakuten Spotlight France (720p)
+#EXTINF:-1 tvg-id="RakutenTVSpotlightFrance.fr" tvg-logo="" group-title="FILM",Rakuten Spotlight France 
 https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV BBC Doctor Who France (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV BBC Doctor Who France 
 https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV BBC Drama (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV BBC Drama 
 https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTAIRE",Rakuten TV Documentaires
 https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTAIRE",Rakuten TV Documentaires (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTAIRE",Rakuten TV Documentaires 
 https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Drames (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Drames 
 https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Drames (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Drames 
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Français (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Français 
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Thriller (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Films Thriller 
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Rakuten TV Gusto.tv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Gusto TV
 https://gustotv-gustotv-2-eu.rakuten.wurl.tv/playlist.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Romance (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Romance 
 https://rakuten-romance-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Romance (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Romance 
 https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Top Films (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Top Films 
 https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Top Films (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILM",Rakuten TV Top Films 
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
 
 
