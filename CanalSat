@@ -210,8 +210,12 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48079
 http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB1
-http://red.ipfox.org:8080/Karam2022/Karam2023/48201
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/AB1_logo_1.png/640px-AB1_logo_1.png" group-title="GENERALISTE",AB1
+http://venomtt.com:8000/live/kdcxxD1U/543545/2537.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_AB3.png" group-title="GENERALISTE",AB1
+http://venomtt.com:8000/live/kdcxxD1U/543545/46190.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~84b8dbcf3066215a.png/1200x630/crop-from/top/quality/80/canal-top-14.png" group-title="SPORT",Canal+Top14
 http://red.ipfox.org:8080/Karam2022/Karam2023/48171
