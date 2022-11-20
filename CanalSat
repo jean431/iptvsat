@@ -80,7 +80,7 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2637.ts
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96541.ts
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",13emerue
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/13e_rue_2010_%28logo%29.svg/2044px-13e_rue_2010_%28logo%29.svg.png" group-title="GENERALISTE",13emeRUE
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
 
 
