@@ -200,16 +200,20 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48149
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Choc.svg/2560px-OCS_Choc.svg.png" group-title="FILM",OCSChoc
 http://red.ipfox.org:8080/Karam2022/Karam2023/48147
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Planete+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Planete_plus_hd.png" group-title="DOCUMENTAIRE",Planete+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48081
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/dd/Planetepluscrime.png" group-title="DOCUMENTAIRE",PLANETE+Crime
 http://red.ipfox.org:8080/Karam2022/Karam2023/48079
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLAN%C3%88TE%2B_A%26E.png/320px-PLAN%C3%88TE%2B_A%26E.png" group-title="DOCUMENTAIRE",PLANETE+A&E
+http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
+
+
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB1
 http://red.ipfox.org:8080/Karam2022/Karam2023/48201
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Canal+Top14
+#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~84b8dbcf3066215a.png/1200x630/crop-from/top/quality/80/canal-top-14.png" group-title="SPORT",Canal+Top14
 http://red.ipfox.org:8080/Karam2022/Karam2023/48171
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedie+
