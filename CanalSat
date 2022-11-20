@@ -131,13 +131,22 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+Club
 http://red.ipfox.org:8080/Karam2022/Karam2023/48155
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="INFO",France24
+http://venomtt.com:8000/live/kdcxxD1U/543545/8096.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="INFO",LCP
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/b/b7/20191004125542%2113._La_Chaine_Parlementaire.png" group-title="INFO",LCP
 http://callofliberty.fr/stream/LCP/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",L'EQUIPE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/L_Equipe_Logo.svg/2560px-L_Equipe_Logo.svg.png" group-title="SPORT",L'EQUIPE
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_L%27%C3%89quipe_21.svg/2065px-Logo_L%27%C3%89quipe_21.svg.png" group-title="SPORT",L'EQUIPE21
+http://venomtt.com:8000/live/kdcxxD1U/543545/2554.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="DOCUMENTAIRE",RMCDECOUVERTE
 http://callofliberty.fr/stream/RMCDECOUVERTE/master.m3u8
