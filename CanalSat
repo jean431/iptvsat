@@ -121,6 +121,10 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48163
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CANAL+",Cine+Emotion
 http://red.ipfox.org:8080/Karam2022/Karam2023/48159
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CANAL+",Cine+Frisson
+http://venomtt.com:8000/live/kdcxxD1U/543545/64.ts
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1200px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="CANAL+",Cine+Famiz
 http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
 
