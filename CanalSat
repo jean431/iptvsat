@@ -182,6 +182,8 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FILM",Action
 http://red.ipfox.org:8080/Karam2022/Karam2023/48200
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Addik_TV.svg/2560px-Addik_TV.svg.png" group-title="FILM",Addik TV
+http://venomtt.com:8000/live/kdcxxD1U/543545/202640.ts
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="DOCUMENTAIRE",National Geographic
 http://red.ipfox.org:8080/Karam2022/Karam2023/48074
@@ -357,7 +359,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT",BEINSPORT 1
-http://93.152.174.144:4000/play/bein1fr/index.m3u8
+http://venomtt.com:8000/live/kdcxxD1U/543545/156435.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORT",BEINsport 2
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
