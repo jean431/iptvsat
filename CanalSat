@@ -94,6 +94,9 @@ http://callofliberty.fr/stream/NRJ12/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
 http://callofliberty.fr/stream/CSTAR/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cuisine-tv-logo-png-transparent.png" group-title="GENERALISTE",Cuisines
+http://venomtt.com:8000/live/kdcxxD1U/543545/237776.ts
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="GENERALISTE",MCM
 http://venomtt.com:8000/live/kdcxxD1U/543545/46212.ts
@@ -134,6 +137,12 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+ Club
 http://red.ipfox.org:8080/Karam2022/Karam2023/48155
+
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Action
+http://venomtt.com:8000/live/kdcxxD1U/543545/46201.ts
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="INFO",France 24
 http://venomtt.com:8000/live/kdcxxD1U/543545/8096.ts
@@ -193,7 +202,8 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48068
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Novelastv
 http://red.ipfox.org:8080/Karam2022/Karam2023/48118
 
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/640866681053704193/Qj0TW2Qi_400x400.jpg" group-title="GENERALISTE",Ninatv
+http://venomtt.com:8000/live/kdcxxD1U/543545/237704.ts
  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/2560px-OCS_Max.svg.png" group-title="FILM",OCS Max
