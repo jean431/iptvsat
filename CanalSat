@@ -156,14 +156,15 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2554.ts
 http://callofliberty.fr/stream/RMCDECOUVERTE/master.m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="https://www.offremedia.com/sites/default/files/logo/fiche_media/maison-et-travaux-tv.png" group-title="DOCUMENTAIRE",Maison & Travaux TV
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7384.1601931106.png" group-title="DOCUMENTAIRE",Top Santé TV
-http://callofliberty.fr/stream/TOPSanteTV/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" group-title="DOCUMENTAIRE",Discovery Channal
+http://venomtt.com:8000/live/kdcxxD1U/543545/81034.ts
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="DOCUMENTAIRE",Discovery Investigation
+http://venomtt.com:8000/live/kdcxxD1U/543545/81037.ts
 
 #EXTINF:-1 tvg-logo="" group-title="INFO",BSMART
 http://callofliberty.fr/stream/BSMART/master.m3u8
@@ -302,6 +303,8 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48011
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/ourpic/u2q8q8y3q8w7i1e6_trace-africa-2013-trace-africa-logo-png" group-title="MUSIC",TRACE Africa
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145435.ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6vZBdsV/TRACE-CARIBBEAN-BASELINE.png" group-title="MUSIC",TRACE Caribbbean
+http://venomtt.com:8000/live/kdcxxD1U/543545/81034.ts
 
 #EXTINF:-1 tvg-id="MTVHitsFrance"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="MUSIC",MTV Hits France
 http://190.2.155.162:8080/mtvhit/mpegts
@@ -322,6 +325,8 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145447.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2bwPnSg.png" group-title="FILM",Medi 1 TV
