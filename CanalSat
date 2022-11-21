@@ -40,7 +40,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48195
 http://red.ipfox.org:8080/Karam2022/Karam2023/48193
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="GENERALISTE",TF1
-https://tf1-hls-live-cdn1.tf1.fr/out/v1/c2e382be3aa2486e8753747e7bb6157e/index.m3u8
+http://venomtt.com:8000/live/kdcxxD1U/543545/58.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="GENERALISTE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
