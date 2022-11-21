@@ -141,9 +141,15 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48155
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Action
 http://venomtt.com:8000/live/kdcxxD1U/543545/237776.ts
 
+#EXTINF:-1 tvg-logo="https://ayanawebzine.com/wp-content/uploads/2019/11/canalellles-300x157.png" group-title="CANAL+",Canal+ Elles
+http://venomtt.com:8000/live/kdcxxD1U/543545/237780.ts
+
+#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Pop
+http://venomtt.com:8000/live/kdcxxD1U/543545/237775.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="INFO",France 24
 http://venomtt.com:8000/live/kdcxxD1U/543545/8096.ts
+
 
 
 
