@@ -371,14 +371,14 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORT",BEIN SPORTS 1 HD 
+#EXTINF:-1 tvg-logo="http://178.33.72.149/logo/FR/bein%20sport%20FR%201%20hd.png" group-title="SPORT",BEIN SPORTS 1 HD 
 http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEIN SPORTS 2 HD 
+#EXTINF:-1 tvg-logo="http://178.33.72.149/logo/FR/bein%20sport%20FR%202%20hd.png" group-title="SPORT",BEIN SPORTS 2 HD 
 http://venomtt.com:8000/live/kdcxxD1U/543545/3369.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="SPORT",BEIN SPORTS 3 HD 
+#EXTINF:-1 tvg-logo="http://178.33.72.149/logo/FR/bein%20sport%20FR%203%20hd.png" group-title="SPORT",BEIN SPORTS 3 HD 
 http://venomtt.com:8000/live/kdcxxD1U/543545/3368.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
