@@ -53,7 +53,7 @@ https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TCM_Cin%C3%A9ma_logo_2019.png" group-title="FILM",TMC Cinema
 http://red.ipfox.org:8080/Karam2022/Karam2023/48129
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TCM_Cin%C3%A9ma_logo_2019.png" group-title="FILM",TV Breizh
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TCM_Cin%C3%A9ma_logo_2019.png" group-title="GENERALISTE",TV Breizh
 http://venomtt.com:8000/live/kdcxxD1U/543545/5245.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1200px-T%C3%A9va_logo_2021.svg.png" group-title="GENERALISTE",Teva
