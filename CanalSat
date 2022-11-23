@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,http://venomtt.com:8000/xmltv.php?username=kdcxxD1U&password=543545"
+#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml"
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Arte
@@ -53,7 +53,7 @@ https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TCM_Cin%C3%A9ma_logo_2019.png" group-title="FILM",TMC Cinema
 http://red.ipfox.org:8080/Karam2022/Karam2023/48129
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TCM_Cin%C3%A9ma_logo_2019.png" group-title="GENERALISTE",TV Breizh
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TV Breizh
 http://venomtt.com:8000/live/kdcxxD1U/543545/5245.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1200px-T%C3%A9va_logo_2021.svg.png" group-title="GENERALISTE",Teva
@@ -127,10 +127,10 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2685.ts
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Action
 http://venomtt.com:8000/live/kdcxxD1U/543545/237776.ts
 
-#EXTINF:-1 tvg-logo="https://ayanawebzine.com/wp-content/uploads/2019/11/canalellles-300x157.png" group-title="CANAL+",Canal+ Elles
+#EXTINF:-1 tvg-logo="https://ayanawebzine.com/wp-content/uploads/2019/11/canalellles-300x157.png" group-title="CANAL+",Canal+ ELLES
 http://venomtt.com:8000/live/kdcxxD1U/543545/237780.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Pop
+#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ POP
 http://venomtt.com:8000/live/kdcxxD1U/543545/237775.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="INFO",France 24
