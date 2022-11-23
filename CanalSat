@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml,http://venomtt.com:8000/xmltv.php?username=kdcxxD1U&password=543545"
+#EXTM3U x-tvg-url="http://venomtt.com:8000/xmltv.php?username=kdcxxD1U&password=543545"
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
