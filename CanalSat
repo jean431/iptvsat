@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml"
+#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltv.ch/xmltv/xmltv-complet.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml,http://venomtt.com:8000/xmltv.php?username=kdcxxD1U&password=543545"
 
 #EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
@@ -371,14 +371,14 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORT",BEINsport 1 Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="SPORT",BEIN SPORTS 1 HD FR
 http://venomtt.com:8000/live/kdcxxD1U/543545/3370.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEINsport 2 Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="SPORT",BEIN SPORTS 2 HD FR
 http://venomtt.com:8000/live/kdcxxD1U/543545/3369.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="SPORT",BEINsport 3 Hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo_beIN_SPORTS_3.png" group-title="SPORT",BEIN SPORTS 3 HD FR
 http://venomtt.com:8000/live/kdcxxD1U/543545/3368.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
@@ -406,6 +406,14 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96747.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Golf +
 http://venomtt.com:8000/live/kdcxxD1U/543545/5304.ts
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Equidia
+
+http://venomtt.com:8000/live/kdcxxD1U/543545/2552.ts
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Automoto
