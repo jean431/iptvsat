@@ -371,6 +371,8 @@ http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=3368&extension
 #EXTINF:-1 tvg-logo="" group-title="SPORT",bein Sports MAX 5 
 http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=176183&extension=ts
 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",bein Sports MAX 6
+http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=176194&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96689.ts
