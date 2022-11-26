@@ -142,13 +142,6 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/8096.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/archive/b/b7/20191004125542%2113._La_Chaine_Parlementaire.png" group-title="INFO",LCP
 http://callofliberty.fr/stream/LCP/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/L_Equipe_Logo.svg/2560px-L_Equipe_Logo.svg.png" group-title="SPORT",L'EQUIPE
-http://callofliberty.fr/stream/LEQUIPE/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_L%27%C3%89quipe_21.svg/2065px-Logo_L%27%C3%89quipe_21.svg.png" group-title="SPORT",L'EQUIPE 21
-http://venomtt.com:8000/live/kdcxxD1U/543545/2554.ts
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="DOCUMENTAIRE",RMC Decouverte
@@ -223,8 +216,6 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/2537.ts
 http://venomtt.com:8000/live/kdcxxD1U/543545/46190.ts
 
 
-#EXTINF:-1 tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~84b8dbcf3066215a.png/1200x630/crop-from/top/quality/80/canal-top-14.png" group-title="SPORT",Canal+ Top14
-http://red.ipfox.org:8080/Karam2022/Karam2023/48171
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedie+
 http://red.ipfox.org:8080/Karam2022/Karam2023/48164
@@ -378,7 +369,7 @@ http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=176194&extensi
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96689.ts
 
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/95/650/png-transparent-infosport-television-channel-logo-sky-news-sport-television-text-sport.png" group-title="SPORT",Infosport+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",InfosportPlus
 http://venomtt.com:8000/live/kdcxxD1U/543545/81058.ts
 
 
@@ -397,7 +388,11 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/22279.ts
 #EXTINF:-1 tvg-logo="" group-title="SPORT",FOOT+
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96747.ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Golf +
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Canal+ Top14
+http://red.ipfox.org:8080/Karam2022/Karam2023/48171
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Golf+
 http://venomtt.com:8000/live/kdcxxD1U/543545/5304.ts
 
 
@@ -405,6 +400,8 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/5304.ts
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Equidia
 http://venomtt.com:8000/live/kdcxxD1U/543545/2552.ts
 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",L'EQUIPE TV
+http://callofliberty.fr/stream/LEQUIPE/master.m3u8
 
 
 
