@@ -90,10 +90,10 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48014
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+
-http://red.ipfox.org:8080/Karam2022/Karam2023/48187
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96644.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Séries
-http://red.ipfox.org:8080/Karam2022/Karam2023/48181
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96650.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Cinéma France
 http://red.ipfox.org:8080/Karam2022/Karam2023/48179
@@ -105,20 +105,20 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48177
 http://red.ipfox.org:8080/Karam2022/Karam2023/48173
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CANAL+",Cine+ Premier
-http://red.ipfox.org:8080/Karam2022/Karam2023/48163
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96654.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CANAL+",Cine+ Emotion
 http://red.ipfox.org:8080/Karam2022/Karam2023/48159
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CANAL+",Cine+ Frisson
-http://venomtt.com:8000/live/kdcxxD1U/543545/64.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96656.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Famiz
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96660.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+ Club
-http://red.ipfox.org:8080/Karam2022/Karam2023/48155
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96662.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Polar+
 http://venomtt.com:8000/live/kdcxxD1U/543545/2685.ts
