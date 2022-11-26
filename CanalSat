@@ -242,43 +242,43 @@ https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/1031px-Canal_J_2019_Logo.png" group-title="Jeunesse",Canal J
-http://venomtt.com:8000/live/kdcxxD1U/543545/81071.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96908.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Jeunesse",Cartoon Network
-http://venomtt.com:8000/live/kdcxxD1U/543545/373.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96904.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Boing_TV.png" group-title="Jeunesse",Boing
-http://venomtt.com:8000/live/kdcxxD1U/543545/81066.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96902.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Boomerang_tv_%282000-2004%29.png/1200px-Boomerang_tv_%282000-2004%29.png" group-title="Jeunesse",Boomerang
-http://venomtt.com:8000/live/kdcxxD1U/543545/378.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96900.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Piwi%2B_logo_2011.png/640px-Piwi%2B_logo_2011.png" group-title="Jeunesse",Piwi+
-http://red.ipfox.org:8080/Karam2022/Karam2023/48060
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96887.ts
 
 #EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/83-835216_disney-junior-png-junior-disney-ai-logo-transparent.png" group-title="Jeunesse",Disney Junior
-http://venomtt.com:8000/live/kdcxxD1U/543545/81069.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96911.ts
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/577-5779539_baby-tv-hd-baby-tv-hd-logo-hd.png" group-title="Jeunesse",Baby TV
-http://venomtt.com:8000/live/kdcxxD1U/543545/101671.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96884.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/T%C3%A9l%C3%A9toon%2B_Logo.png" group-title="Jeunesse",TéléToon+
-http://red.ipfox.org:8080/Karam2022/Karam2023/48054
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96890.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse",J-One
-http://venomtt.com:8000/live/kdcxxD1U/543545/81075.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96922.ts
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Gameone
-http://venomtt.com:8000/live/kdcxxD1U/543545/2557.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96924.ts
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Mangas
-http://venomtt.com:8000/live/kdcxxD1U/543545/81014.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96920.ts
 
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Toonami
-http://venomtt.com:8000/live/kdcxxD1U/543545/46184.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96898.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2NQhjG/pitchoun.png" group-title="Jeunesse",TV PITCHOUN
