@@ -357,21 +357,21 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://178.33.72.149/logo/FR/bein%20sport%20FR%201%20hd.png" group-title="SPORT",BEIN SPORTS 1 HD 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 1
 http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=3370&extension=ts
 
 
-#EXTINF:-1 tvg-logo="http://178.33.72.149/logo/FR/bein%20sport%20FR%202%20hd.png" group-title="SPORT",BEIN SPORTS 2 HD 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 2
 http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=3369&extension=ts
 
-#EXTINF:-1 tvg-logo="http://178.33.72.149/logo/FR/bein%20sport%20FR%203%20hd.png" group-title="SPORT",BEIN SPORTS 3 HD 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 3
 http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=3368&extension=ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",bein Sports MAX 5 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports MAX 5 
 http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=176183&extension=ts
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",bein Sports MAX 6
+#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports MAX 6
 http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=176194&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
@@ -403,7 +403,6 @@ http://venomtt.com:8000/live/kdcxxD1U/543545/5304.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Equidia
-
 http://venomtt.com:8000/live/kdcxxD1U/543545/2552.ts
 
 
