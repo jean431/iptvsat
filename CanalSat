@@ -98,8 +98,8 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96650.ts
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Cinéma France
 http://red.ipfox.org:8080/Karam2022/Karam2023/48179
 
-#EXTINF:-1 tvg-logo="9cran_2022.svg.png" group-title="CANAL+",Ciné+ Classic
-http://red.ipfox.org:8080/Karam2022/Karam2023/48177
+#EXTINF:-1 tvg-logo="" group-title="CANAL+",Ciné+ Classic
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96664.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Canal%2B_Kids.png" group-title="CANAL+",Canal+ KIDS
 http://red.ipfox.org:8080/Karam2022/Karam2023/48173
