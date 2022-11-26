@@ -288,26 +288,26 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 #EXTINF:-1 tvg-country="FR" tvg-logo="https://d5music.tv/wp-content/uploads/2020/07/LOGO-D5-MUSIC-BLANCROUGE_carre.png" group-title="MUSIC",D5 Music
 https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/1/1d/M6_Music_2012.png" group-title="MUSIC",M6 Music
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png" group-title="MUSIC",TRACE URBAN FR
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Urban
 http://red.ipfox.org:8080/Karam2022/Karam2023/48011
 
 
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/ourpic/u2q8q8y3q8w7i1e6_trace-africa-2013-trace-africa-logo-png" group-title="MUSIC",TRACE Africa
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Africa
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145435.ts
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6vZBdsV/TRACE-CARIBBEAN-BASELINE.png" group-title="MUSIC",TRACE Caribbbean
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Caribbean
 http://venomtt.com:8000/live/kdcxxD1U/543545/237663.ts
 
-#EXTINF:-1 tvg-id="MTVHitsFrance"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/MTV_Hits_logo.png" group-title="MUSIC",MTV Hits France
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV Hits
 http://190.2.155.162:8080/mtvhit/mpegts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1200px-MTV_Logo.svg.png" group-title="MUSIC",MTVFrance
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV
 http://190.2.155.162:8080/mtvfrance/mpegts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/2560px-Logo_Fun_Radio_%282021%29.svg.png" group-title="MUSIC",Fun Radio
