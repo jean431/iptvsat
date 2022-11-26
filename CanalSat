@@ -8,19 +8,19 @@ http://callofliberty.fr/stream/ARTE/master.m3u8
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="GENERALISTE",France 2
-http://red.ipfox.org:8080/Karam2022/Karam2023/48199
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96515.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="GENERALISTE",France 3
-http://red.ipfox.org:8080/Karam2022/Karam2023/48197
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96517.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png" group-title="GENERALISTE",France 4
-http://red.ipfox.org:8080/Karam2022/Karam2023/48195
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96519.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="GENERALISTE",France 5
-http://red.ipfox.org:8080/Karam2022/Karam2023/48193
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96521.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png" group-title="GENERALISTE",TF1
-http://venomtt.com:8000/live/kdcxxD1U/543545/58.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96514.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9Y4PHKP/tf1sf.png" group-title="GENERALISTE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
@@ -36,11 +36,11 @@ http://callofliberty.fr/stream/W9/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="GENERALISTE",WarnerTV
-http://venomtt.com:8000/live/kdcxxD1U/543545/22284.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96564.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
-http://red.ipfox.org:8080/Karam2022/Karam2023/48087
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96545.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4VS27Jw/tfx.png" group-title="GENERALISTE",TFX
@@ -54,10 +54,10 @@ https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m
 http://red.ipfox.org:8080/Karam2022/Karam2023/48129
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TV Breizh
-http://venomtt.com:8000/live/kdcxxD1U/543545/5245.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96586.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/T%C3%A9va_logo_2021.svg/1200px-T%C3%A9va_logo_2021.svg.png" group-title="GENERALISTE",Teva
-http://venomtt.com:8000/live/kdcxxD1U/543545/2637.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96549.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
