@@ -368,7 +368,7 @@ http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=3369&extension
 http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=3368&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_bein_sports_max_2.png/1200px-Logo_bein_sports_max_2.png" group-title="SPORT",BEIN SPORTSmaxx 5 HD 
+#EXTINF:-1 tvg-logo="" group-title="SPORT",bein Sports MAX 5 
 http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=176183&extension=ts
 
 
