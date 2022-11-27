@@ -124,10 +124,10 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96662.ts
 http://venomtt.com:8000/live/kdcxxD1U/543545/2685.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Action
+#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Action Centre
 http://venomtt.com:8000/live/kdcxxD1U/543545/237776.ts
 
-#EXTINF:-1 tvg-logo="https://ayanawebzine.com/wp-content/uploads/2019/11/canalellles-300x157.png" group-title="CANAL+",Canal+ ELLES
+#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Elles Centre
 http://venomtt.com:8000/live/kdcxxD1U/543545/237780.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ POP
