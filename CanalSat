@@ -77,11 +77,11 @@ http://callofliberty.fr/stream/NRJ12/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
 http://callofliberty.fr/stream/CSTAR/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/cuisine-tv-logo-png-transparent.png" group-title="GENERALISTE",Cuisines
-http://venomtt.com:8000/live/kdcxxD1U/543545/237704.ts
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedy Central France
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96562.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/MCM_Top.png" group-title="GENERALISTE",MCM
-http://venomtt.com:8000/live/kdcxxD1U/543545/46212.ts
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",MCM
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96867.ts
 
 
 
@@ -121,20 +121,20 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96660.ts
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96662.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Polar+
-http://venomtt.com:8000/live/kdcxxD1U/543545/2685.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96568.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Action Centre
-http://venomtt.com:8000/live/kdcxxD1U/543545/237776.ts
+#EXTINF:-1 tvg-logo="" group-title="GENERALIST",Crime District
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96680.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Elles Centre
-http://venomtt.com:8000/live/kdcxxD1U/543545/237780.ts
+#EXTINF:-1 tvg-logo="" group-title="FILM",Serie Club
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96674.ts
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ POP
-http://venomtt.com:8000/live/kdcxxD1U/543545/237775.ts
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Story
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96572.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="INFO",France 24
-http://venomtt.com:8000/live/kdcxxD1U/543545/8096.ts
+#EXTINF:-1 tvg-logo="" group-title="INFO",France 24
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96619.ts
 
 
 
@@ -152,11 +152,11 @@ http://callofliberty.fr/stream/RMCDECOUVERTE/master.m3u8
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" group-title="DOCUMENTAIRE",Discovery Channel
-http://venomtt.com:8000/live/kdcxxD1U/543545/81034.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96823.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="DOCUMENTAIRE",Discovery Investigation
-http://venomtt.com:8000/live/kdcxxD1U/543545/81037.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96829.ts
 
 #EXTINF:-1 tvg-logo="" group-title="INFO",BSMART
 http://callofliberty.fr/stream/BSMART/master.m3u8
@@ -165,10 +165,10 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="FILM",Action
-http://red.ipfox.org:8080/Karam2022/Karam2023/48200
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96685.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Addik_TV.svg/2560px-Addik_TV.svg.png" group-title="FILM",Addik TV
-http://venomtt.com:8000/live/kdcxxD1U/543545/202640.ts
+#EXTINF:-1 tvg-logo="" group-title="FILM",E! Entertainment
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96547.ts
 
 #EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="DOCUMENTAIRE",National Geographic
 http://red.ipfox.org:8080/Karam2022/Karam2023/48074
@@ -187,8 +187,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48068
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Novelastv
 http://red.ipfox.org:8080/Karam2022/Karam2023/48118
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/640866681053704193/Qj0TW2Qi_400x400.jpg" group-title="GENERALISTE",Nina Tv
-http://venomtt.com:8000/live/kdcxxD1U/543545/237673.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/2560px-OCS_Max.svg.png" group-title="FILM",OCS Max
 http://red.ipfox.org:8080/Karam2022/Karam2023/48151
@@ -206,14 +204,14 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48081
 http://red.ipfox.org:8080/Karam2022/Karam2023/48079
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/PLAN%C3%88TE%2B_A%26E.png/320px-PLAN%C3%88TE%2B_A%26E.png" group-title="DOCUMENTAIRE",Planete+ A&E
-http://venomtt.com:8000/live/kdcxxD1U/543545/65.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96815.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/AB1_logo_1.png/640px-AB1_logo_1.png" group-title="GENERALISTE",AB1
-http://venomtt.com:8000/live/kdcxxD1U/543545/2537.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96580.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Logo_AB3.png" group-title="GENERALISTE",AB3
-http://venomtt.com:8000/live/kdcxxD1U/543545/46190.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96582.ts
 
 
 
@@ -224,8 +222,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48164
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R3KG4L9/cherie25.png" group-title="GENERALISTE",CHERIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="GENERALISTE",Alpe d’Huez Tv
-https://edge.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="GENERALISTE",My Comedy
 https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
@@ -301,8 +297,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48011
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Africa
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145435.ts
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Caribbean
-http://venomtt.com:8000/live/kdcxxD1U/543545/237663.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV Hits
 http://190.2.155.162:8080/mtvhit/mpegts
@@ -316,8 +310,6 @@ https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",BBlackAfrica.fr
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145446.ts
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",BBlackCarrabean.fr
-http://venomtt.com:8000/live/kdcxxD1U/543545/46201.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats
@@ -392,13 +384,9 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96747.ts
 http://red.ipfox.org:8080/Karam2022/Karam2023/48171
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Golf+
-http://venomtt.com:8000/live/kdcxxD1U/543545/5304.ts
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Equidia
-http://venomtt.com:8000/live/kdcxxD1U/543545/2552.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",L'EQUIPE TV
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
@@ -410,10 +398,10 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96759.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 1
-http://venomtt.com:8000/live/kdcxxD1U/543545/377.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96753.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 2
-http://venomtt.com:8000/live/kdcxxD1U/543545/23795.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96755.ts
 
 
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
