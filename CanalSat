@@ -321,7 +321,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Medi 1 TV
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="GENARALISTE",NTV Afrique
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="GENERALISTE",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/E1ye7NcMuiEf_euQyCLSAKECwEMpF2MEUOKLD70OIZ54bShUgTTs-BwIIbFNU_f_8NI" group-title="GENERALISTE",Ivoire Channel
