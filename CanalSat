@@ -124,7 +124,7 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96662.ts
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96568.ts
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALIST",Crime District
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Crime District
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96680.ts
 
 #EXTINF:-1 tvg-logo="" group-title="FILM",Serie Club
@@ -185,7 +185,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48070
 http://red.ipfox.org:8080/Karam2022/Karam2023/48068
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Novelastv
-http://red.ipfox.org:8080/Karam2022/Karam2023/48118
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96902.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d0/OCS_Max.svg/2560px-OCS_Max.svg.png" group-title="FILM",OCS Max
