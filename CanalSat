@@ -318,20 +318,20 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENARALISTE",Medi 1 TV
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Medi 1 TV
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="GENARALISTE",NTV Afrique
 https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/E1ye7NcMuiEf_euQyCLSAKECwEMpF2MEUOKLD70OIZ54bShUgTTs-BwIIbFNU_f_8NI" group-title="GENARALISTE",Ivoire Channel
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/E1ye7NcMuiEf_euQyCLSAKECwEMpF2MEUOKLD70OIZ54bShUgTTs-BwIIbFNU_f_8NI" group-title="GENERALISTE",Ivoire Channel
 https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="GENARALISTE",My TV Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlNVePCCQfPcnsP-6K4YihX7L91LlyMn7wg&usqp=CAU" group-title="GENERALISTE",My TV Channel
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GERALISTE",Tele Haiti
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Tele Haiti
 http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 
 
@@ -443,9 +443,9 @@ https://rakuten-documentaries-7-fr.plex.wurl.tv/playlist.m3u8
 https://rakuten-documentaries-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Rakuten TV Films Drames 
 https://rakuten-tvshows-7-fr.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERALISTE",Rakuten TV Films Drames 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Rakuten TV Films Drames 
 https://rakuten-tvshows-7-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GERALISTE",Rakuten TV Films Français 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Rakuten TV Films Français 
 https://rakuten-films-francais-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Rakuten TV Films Thriller 
 https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
