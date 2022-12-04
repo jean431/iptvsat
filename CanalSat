@@ -341,21 +341,21 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 1
-http://red.ipfox.org:8080/Karam2022/Karam2023/48143
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12605.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 2
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96731.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12604.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 3
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96737.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12603.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports MAX 5 
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96740.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports MAX 6
-http://ott-4k.com:8000/play/live.php?mac=00:1A:79:cb:45:59&stream=176194&extension=ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12600.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96689.ts
@@ -367,14 +367,14 @@ http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/91.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",RMC Sport 1
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96701.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12592.ts
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",RMC Sport 2
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96701.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12591.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",RMC Sport 3
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2279.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/146389.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Foot+ 24/24
