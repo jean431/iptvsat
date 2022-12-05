@@ -61,7 +61,7 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96549.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96541.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12662.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",13eme Rue
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
@@ -285,13 +285,13 @@ https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
 https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",M6 Music
-http://190.2.155.162:8080/m6music/mpegts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12999.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Urban
-http://red.ipfox.org:8080/Karam2022/Karam2023/48011
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12998.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Africa
@@ -299,10 +299,10 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145435.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV Hits
-http://190.2.155.162:8080/mtvhit/mpegts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12988.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV
-http://190.2.155.162:8080/mtvfrance/mpegts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12990.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Fun Radio
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
@@ -341,7 +341,7 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 1
-http://11121314.org:8000/live/Bgtrez/Hgtyiprza/36207.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12528.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 2
