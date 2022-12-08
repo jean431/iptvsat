@@ -26,7 +26,7 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12835
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",C8
-http://callofliberty.fr/stream/C8/master.m3u8
+http://iptv.ndasat.com:88/221960810660189/221960810660189/301
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
@@ -40,7 +40,7 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12658
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96545.ts
+http://iptv.ndasat.com:88/221960810660189/221960810660189/581
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TFX
@@ -57,7 +57,7 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96686.ts
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12657
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Teva
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96549.ts
+http://iptv.ndasat.com:88/221960810660189/221960810660189/286
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
