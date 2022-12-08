@@ -68,7 +68,7 @@ http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12768.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTL9
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12824.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3676.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",NRJ 12
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12656
@@ -86,11 +86,11 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12996
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",C Star Hits France
-http://red.ipfox.org:8080/Karam2022/Karam2023/48014
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4500.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12684.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3326.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Séries
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12682.ts
@@ -208,7 +208,7 @@ http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13053.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB1
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12646.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/123.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB3
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12645
@@ -255,13 +255,13 @@ http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12943.ts
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12938.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse",J-One
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96922.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/48781.ts
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Gameone
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96924.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2105.ts
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Mangas
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96920.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/122.ts
 
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Toonami
