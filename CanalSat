@@ -64,11 +64,11 @@ http://iptv.ndasat.com:88/221960810660189/221960810660189/286
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12662.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",13eme Rue
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12768.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTL9
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/375.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12824.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",NRJ 12
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12656
@@ -78,7 +78,7 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12656
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12812
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedy Central France
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96562.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12807.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",MCM
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12996
@@ -90,13 +90,13 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48014
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96644.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12684.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Séries
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96650.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12682.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Cinema
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/49749.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12679.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Ciné+ Classic
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12667
@@ -140,7 +140,7 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12612
 
 
 #EXTINF:-1 tvg-logo="" group-title="INFO",LCP
-http://callofliberty.fr/stream/LCP/master.m3u8
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12610.ts
 
 
 
@@ -152,11 +152,11 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/13037
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Discovery Channel
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96823.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13051.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Discovery Investigation
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96829.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13047.ts
 
 #EXTINF:-1 tvg-logo="" group-title="INFO",BSMART
 http://callofliberty.fr/stream/BSMART/master.m3u8
@@ -165,10 +165,10 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Action
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96685.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12677.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",E! Entertainment
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96547.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12651.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",National Geographic
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96819.ts
