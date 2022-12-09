@@ -8,39 +8,39 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12820
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 2
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12922
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3217.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 3
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12921
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2500.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 4
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12920
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3218.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 5
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12919
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4005.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12835
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/95.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",C8
-http://iptv.ndasat.com:88/221960810660189/221960810660189/301
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/102.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",W9
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12821
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3221.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",WarnerTV
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12658
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/49198.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
-http://iptv.ndasat.com:88/221960810660189/221960810660189/581
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2499.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TFX
@@ -50,32 +50,30 @@ https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TMCCINEMA
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96686.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TV Breizh
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12657
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Teva
-http://iptv.ndasat.com:88/221960810660189/221960810660189/286
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2501.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",SYFY
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12662.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3220.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",13eme Rue
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12768.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3346.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTL9
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3676.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/375.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",NRJ 12
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12656
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/1456.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12812
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4500.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedy Central France
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12807.ts
@@ -86,49 +84,49 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12996
 
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",C Star Hits France
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4500.ts
+http://red.ipfox.org:8080/Karam2022/Karam2023/48014
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3326.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12684.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Séries
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12682.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Cinema
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12679.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/78.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Ciné+ Classic
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12667
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/48671.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ KIDS
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12681
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/49209.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Premier
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12672
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3327.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Emotion
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12670
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/84.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Frisson
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12671.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3328.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Famiz
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12669.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3330.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Club
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12668.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2292.ts
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Polar+
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12663
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4548.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Crime District
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/13033
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/51046.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Serie Club
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12661
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3222.ts
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Story
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12655
@@ -152,7 +150,7 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/13037
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Discovery Channel
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13051.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/109.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Discovery Investigation
@@ -165,7 +163,7 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Action
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12677.ts
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/126.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",E! Entertainment
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12651.ts
@@ -208,7 +206,7 @@ http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13053.ts
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB1
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/123.ts
+http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12646.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB3
 http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12645
@@ -255,13 +253,13 @@ http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12943.ts
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12938.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse",J-One
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/48781.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96922.ts
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Gameone
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2105.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96924.ts
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Mangas
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/122.ts
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96920.ts
 
 
 #EXTINF:1 tvg-logo="" group-title="Jeunesse",Toonami
@@ -459,5 +457,7 @@ https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-topfree-7-fr.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Rakuten TV Top Films 
 https://rakuten-topfree-7-eu.rakuten.wurl.tv/playlist.m3u8
+
+
 
 
