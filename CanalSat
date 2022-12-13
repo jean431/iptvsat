@@ -20,7 +20,7 @@ http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3218.ts
 http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4005.ts
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/95.ts
+https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
