@@ -8,16 +8,16 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12820
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 2
-http://callofliberty.fr/stream/france.2/master.m3u8
+http://livetv.ktv.zone/4/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 3
-http://callofliberty.fr/stream/france.3/master.m3u8
+http://livetv.ktv.zone/5/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 4
-http://callofliberty.fr/stream/france.4/master.m3u8
+http://livetv.ktv.zone/16/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 5
-http://callofliberty.fr/stream/france.5/master.m3u8
+http://livetv.ktv.zone/7/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1
 https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
