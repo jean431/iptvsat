@@ -20,7 +20,7 @@ http://livetv.ktv.zone/16/play.m3u8
 http://livetv.ktv.zone/7/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1
-https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+http://livetv.ktv.zone/3/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1 SERIES FILMS
 https://tsf-hls-live-cdn1.tf1.fr/out/v1/0326aeefae1a405c9a9732d6f80a66df/index.m3u8
