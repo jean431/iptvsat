@@ -79,7 +79,7 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/48014
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12684.ts
+https://s13.tntendirect.com/hd1/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Séries
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12682.ts
