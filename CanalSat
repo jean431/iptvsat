@@ -41,58 +41,20 @@ http://livetv.ktv.zone/24/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TFX
 http://livetv.ktv.zone/13/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",En aparté
-http://livetv.ktv.zone/6/play.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TMC
-https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTS1
 http://livetv.ktv.zone/1/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTS2
 http://livetv.ktv.zone/2/play.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Teva
-http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/813
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",13eme Rue
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3346.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTL9
-http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/812
-
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
 http://livetv.ktv.zone/19/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedy Central France
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12807.ts
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",MCM
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12996
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",C Star Hits France
-http://red.ipfox.org:8080/Karam2022/Karam2023/48014
-
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="INFO",LCP
 http://livetv.ktv.zone/15/play.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",CultureBox
 http://livetv.ktv.zone/16/play.m3u8
@@ -100,131 +62,14 @@ http://livetv.ktv.zone/16/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",BFM
 http://livetv.ktv.zone/17/play.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Maison & Travaux TV
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Discovery Channel
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/109.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Discovery Investigation
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13047.ts
 
 #EXTINF:-1 tvg-logo="" group-title="INFO",BSMART
 http://callofliberty.fr/stream/BSMART/master.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="INFO",CNEWS
 http://livetv.ktv.zone/18/play.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Action
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/126.ts
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",E! Entertainment
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12651.ts
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",National Geographic
-http://iptv.ndasat.com:88/live/221960810660189/221960810660189/486.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",NATgeowild
-http://iptv.ndasat.com:88/live/221960810660189/221960810660189/485.ts
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Ushuaia Tv
-http://iptv.ndasat.com:88/live/221960810660189/221960810660189/483.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Histoire
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13042.ts
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Novelastv
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12817.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",OCS Max
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12676.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",OCS City
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12675.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",OCS Choc
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12673.ts
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Planete+
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13054.ts
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Planete+ CRIME
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13052.ts
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Planete+ A&E
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13053.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB1
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12646.ts
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",AB3
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12645
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedie+
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12808.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CHERIE 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",My Comedy
-https://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Canal J
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12936.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Cartoon Network
-http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/834
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Boing
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12935.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Boomerang
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12941.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Piwi+
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12929.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Disney Junior
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12932.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",Baby TV
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12943.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",TéléToon+
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12938.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",J-One
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96922.ts
-
-#EXTINF:1 tvg-logo="" group-title="Jeunesse",Gameone
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96924.ts
-
-#EXTINF:1 tvg-logo="" group-title="Jeunesse",Mangas
-http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/853
-
-
-#EXTINF:1 tvg-logo="" group-title="Jeunesse",Toonami
-http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/832
-
-
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",TV PITCHOUN
-https://live.tvradio-pitchoun.fr/hls/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
@@ -233,44 +78,15 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 http://livetv.ktv.zone/20/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",D5TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo=""" group-title="MUSIC",D5 Music
-https://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",M6 Music
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12999.ts
-
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Urban
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12998.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Trace Africa
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145435.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV Hits
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12988.ts
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12990.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Fun Radio
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",BBlackAfrica.fr
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/145446.ts
-
-
-
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Medi 1 TV
@@ -293,82 +109,17 @@ http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 1
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/3682
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 2
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12527.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports 3
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12526.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports MAX 5 
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96740.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",beIn Sports MAX 6
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12600.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="SPORT",Canal+ Sport
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96689.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",InfosportPlus
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/91.ts
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC Sport 1
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12592.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC Sport 2
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12591.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",RMC Sport 3
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/146389.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Foot+ 24/24
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96747.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Canal+ Top14
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/53529.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",CultureBox
-http://livetv.ktv.zone/16/play.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="SPORT",L'Equipe
 http://livetv.ktv.zone/26/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",CultureBox
 http://livetv.ktv.zone/16/play.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Automoto
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96759.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 1
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96753.ts
-
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Eurosport 2
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96755.ts
-
-
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="GENERALISTE",L'Atelier Des Chefs
 https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="GENERALISTE",Rakuten TV Films Action 
 https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
