@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml"
 
-
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Arte
-http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/731
+http://livetv.ktv.zone/9/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Antenne Reunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
@@ -25,8 +24,7 @@ http://livetv.ktv.zone/3/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1 SERIES FILMS
 https://s13.tntendirect.com/hd1/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",C8
-http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/835
+
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
@@ -34,17 +32,28 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",W9
 http://livetv.ktv.zone/11/play.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",C8
+http://livetv.ktv.zone/10/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
 http://livetv.ktv.zone/24/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TFX
-https://tfx-hls-live-cdn1.tf1.fr/out/v1/818e38d791854222b71a950791fb7002/index.m3u8
+http://livetv.ktv.zone/13/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",En aparté
+http://livetv.ktv.zone/6/play.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTS1
+http://livetv.ktv.zone/1/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",RTS2
+http://livetv.ktv.zone/2/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Teva
@@ -60,11 +69,11 @@ http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3346.ts
 http://fxorexworld.com:8080/ALfWaJRIsy/Tvmr6MGbnd/812
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",NRJ 12
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/1456.ts
+http://livetv.ktv.zone/14/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4500.ts
+http://livetv.ktv.zone/19/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Comedy Central France
 http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12807.ts
@@ -78,63 +87,18 @@ http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12996
 http://red.ipfox.org:8080/Karam2022/Karam2023/48014
 
 
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+
-http://77.247.109.214:8008/sunshine/nlyYAO51kX4p52OCkA2VjI3GRtVC5EWJYFycNQlhpHkN-Zq1EKuV4o5abHPufowPMV9sUPjnGkwQYPd_AhbPmOhJHo8HcVj7atP3duySH6QTfRBPx9lA3M9XQwxnBdzvh3CMV_jWvdzD2Vmawu6uzCRDP3Ny9JXe2ojO7YYQhlWsoOJOHg3U4w2ZFgbgjin7FjN5dhOVEtIlLdsJ13Wu3gvlNFdQHtS9aJ6yme2RqKi8Dhw8IVabRfVyMZOMsJ6uEWo8FiHYTl_QmoLTGh2gvO55zJB5FexP83yrYAiW4zerdpky64Gdm4IZmq5_0Fi7nXB-60RQQOeI8ntzMaBHMEzA8HD6-qBYhRPoPcFAE2E/hls/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Séries
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12682.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ Cinema
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/78.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Ciné+ Classic
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/48671.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Canal+ KIDS
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/49209.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Premier
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3327.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Emotion
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/84.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Frisson
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3328.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Famiz
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3330.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Cine+ Club
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2292.ts
-
-#EXTINF:-1 tvg-logo="" group-title="CANAL+",Polar+
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/4548.ts
-
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Crime District
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/51046.ts
-
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Serie Club
-http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/3222.ts
-
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Story
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12655
-
-#EXTINF:-1 tvg-logo="" group-title="INFO",France 24
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/12612
-
-
 
 
 #EXTINF:-1 tvg-logo="" group-title="INFO",LCP
-http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/12610.ts
+http://livetv.ktv.zone/15/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Decouverte
-http://iptvsystems.ottc.pro:80/FZVJAARZQL/V74IA5PRLA/13037
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",CultureBox
+http://livetv.ktv.zone/16/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",BFM
+http://livetv.ktv.zone/17/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Maison & Travaux TV
@@ -151,6 +115,8 @@ http://iptvsystems.ottc.pro:80/live/FZVJAARZQL/V74IA5PRLA/13047.ts
 http://callofliberty.fr/stream/BSMART/master.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="INFO",CNEWS
+http://livetv.ktv.zone/18/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="CANAL+",Action
@@ -264,7 +230,7 @@ https://live.tvradio-pitchoun.fr/hls/live.m3u8
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse",GULLI
-https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+http://livetv.ktv.zone/20/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",D5TV
@@ -374,10 +340,15 @@ http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/53529.ts
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",CultureBox
+http://livetv.ktv.zone/16/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",L'EQUIPE TV
-http://callofliberty.fr/stream/LEQUIPE/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",L'Equipe
+http://livetv.ktv.zone/26/play.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",CultureBox
+http://livetv.ktv.zone/16/play.m3u8
 
 
 
