@@ -60,7 +60,7 @@ http://livetv.ktv.zone/14/play.m3u8
 http://livetv.ktv.zone/19/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Cherie25
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Chérie 25
 http://livetv.ktv.zone/27/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Rouge TV
@@ -72,9 +72,7 @@ https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFO",LCP
 http://livetv.ktv.zone/15/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",CultureBox
-http://livetv.ktv.zone/16/play.m3u8
-
+#
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",BFM
 http://livetv.ktv.zone/17/play.m3u8
 
@@ -131,7 +129,7 @@ http://livetv.ktv.zone/26/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Decouverte
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Découverte
 http://livetv.ktv.zone/26/play.m3u8
 
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
