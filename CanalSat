@@ -47,10 +47,10 @@ http://livetv.ktv.zone/12/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1517057409.png" group-title="GENERALISTE",RTS 1
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1517057409.png" group-title="GENERALISTE",RTS Un
 http://livetv.ktv.zone/1/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/RTS2_logo_20.png" group-title="GENERALISTE",RTS 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/RTS2_logo_20.png" group-title="GENERALISTE",RTS Deux
 http://livetv.ktv.zone/2/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",NRJ 12
