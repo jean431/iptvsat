@@ -18,6 +18,7 @@ http://livetv.ktv.zone/16/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",France 5
 http://livetv.ktv.zone/7/play.m3u8
 
+
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1
 http://livetv.ktv.zone/3/play.m3u8
 
@@ -57,6 +58,10 @@ http://livetv.ktv.zone/14/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
 http://livetv.ktv.zone/19/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Cherie25
+http://livetv.ktv.zone/27/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Rouge TV
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
