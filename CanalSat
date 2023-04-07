@@ -126,6 +126,10 @@ http://livetv.ktv.zone/26/play.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Decouverte
+
+http://livetv.ktv.zone/26/play.m3u8
+
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 
