@@ -22,7 +22,7 @@ http://livetv.ktv.zone/7/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="GENERALISTE",TF1
 http://livetv.ktv.zone/3/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1 SERIES FILMS
+#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TF1 Séries Films
 http://livetv.ktv.zone/22/play.m3u8
 
 
