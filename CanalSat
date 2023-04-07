@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltvfr.fr/xmltv/xmltv_tnt.xml,https://iptv-org.github.io/epg/guides/fr_fr.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml"
-
+#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr"
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Arte
 http://livetv.ktv.zone/9/play.m3u8
 
