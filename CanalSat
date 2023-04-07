@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-tnt.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr"
+#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-tnt.xml,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr"
 
 #EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Arte
 http://livetv.ktv.zone/9/play.m3u8
