@@ -1,24 +1,24 @@
 #EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-tnt.xml,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv.xml"
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2" tvg-logo="https://w7.pngwing.com/pngs/248/17/png-transparent-mbc-1-mauritius-broadcasting-corporation-television-channel-others-television-angle-text-thumbnail.png" group-title="Local",MBC 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/248/17/png-transparent-mbc-1-mauritius-broadcasting-corporation-television-channel-others-television-angle-text-thumbnail.png" group-title="Local",MBC 2
 https://hls.mbconline.xyz/live/MBC2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MBC 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="Local",MBC 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" group-title="Local",MBC 3
 https://hls.mbconline.xyz/live/MBC3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine12" tvg-logo="https://mbcradio.tv/sites/default/files/cinetvlogo.png" group-title="Local",Cine12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/cinetvlogo.png" group-title="Local",Cine12
 https://hls.mbconline.xyz/live/MBC12/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Ystv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ys-logo.png" group-title="Local",Ystv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ys-logo.png" group-title="Local",Ystv
 https://hls.mbconline.xyz/live/YSTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Kreol17" tvg-logo="https://mbcradio.tv/sites/default/files/senn_kreol_0.png" group-title="Local",Kreol17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/senn_kreol_0.png" group-title="Local",Kreol17
 https://hls.mbconline.xyz/live/education/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="Local",BTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="Local",BTV
 https://hls.mbconline.xyz/live/BTV/index.m3u8
 
 
