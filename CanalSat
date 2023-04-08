@@ -72,7 +72,11 @@ https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="INFO",LCP
 http://livetv.ktv.zone/15/play.m3u8
 
-#
+#EXTINF:-1 tvg-logo="" group-title="INFO",LCI
+http://livetv.ktv.zone/28/play.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",BFM
 http://livetv.ktv.zone/17/play.m3u8
 
