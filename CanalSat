@@ -55,19 +55,19 @@ http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="GENERALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",W9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/2560px-W9-Logo.svg.png" group-title="GENERALISTE",W9
 http://livetv.ktv.zone/11/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",C8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_C8.svg/2560px-Logo_C8.svg.png" group-title="GENERALISTE",C8
 http://livetv.ktv.zone/10/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",6Ter
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="GENERALISTE",6Ter
 http://livetv.ktv.zone/24/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TFX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/TFX_logo_2018.svg/1024px-TFX_logo_2018.svg.png" group-title="GENERALISTE",TFX
 http://livetv.ktv.zone/13/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",TMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/2560px-TMC_logo.svg.png" group-title="GENERALISTE",TMC
 http://livetv.ktv.zone/12/play.m3u8
 
 
@@ -81,37 +81,37 @@ http://livetv.ktv.zone/2/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="GENERALISTE",NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",CSTAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/2560px-Logo_projet_CStar.svg.png" group-title="GENERALISTE",CSTAR
 http://livetv.ktv.zone/19/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Chérie 25
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/1280px-Logo_Ch%C3%A9rie_25.svg.png" group-title="GENERALISTE",Chérie 25
 http://livetv.ktv.zone/27/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Rouge TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="GENERALISTE",Rouge TV
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Generation Tv
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/generations-tv-regarder.png" group-title="MUSIC",Generation Tv
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFO",Public Senat
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/2560px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="INFO",Public Senat
 http://livetv.ktv.zone/15/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFO",LCI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="INFO",LCI
 http://livetv.ktv.zone/28/play.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",BFM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BFM_TV.svg/1280px-BFM_TV.svg.png" group-title="INFO",BFM TV
 http://livetv.ktv.zone/17/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",Maison & Travaux TV
+#EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="DOCUMENTAIRE",Maison & Travaux TV
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFO",BSmartTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/1200px-B_SMART_logo.png" group-title="INFO",BSmartTV
 http://callofliberty.fr/stream/BSMART/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFO",CNEWS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/2560px-Canal_News_logo.svg.png" group-title="INFO",CNEWS
 http://livetv.ktv.zone/18/play.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Jeunesse",TIJI
@@ -121,18 +121,18 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 http://livetv.ktv.zone/20/play.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",TRACE URBAN Aus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Fun Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/Fun_Radio.png" group-title="MUSIC",Fun Radio
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Afrobeats
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/f3205d9461af8bf60000c9f77e1290eb.png" group-title="MUSIC",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Medi 1 TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/medi1-tv-logo-F23867000D-seeklogo.com.png" group-title="GENERALISTE",Medi 1 TV
 https://streaming1.medi1tv.com/live/smil:medi1fr.smil/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f1oGPdr.png" group-title="GENERALISTE",NTV Afrique
