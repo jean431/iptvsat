@@ -15,10 +15,10 @@ https://hls.mbconline.xyz/live/MBC12/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Ys-logo.png" group-title="Local",YSTV
 https://hls.mbconline.xyz/live/YSTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/senn_kreol_0.png" group-title="Local"
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/senn_kreol_0.png" group-title="Local",Seen Kreol
 https://hls.mbconline.xyz/live/education/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="Local"BTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="Local",BTV
 https://hls.mbconline.xyz/live/BTV/index.m3u8
 
 
