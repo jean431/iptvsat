@@ -110,6 +110,13 @@ http://livetv.ktv.zone/28/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BFM_TV.svg/1280px-BFM_TV.svg.png" group-title="INFO",BFM TV
 http://livetv.ktv.zone/17/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/CGTN_Africa.svg/1200px-CGTN_Africa.svg.png" group-title="INFO",CGTN
+http://livetv.ktv.zone/35/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTAIRE",CGTN Documentary
+http://livetv.ktv.zone/36/play.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="DOCUMENTAIRE",Maison & Travaux TV
 http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
 
@@ -150,20 +157,20 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",Tele Haiti
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f74ccdbc0f12e77b7260653f992c4ee2e66e43ade3e53ecf0c97261b91fa6d3.png" group-title="GENERALISTE",Tele Haiti
 http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="GENERALISTE",KTO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="GENERALISTE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SPORT",L'Equipe
-http://livetv.ktv.zone/26/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="SPORT",L'Equipe
+http://livetv.ktv.zone/23/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Story
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="DOCUMENTAIRE",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTAIRE",RMC Découverte
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/640px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="DOCUMENTAIRE",RMC Découverte
 http://livetv.ktv.zone/26/play.m3u8
 
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
