@@ -71,6 +71,9 @@ http://livetv.ktv.zone/13/play.m3u8
 http://livetv.ktv.zone/12/play.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/1024px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="GENERALISTE",Télé-Quebec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1517057409.png" group-title="GENERALISTE",RTS Un
 http://livetv.ktv.zone/1/play.m3u8
@@ -167,6 +170,9 @@ https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="GENERALISTE",L'Equipe
 http://livetv.ktv.zone/23/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/vv/vosges-tv-fr.png" group-title="DOCUMENTAIRE",Vosges TV
+https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/RMC_Story_logo_2018.svg/1280px-RMC_Story_logo_2018.svg.png" group-title="DOCUMENTAIRE",RMC Story
 http://livetv.ktv.zone/25/play.m3u8
 
@@ -178,6 +184,10 @@ https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn
 
 #EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="GENERALISTE",L'Atelier Des Chefs
 https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/640px-CGTN_-_fran%C3%A7ais.png" group-title="GENERALISTE",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="GENERALISTE",Rakuten TV Films Action 
 https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
@@ -201,7 +211,7 @@ https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Rakuten TV BBC Doctor Who France 
 https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="GENERALISTE",Rakuten TV BBC Drama 
+#EXTINF:-1 tvg-id="https://www.mundoplus.tv/wiki/_media/logos/bbcdrama.png" tvg-logo="" group-title="GENERALISTE",BBC Drama 
 https://bbceu-bbcdrama-1-fr.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DOCUMENTAIRE",Rakuten TV Documentaires
