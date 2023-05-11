@@ -97,6 +97,8 @@ https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/generations-tv-regarder.png" group-title="MUSIC",Generation Tv
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/70/LFMTV.png" group-title="GENERALISTE",Lfm TV
+https://edge.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Play_TV_SVG.svg/1200px-Play_TV_SVG.svg.png" group-title="MUSIC",Play Tv
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
