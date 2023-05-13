@@ -67,6 +67,9 @@ http://livetv.ktv.zone/22/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="GENERALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="GENERALISTE",M6 Music
+http://178.170.47.109/M6MUSIC/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/W9-Logo.svg/2560px-W9-Logo.svg.png" group-title="GENERALISTE",W9
 http://livetv.ktv.zone/11/play.m3u8
 
@@ -145,11 +148,14 @@ http://callofliberty.fr/stream/BSMART/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Canal_News_logo.svg/2560px-Canal_News_logo.svg.png" group-title="INFO",CNEWS
 http://livetv.ktv.zone/18/play.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",TIJI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_TiJi_%282019%29.png/640px-Logo_TiJi_%282019%29.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Jeunesse",GULLI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Jeunesse",GULLI
 http://livetv.ktv.zone/20/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://simg.nicepng.com/png/small/30-302051_dc-logo-dc-comics-logo-png.png" group-title="Jeunesse",DC Kids
+https://ythls.onrender.com/channel/UCuju5K7RVyqTZ0xVPbb3Zvg.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",TRACE URBAN Aus
