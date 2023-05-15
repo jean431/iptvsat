@@ -41,7 +41,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dc
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FN9zwLNX0AINtaU.png" group-title="GENERALISTE",Frequence Novelas
 https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://adweknow.com/wp-content/uploads/2021/03/PASSION-NOVELAS-LOGO-2-Ren%C3%A9-Saal.jpg" group-title="GENERALISTE",Frequence Novelas
+#EXTINF:-1 tvg-logo="https://adweknow.com/wp-content/uploads/2021/03/PASSION-NOVELAS-LOGO-2-Ren%C3%A9-Saal.jpg" group-title="GENERALISTE",Passion Novelas
 https://d145ch2l71fhd5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o6s41aklryihz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
