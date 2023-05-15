@@ -30,7 +30,7 @@ http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://www.cse.fr/wp-content/uploads/2016/02/Antenne-R%C3%A9union_logo_300x200-300x150.png" group-title="GENERALISTE",Antenne Réunion
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
-#EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/147-1471374_file-televisa-logo-svg-televisa-telenovelas-retro.png" group-title="GENERALISTE",Novelas Televisa
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Televisa_logo_orange-yellow.png" group-title="GENERALISTE",Novelas Televisa
 https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8?ads.wurl_channel=820&ads.wurl_name=Televisa&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTNIF:-1 tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="GENERALISTE",Telenovela
