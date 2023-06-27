@@ -21,9 +21,6 @@ https://hls.mbconline.xyz/live/education/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/BTV-logo.png" group-title="Local",BTV
 https://hls.mbconline.xyz/live/BTV/index.m3u8
 
-
-
-
 #EXTINF:-1 tvg-logo="https://resize.programme-television.ladmedia.fr/img/var/premiere/storage/images/tele-7-jours/news-tv/la-rentree-d-arte-vive-le-bimedia-4013022/74018493-2-fre-FR/La-rentree-d-Arte-vive-le-bimedia.png" group-title="GENERALISTE",Arte
 http://livetv.ktv.zone/9/play.m3u8
 
@@ -37,13 +34,11 @@ https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=2d9005&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fstormcastnov.png" group-title="GENERALISTE",Stormcast Novelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FN9zwLNX0AINtaU.png" group-title="GENERALISTE",Frequence Novelas
 https://dlfgnu48pa2lo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4do8qdzsxt6b6-prod/frequencenovelas/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 #EXTINF:-1 tvg-logo="https://adweknow.com/wp-content/uploads/2021/03/PASSION-NOVELAS-LOGO-2-Ren%C3%A9-Saal.jpg" group-title="GENERALISTE",Passion Novelas
 https://d145ch2l71fhd5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o6s41aklryihz/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="GENERALISTE",France 2
 http://livetv.ktv.zone/4/play.m3u8
@@ -57,20 +52,16 @@ http://livetv.ktv.zone/16/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/France_5_logo.png" group-title="GENERALISTE",France 5
 http://livetv.ktv.zone/7/play.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="GENERALISTE",TF1
 http://livetv.ktv.zone/3/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://m.webmaster-gratuit.com/pict/direct-tf1films.png" group-title="GENERALISTE",TF1 Séries Films
 http://livetv.ktv.zone/22/play.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/M6_logo.svg/1280px-M6_logo.svg.png" group-title="GENERALISTE",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="MUSIC",M6 Music
-
 http://178.170.47.109/M6MUSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-00s.png" group-title="MUSIC",MTV 00'S
@@ -96,14 +87,11 @@ http://livetv.ktv.zone/12/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/1024px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="GENERALISTE",Télé-Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/7/7072.1517057409.png" group-title="GENERALISTE",RTS Un
 http://livetv.ktv.zone/1/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/RTS2_logo_20.png" group-title="GENERALISTE",RTS Deux
 http://livetv.ktv.zone/2/play.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/44/NRJ12-Logo.png" group-title="GENERALISTE",NRJ 12
 http://livetv.ktv.zone/14/play.m3u8
@@ -118,16 +106,6 @@ http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png" group-title="GENERALISTE",Rouge TV
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/640px-Logo_RMC_Sport_1_2018.svg.png" group-title="GENERALISTE",RMC SPORT 1 HD
-http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/36642.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/2560px-Logo_RMC_Sport_2_2018.svg.png" group-title="GENERALISTE",RMC SPORT 2 HD
-http://obsfullhd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/93.ts
-
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="GENERALISTE",RMC SPORT 3 HD
-http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/1092.ts
-
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/generations-tv-regarder.png" group-title="MUSIC",Generation Tv
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 
@@ -137,14 +115,11 @@ https://edge.vedge.infomaniak.com/livecast/ik:lfmhd/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Play_TV_SVG.svg/1200px-Play_TV_SVG.svg.png" group-title="MUSIC",Play Tv
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/2560px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="INFO",Public Senat
 http://livetv.ktv.zone/15/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="INFO",LCI
 http://livetv.ktv.zone/28/play.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/BFM_TV.svg/1280px-BFM_TV.svg.png" group-title="INFO",BFM TV
 http://livetv.ktv.zone/17/play.m3u8
@@ -177,11 +152,8 @@ http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/47.ts
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-orange-png-6.png" group-title="Jeunesse",Nickelodeon
 https://ythls.onrender.com/channel/UCeGvSi1Tb8OV78ue3_tux1A.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/eb/Fun_Radio.png" group-title="MUSIC",Fun Radio
 https://livevideo.infomaniak.com/streaming/livecast/funradiovisionhd/playlist.m3u8
@@ -210,8 +182,27 @@ http://66.175.238.147:1935/live/myStream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="GENERALISTE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="GENERALISTE",L'Equipe
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe
 http://livetv.ktv.zone/23/play.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/640px-Logo_RMC_Sport_1_2018.svg.png" group-title="Sport",RMC SPORT 1 HD
+http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/92.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/2560px-Logo_RMC_Sport_2_2018.svg.png" group-title="sport",RMC SPORT 2 HD
+http://obsfullhd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/93.ts
+
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="Sport",RMC SPORT 3 HD
+http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/1092.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="Sport",BeinSports 1 HD
+http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/163.ts
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6594.1491352241.png" group-title="Sport",BeinSports 2 HD
+http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/164.ts
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="Sport",BeinSports 3 HD
+http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/165.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/vv/vosges-tv-fr.png" group-title="DOCUMENTAIRE",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
