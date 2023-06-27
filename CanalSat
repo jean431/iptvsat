@@ -126,7 +126,7 @@ http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/36642.ts
 http://obsfullhd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/93.ts
 
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="GENERALISTE",RMC SPORT 3 HD
-http://obsfullhd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/94.ts
+http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/1092.ts
 
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/generations-tv-regarder.png" group-title="MUSIC",Generation Tv
 https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
@@ -171,8 +171,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Jeunesse",GULLI
 http://livetv.ktv.zone/20/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://simg.nicepng.com/png/small/30-302051_dc-logo-dc-comics-logo-png.png" group-title="Jeunesse",DC Kids
-https://ythls.onrender.com/channel/UCuju5K7RVyqTZ0xVPbb3Zvg.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="Jeunesse",Mangas
+http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/47.ts
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-orange-png-6.png" group-title="Jeunesse",Nickelodeon
 https://ythls.onrender.com/channel/UCeGvSi1Tb8OV78ue3_tux1A.m3u8
