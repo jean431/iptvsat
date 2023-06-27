@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-tnt.xml,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv.xml"
+#EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-tnt.xml,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv.xml,http://obsfullhd.tv:25461/xmltv.php?username=Dominique&password=q6RhSRgBgG"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
@@ -119,14 +119,14 @@ http://livetv.ktv.zone/27/play.m3u8
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/640px-Logo_RMC_Sport_1_2018.svg.png" group-title="GENERALISTE",Rmc Sport 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/640px-Logo_RMC_Sport_1_2018.svg.png" group-title="GENERALISTE",RMC SPORT 1 HD
 http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/36642.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/2560px-Logo_RMC_Sport_2_2018.svg.png" group-title="GENERALISTE",Rmc Sport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/2560px-Logo_RMC_Sport_2_2018.svg.png" group-title="GENERALISTE",RMC SPORT 2 HD
 http://obsfullhd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/93.ts
 
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="GENERALISTE",Rmc Sport 3
+#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="GENERALISTE",RMC SPORT 3 HD
 http://obsfullhd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/94.ts
 
 #EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/generations-tv-regarder.png" group-title="MUSIC",Generation Tv
