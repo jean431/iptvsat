@@ -216,6 +216,10 @@ http://livetv.ktv.zone/26/play.m3u8
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.abystyle.com/img/c/m/17_S_One_Piece.jpg" group-title="DOCUMENTAIRE",RMC Découverte
+https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
+
+
 #EXTINF:-1 tvg-id="FRBA330005784" tvg-chno="4351" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="GENERALISTE",L'Atelier Des Chefs
 https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
 
