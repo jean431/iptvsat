@@ -43,6 +43,8 @@ https://d145ch2l71fhd5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/ff/Cin%C3%A9cin%C3%A9ma_Frisson.png" group-title="GENERALISTE",Cine Frisson
 http://xtratexxx.dimapro.xyz:8080/live/691167306101414/691167306101414/557.ts
 
+http://xtratexxx.dimapro.xyz:8080/live/691167306101414/691167306101414/557.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="GENERALISTE",Syfy
 http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/422.ts
 
@@ -244,6 +246,9 @@ https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/640px-CGTN_-_fran%C3%A7ais.png" group-title="GENERALISTE",CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/01/10/PlutoTV_Paranormal_Channel_1080x1080_Square2-qnhwyj56.png" group-title="GENERALISTE",Paranormal
+https://i.mjh.nz/PlutoTV/5f8ed9461b35690007a0bc3a-alt.m3u8
 
 #EXTINF:-1 tvg-id="RakutenTVActionMoviesFrance.fr" tvg-logo="" group-title="GENERALISTE",Rakuten TV Films Action 
 https://rakuten-actionmovies-7-fr.plex.wurl.tv/playlist.m3u8
