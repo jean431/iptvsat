@@ -47,7 +47,7 @@ http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/110767.ts
 http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/36604.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_T%C3%A9va_HD.svg/1200px-Logo_T%C3%A9va_HD.svg.png" group-title="GENERALISTE",Teva
-http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/110785.ts
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-bh7QDK-Y2gg/TlPkcwJvZ1I/AAAAAAAACAU/pMvMRPziT3I/s500/RTL9+logo+2011.png" group-title="GENERALISTE",RTL9
 http://player.smartvpluseu.com:8080/live/3143122720748133/2598854265/36610.ts
