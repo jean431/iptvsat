@@ -129,7 +129,7 @@ http://livetv.ktv.zone/36/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.francetvpub.fr/wp-content/uploads/2022/01/maisontravauxtv-300x150.png" group-title="DOCUMENTAIRE",Maison & Travaux TV
-http://callofliberty.fr/stream/MaisonEtTravauxTV/master.m3u8
+https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/B_SMART_logo.png/1200px-B_SMART_logo.png" group-title="INFO",BSmartTV
 http://callofliberty.fr/stream/BSMART/master.m3u8
@@ -143,11 +143,7 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Jeunesse",GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/96/Logo-mangaschaine2022.png" group-title="Jeunesse",Mangas
-http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/47.ts
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/nickelodeon-logo-orange-png-6.png" group-title="Jeunesse",Nickelodeon
-https://ythls.onrender.com/channel/UCeGvSi1Tb8OV78ue3_tux1A.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
@@ -172,38 +168,21 @@ https://video1.getstreamhosting.com:1936/8244/8244/playlist.m3u8
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5f74ccdbc0f12e77b7260653f992c4ee2e66e43ade3e53ecf0c97261b91fa6d3.png" group-title="GENERALISTE",Tele Haiti
-http://66.175.238.147:1935/live/myStream/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/57/KTO_Logo.png" group-title="GENERALISTE",KTO
 https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.congoview.net/congoviewsat/wp-content/uploads/christ-tv_logo.jpg" group-title="GENERALISTE",KTO
+#EXTINF:-1 tvg-logo="https://www.congoview.net/congoviewsat/wp-content/uploads/christ-tv_logo.jpg" group-title="GENERALISTE",Christ Live Tv
 https://voozmedia.fun/stream/christlive/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe
-http://livetv.ktv.zone/23/play.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/640px-Logo_RMC_Sport_1_2018.svg.png" group-title="Sport",RMC SPORT 1 HD
-http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/92.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/2560px-Logo_RMC_Sport_2_2018.svg.png" group-title="Sport",RMC SPORT 2 HD
-http://obsfullhd.tv:25461/live/Exchcyprusiptv/cDbcUX4ehD/93.ts
-
-#EXTINF:-1 tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/rmcsport32.png" group-title="Sport",RMC SPORT 3 HD
-http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/1092.ts
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="Sport",BeinSports 1 HD
-http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/163.ts
-
-#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6594.1491352241.png" group-title="Sport",BeinSports 2 HD
-http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/164.ts
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="Sport",BeinSports 3 HD
-http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/165.ts
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/vv/vosges-tv-fr.png" group-title="DOCUMENTAIRE",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
@@ -217,13 +196,9 @@ http://livetv.ktv.zone/26/play.m3u8
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9e/Toonami_%282020%29.png" group-title="Jeunesse",Toonami
-http://obsfullhd.tv:25461/live/Dominique/q6RhSRgBgG/125.ts
-
 
 #EXTINF:-1 tvg-logo="https://www.abystyle.com/img/c/m/17_S_One_Piece.jpg" group-title="Jeunesse",One Peace
 https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/81/FRBA330005784_20210811T022103.png" group-title="GENERALISTE",L'Atelier Des Chefs
 https://alchimie-ateliersdeschefs-rakuten.amagi.tv/playlist.m3u8
