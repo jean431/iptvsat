@@ -46,6 +46,9 @@ https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png/178px-Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="GENERALISTE",Gong
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_PARIS_PREMIERE.png/640px-Logo_PARIS_PREMIERE.png" group-title="GENERALISTE",Paris Premiere
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_T%C3%A9va_HD.svg/1200px-Logo_T%C3%A9va_HD.svg.png" group-title="GENERALISTE",Teva
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/teva.m3u8
 
