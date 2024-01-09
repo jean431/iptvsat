@@ -74,7 +74,7 @@ http://connectiktv.ddns.me:8080/live/61f1a681f3a0e-1/index.m3u8
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="MUSIC",M6 Music
-http://178.170.47.109/M6MUSIC/index.m3u8
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51138.ts
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-00s.png" group-title="MUSIC",MTV 00'S
 http://195.24.89.82/VH1_SD/index.m3u8
@@ -160,6 +160,42 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Jeunesse",GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 
+
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Sport",Canal+ Sport
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/39203.ts
+
+
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Sport",Canal+ Premier league
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/115017.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://tr.m.wikipedia.org/wiki/Dosya:Logo_bein_sports_1.png" group-title="Sport",Bein 1
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15204.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_beIN_SPORTS_2.png" group-title="Sport",Bein 2
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15203.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_beIN_SPORTS_3.png" group-title="Sport",Bein 3
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15202.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_RMC_Sport_1_2018.svg" group-title="Sport",Rmc 1
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9218.ts
+
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Sport",Rmc 2
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9501.ts
+
+
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Sport",Rmc 3
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/50978.ts
+
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Sport", Foot+
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/32819.ts
+
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="GENERALISTE",Canal+
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/32155.t
+
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Sport",+Sport 360
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/136372.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",TRACE URBAN Aus
