@@ -179,26 +179,6 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15204.ts
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15203.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_beIN_SPORTS_3.png" group-title="Sport",Bein 3
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15202.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Logo_RMC_Sport_1_2018.svg" group-title="Sport",Rmc 1
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9218.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.planetecsat.com/wp-content/uploads/2022/10/rmc2.png" group-title="Sport",Rmc 2
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9501.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Logo_RMC_Sport_3_2018.svg" group-title="Sport",Rmc 3
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/50978.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2BFoot.png" group-title="Sport",Foot+
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/32819.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2BSport_360.png" group-title="Sport",+Sport 360
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/136372.ts
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
