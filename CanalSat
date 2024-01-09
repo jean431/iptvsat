@@ -38,10 +38,10 @@ https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 #EXTINF:-1 tvg-logo="https://resize.programme-television.ladmedia.fr/img/var/premiere/storage/images/tele-7-jours/news-tv/la-rentree-d-arte-vive-le-bimedia-4013022/74018493-2-fre-FR/La-rentree-d-Arte-vive-le-bimedia.png" group-title="GENERALISTE",Arte
-http://livetv.ktv.zone/9/play.m3u8
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506632&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/canal-1-logo.png" group-title="GENERALISTE",Canal+
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/32155.ts
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506635&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="GENERALISTE",TF1
@@ -70,7 +70,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_T%C3%A9va_HD.svg/1200px-Logo_T%C3%A9va_HD.svg.png" group-title="GENERALISTE",Teva
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506573&extension=ts
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507407&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/111/900/png-transparent-plex-brand-logo-subscription-gratis-gym-outdoor-poster-angle-text-logo.png" group-title="GENERALISTE",Plex Tv
