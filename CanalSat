@@ -38,30 +38,30 @@ https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
 
 #EXTINF:-1 tvg-logo="https://resize.programme-television.ladmedia.fr/img/var/premiere/storage/images/tele-7-jours/news-tv/la-rentree-d-arte-vive-le-bimedia-4013022/74018493-2-fre-FR/La-rentree-d-Arte-vive-le-bimedia.png" group-title="GENERALISTE",Arte
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506632&extension=ts
+http://livetv.ktv.zone/9/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/canal-1-logo.png" group-title="GENERALISTE",Canal+
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506635&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="GENERALISTE",TF1
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506638&extension=ts
+http://livetv.ktv.zone/3/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://m.webmaster-gratuit.com/pict/direct-tf1films.png" group-title="GENERALISTE",TF1 Séries Films
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506620&extension=ts
+http://livetv.ktv.zone/22/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/France_2_logo.png" group-title="GENERALISTE",France 2
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506637&extension=ts
+http://livetv.ktv.zone/4/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France_3_logo.png" group-title="GENERALISTE",France 3
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506636&extension=ts
+http://livetv.ktv.zone/5/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/France_4_logo_2011.png" group-title="GENERALISTE",France 4
 http://livetv.ktv.zone/16/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/France_5_logo_antenne_%282008%29.png" group-title="GENERALISTE",France 5
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506624&extension=ts
+http://livetv.ktv.zone/7/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png/178px-Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="GENERALISTE",Gong
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
@@ -86,22 +86,22 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51138.ts
 http://195.24.89.82/VH1_SD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_C8_2016.svg/2560px-Logo_C8_2016.svg.png" group-title="GENERALISTE",C8
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506630&extension=ts
+http://livetv.ktv.zone/10/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/6ter.png" group-title="GENERALISTE",6Ter
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506618&extension=ts
+http://livetv.ktv.zone/24/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2b/W9_2012.png" group-title="GENERALISTE",W9
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506629&extension=ts
+http://livetv.ktv.zone/11/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.logotypes101.com/logos/431/AF4C569E80271706BD68A7E1B83216F8/tfx.png" group-title="GENERALISTE",TFX
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506627&extension=ts
+http://livetv.ktv.zone/13/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/2560px-TMC_logo.svg.png" group-title="GENERALISTE",TMC
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506628&extension=ts
+http://livetv.ktv.zone/12/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg/1024px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo.svg.png" group-title="GENERALISTE",Télé-Quebec
@@ -117,7 +117,7 @@ http://livetv.ktv.zone/2/play.m3u8
 http://livetv.ktv.zone/14/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_projet_CStar.svg/2560px-Logo_projet_CStar.svg.png" group-title="GENERALISTE",CSTAR
-http://callofliberty.fr/stream/CSTAR/master.m3u8
+http://livetv.ktv.zone/19/play.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Logo_Ch%C3%A9rie_25.svg/1280px-Logo_Ch%C3%A9rie_25.svg.png" group-title="GENERALISTE",Chérie 25
