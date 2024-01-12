@@ -73,7 +73,7 @@ https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507407&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="GENERALISTE",Rtl9
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9374.ts
+http://82.115.12.136:8080/live/play/YUUxd0swNW1WbGxNTldkVVNUZGpZVFpQYWs4M2NVNUpTWEJWTlVOSkswd3paMnBKTkhScVoyZGpRVDA9/508348
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/111/900/png-transparent-plex-brand-logo-subscription-gratis-gym-outdoor-poster-angle-text-logo.png" group-title="GENERALISTE",Plex Tv
 http://connectiktv.ddns.me:8080/live/61f1a681f3a0e-1/index.m3u8
