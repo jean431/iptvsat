@@ -72,6 +72,8 @@ https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_T%C3%A9va_HD.svg/1200px-Logo_T%C3%A9va_HD.svg.png" group-title="GENERALISTE",Teva
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507407&extension=ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="GENERALISTE",Rtl9
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9374.ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/111/900/png-transparent-plex-brand-logo-subscription-gratis-gym-outdoor-poster-angle-text-logo.png" group-title="GENERALISTE",Plex Tv
 http://connectiktv.ddns.me:8080/live/61f1a681f3a0e-1/index.m3u8
@@ -81,6 +83,11 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/3b/M6_Music_2018.png" group-title="MUSIC",M6 Music
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51138.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/1200px-Warner_TV_logo.svg.png" group-title="GENERALISTE",Warner TV
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9268.ts
+
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-00s.png" group-title="MUSIC",MTV 00'S
 http://195.24.89.82/VH1_SD/index.m3u8
@@ -138,6 +145,9 @@ http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_Public_S%C3%A9nat_%282019%29.svg/2560px-Logo_Public_S%C3%A9nat_%282019%29.svg.png" group-title="INFO",Public Senat
 http://livetv.ktv.zone/15/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:France24.png19%29.svg.png" group-title="INFO",Public Senat
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9197.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b4/LCI_logo_%282016%29.png" group-title="INFO",LCI
 http://livetv.ktv.zone/28/play.m3u8
 
@@ -178,11 +188,11 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/115017.ts
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9340.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Sport",BeinSport 2
-http://stream.tvmob.live:8081/live/fr-beinsport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDQ6MDA6NDQgUE0maGFzaF92YWx1ZT0rS002V0FNUlUrcHE5ejBvbWJzTWN3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3MDQ5ODg4NDQyNzU=
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/15203.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sport",BeinSport 3
-http://stream.tvmob.live:8081/live/fr-beinsport3.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDQ6MDE6MjIgUE0maGFzaF92YWx1ZT1zQkZZcXo1OUpPNGlGRnYzZDIrNG53PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3MDQ5ODg4ODIxNjg=
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/R/rmc-sport-1-uhd-logo-A168DFC14E-seeklogo.com.png" group-title="Sport",Rmc 1
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9218.tsT1zQkZZcXo1OUpPNGlGRnYzZDIrNG53PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3MDQ5ODg4ODIxNjg=
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png" group-title="MUSIC",TRACE URBAN Aus
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
