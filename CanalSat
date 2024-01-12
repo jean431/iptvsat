@@ -85,9 +85,6 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c159
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/51138.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warner_TV_logo.svg/1200px-Warner_TV_logo.svg.png" group-title="GENERALISTE",Warner TV
-http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9268.ts
-
 
 #EXTINF:-1 tvg-logo="https://www.itizaps.net/zapper/logo/b/mtv-00s.png" group-title="MUSIC",MTV 00'S
 http://195.24.89.82/VH1_SD/index.m3u8
