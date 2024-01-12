@@ -175,7 +175,7 @@ http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/39203.ts
 http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/115017.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sport",BeinSport 1
-http://stream.tvmob.live:8081/live/fr-beinsport1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDM6NTg6NDMgUE0maGFzaF92YWx1ZT1ONVhISkhmd1VnamNVRlN6TXpaWHlBPT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3MDQ5ODg3MjMyMjA=
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/9340.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Sport",BeinSport 2
 http://stream.tvmob.live:8081/live/fr-beinsport2.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDQ6MDA6NDQgUE0maGFzaF92YWx1ZT0rS002V0FNUlUrcHE5ejBvbWJzTWN3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTE3MDQ5ODg4NDQyNzU=
