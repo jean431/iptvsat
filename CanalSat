@@ -73,6 +73,10 @@ https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507407&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="GENERALISTE",Rtl9
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507405&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/1280px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="GENERALISTE",Chasse & Peche
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507512&extension=ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/111/900/png-transparent-plex-brand-logo-subscription-gratis-gym-outdoor-poster-angle-text-logo.png" group-title="GENERALISTE",Plex Tv
