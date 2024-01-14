@@ -215,7 +215,23 @@ https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="Sport",BeinSport 1
+https://www.kool.to/play/3276315396/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Sport",BeinSport 2
+https://www.kool.to/play/1779059572/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_RMC_Sport_1_UHD_2018.svg/2560px-Logo_RMC_Sport_1_UHD_2018.svg.png" group-title="Sport",Rmc 1
+https://www.kool.to/play/304213723/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rmc-sport-2-logo-532F9F6806-seeklogo.com.png" group-title="Sport",Rmc 2
+https://www.kool.to/play/2805539700/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sport",Foot+
+https://www.kool.to/play/3896894274/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Sport",Premier League
+https://www.kool.to/play/3968052032/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/vv/vosges-tv-fr.png" group-title="DOCUMENTAIRE",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
@@ -228,7 +244,6 @@ http://livetv.ktv.zone/26/play.m3u8
 
 #EXTINF:-1 tvg-id="FRBA2200007G7" tvg-chno="4271" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/12/FRBA2200007G7_20210414T024633.png" group-title="Jeunesse",ADN
 https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.abystyle.com/img/c/m/17_S_One_Piece.jpg" group-title="Jeunesse",One Peace
 https://i.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
