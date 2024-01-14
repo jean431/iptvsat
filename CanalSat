@@ -77,7 +77,7 @@ http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507405&
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Chasse_%26_P%C3%AAche_%282013%29.svg/1280px-Chasse_%26_P%C3%AAche_%282013%29.svg.png" group-title="GENERALISTE",Chasse & Peche
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507512&extension=ts
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507323&extension=ts
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/111/900/png-transparent-plex-brand-logo-subscription-gratis-gym-outdoor-poster-angle-text-logo.png" group-title="GENERALISTE",Plex Tv
 http://connectiktv.ddns.me:8080/live/61f1a681f3a0e-1/index.m3u8
