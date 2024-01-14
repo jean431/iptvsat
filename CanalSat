@@ -222,16 +222,31 @@ https://www.kool.to/play/3276315396/index.m3u8
 https://www.kool.to/play/1779059572/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_RMC_Sport_1_UHD_2018.svg/2560px-Logo_RMC_Sport_1_UHD_2018.svg.png" group-title="Sport",Rmc 1
-https://www.kool.to/play/304213723/index.m3u8
+https://www.kool.to/play/3569497491/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rmc-sport-2-logo-532F9F6806-seeklogo.com.png" group-title="Sport",Rmc 2
-https://www.kool.to/play/2805539700/index.m3u8
+https://www.kool.to/play/3252825390/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sport",Foot+
 https://www.kool.to/play/3896894274/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Sport",Premier League
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Sport",Canal+ Premier League
 https://www.kool.to/play/3968052032/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Canal+ Sport HD
+https://www.kool.to/play/2255978217/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="Sport",Canal+ Sport 2
+https://www.kool.to/play/2510731168/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Canal%2B_Sport_%282006-2009%29.svg/800px-Canal%2B_Sport_%282006-2009%29.svg.png" group-title="Sport",Canal+ Sport 360
+https://www.kool.to/play/3980332539/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/vv/vosges-tv-fr.png" group-title="DOCUMENTAIRE",Vosges TV
 https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
