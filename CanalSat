@@ -63,13 +63,13 @@ http://livetv.ktv.zone/16/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/France_5_logo_antenne_%282008%29.png" group-title="GENERALISTE",France 5
 http://livetv.ktv.zone/7/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png/178px-Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="GENERALISTE",Gong.fr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png/178px-Gong_%28cha%C3%AEne_de_t%C3%A9l%C3%A9vision%29_Logo.png" group-title="GENERALISTE",Gong
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_PARIS_PREMIERE.png/640px-Logo_PARIS_PREMIERE.png" group-title="GENERALISTE",ParisPremiere.fr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_PARIS_PREMIERE.png/640px-Logo_PARIS_PREMIERE.png" group-title="GENERALISTE",ParisPremiere
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_T%C3%A9va_HD.svg/1200px-Logo_T%C3%A9va_HD.svg.png" group-title="GENERALISTE",Teva.fr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_T%C3%A9va_HD.svg/1200px-Logo_T%C3%A9va_HD.svg.png" group-title="GENERALISTE",Teva
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507407&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="GENERALISTE",Rtl9
@@ -215,17 +215,17 @@ https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="Sport",beINSPORTS1.fr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="Sport",beINSPORTS1
 https://www.kool.to/play/3276315396/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Sport",beINSPORTS2.fr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Sport",beINSPORTS2
 https://www.kool.to/play/1779059572/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_RMC_Sport_1_UHD_2018.svg/2560px-Logo_RMC_Sport_1_UHD_2018.svg.png" group-title="Sport",RMCSport1.fr
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_RMC_Sport_1_UHD_2018.svg/2560px-Logo_RMC_Sport_1_UHD_2018.svg.png" group-title="Sport",RMCSport1
 https://www.kool.to/play/3569497491/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rmc-sport-2-logo-532F9F6806-seeklogo.com.png" group-title="Sport",RMCSport2.fr
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rmc-sport-2-logo-532F9F6806-seeklogo.com.png" group-title="Sport",RMCSport2
 https://www.kool.to/play/3252825390/index.m3u8
 
 
