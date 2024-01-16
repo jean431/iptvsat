@@ -70,7 +70,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01596-gongnetworks-gong-samsungfr/p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_PARIS_PREMIERE.png/640px-Logo_PARIS_PREMIERE.png" group-title="GENERALISTE",Paris Première
 https://raw.githubusercontent.com/Sphinxroot/HSL/main/PP.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_T%C3%A9va_HD.svg/1200px-Logo_T%C3%A9va_HD.svg.png" group-title="GENERALISTE",Teva
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Logo_T%C3%A9va_HD.svg/1200px-Logo_T%C3%A9va_HD.svg.png" group-title="GENERALISTE",Téva
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507407&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/9/9a/RTL9logo.png" group-title="GENERALISTE",Rtl9
@@ -159,7 +159,7 @@ http://livetv.ktv.zone/17/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/CGTN_Africa.svg/1200px-CGTN_Africa.svg.png" group-title="INFO",CGTN
 http://livetv.ktv.zone/35/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTAIRE",CGTN Documentary
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="DOCUMENTAIRE",CGTN-Documentary
 http://livetv.ktv.zone/36/play.m3u8
 
 
@@ -230,7 +230,7 @@ https://www.kool.to/play/3569497491/index.m3u8
 https://www.kool.to/play/3252825390/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sport",Foot+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sport",Canal+ Foot
 https://www.kool.to/play/3896894274/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Sport",Canal+ Premier League
