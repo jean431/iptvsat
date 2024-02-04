@@ -41,7 +41,7 @@ https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3
 http://livetv.ktv.zone/9/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/canal-1-logo.png" group-title="GENERALISTE",Canal+
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=506624&extension=ts
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507624&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="GENERALISTE",TF1
