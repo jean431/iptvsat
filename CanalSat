@@ -43,6 +43,8 @@ http://livetv.ktv.zone/9/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/canal-1-logo.png" group-title="GENERALISTE",Canal+
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:6B:06:77&stream=507624&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumb.canalplus.pro/http/unsafe/epg.canal-plus.com/mycanal/img/CHN43FN/PNG/213X160/CHN43FB_504.PNG" group-title="GENERALISTE",Action
+http://ar116.ab-cdn.com/live/125/index.m3u8?t=46DeAh5gjAqRx3s_yfFsow&e=1708214402
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/TF1_logo_2013.png" group-title="GENERALISTE",TF1
 http://livetv.ktv.zone/3/play.m3u8
@@ -174,6 +176,10 @@ http://livetv.ktv.zone/18/play.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Logo_TiJi_%282019%29.png/640px-Logo_TiJi_%282019%29.png" group-title="Jeunesse",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/874/784/png-transparent-logo-mangas-television-channel-tv-logos-television-text-manga.png" group-title="Jeunesse",Mangas
+http://ar116.ab-cdn.com/live/130/index.m3u8?t=ZbV-D25nviT-tEBVj3D7_w&e=1708214127
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Logo-Gulli.svg/1200px-Logo-Gulli.svg.png" group-title="Jeunesse",GULLI
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 
@@ -215,37 +221,25 @@ https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/L%27Equipe_logo.png" group-title="Sport",L'Equipe live 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/640px-Logo_bein_sports_1.png" group-title="Sport",beIN SPORTS 1
-https://www.kool.to/play/3276315396/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo_beIN_SPORTS_2.png" group-title="Sport",beIN SPORTS 2
-https://www.kool.to/play/1779059572/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_RMC_Sport_1_UHD_2018.svg/2560px-Logo_RMC_Sport_1_UHD_2018.svg.png" group-title="Sport",RMC Sport 1
 http://ar116.ab-cdn.com/live/137000/index.m3u8?t=iAX-ZUgp_rozboeVeCdDmg&e=1708212988
 
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/rmc-sport-2-logo-532F9F6806-seeklogo.com.png" group-title="Sport",RMC Sport 2
-https://www.kool.to/play/3252825390/index.m3u8
+http://ar116.ab-cdn.com/live/138/index.m3u8?t=JW9zvmpus6iLRLcIdmFBhQ&e=1708213943 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Canal%2BFoot.png" group-title="Sport",Canal+ Foot
-https://www.kool.to/play/3896894274/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e0/C%2BPremier_League.png" group-title="Sport",Canal+ Premier League
-https://www.kool.to/play/3968052032/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://fr.m.wikipedia.org/wiki/Fichier:Canal%2B_Sport_HD_Logo_2013.png" group-title="Sport",Canal+ Sport 1
-https://www.kool.to/play/2255978217/index.m3u8
+http://ar116.ab-cdn.com/live/117/index.m3u8?t=YN_5WvNosGwTTwkd0iLcUg&e=1708214045
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Canal%2B_Sport_Logo_2013.png" group-title="Sport",Canal+ Sport 2
-https://www.kool.to/play/2510731168/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/f0/Canal%2B_Sport_%282006-2009%29.svg/800px-Canal%2B_Sport_%282006-2009%29.svg.png" group-title="Sport",Canal+ Sport 360
-https://www.kool.to/play/3980332539/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-stream.com/logo/tv/vv/vosges-tv-fr.png" group-title="DOCUMENTAIRE",Vosges TV
